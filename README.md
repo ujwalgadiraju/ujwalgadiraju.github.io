@@ -15,7 +15,8 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 # News
 
  - \[09.04.2020\] Paper titled "Estimating Conversational Styles in Conversational Microtask Crowdsourcing" with Sihang Qiu and Alessandro Bozzon has been accepted to ACM [CSCW 2020](https://cscw.acm.org/2020/).
- - \[01.04.2020\]  Ujwal joined the WIS group at TU Delft as an Assitant Professor.
+ - \[01.04.2020\] Ujwal joined the WIS group at TU Delft as an Assitant Professor.
+ 
 ---
 
 # Selected Publications
