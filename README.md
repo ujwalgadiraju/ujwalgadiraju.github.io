@@ -27,12 +27,17 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 ## 2020
 
-- \[[*ACM CSCW 2020*](https://cscw.acm.org/2020/)\] **Estimating Conversational Styles in Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]]()
+- \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **Estimating Conversational Styles in Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]]()
 
 - \[[*ICWE 2020*](https://icwe2020.webengineering.org)\] 	**Just the Right Mood for HIT! Analyzing the Role of Worker Moods in Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *Proceedings of the International Conference on Web Engineering (ICWE 2020)*. [\[PDF\]]()
 
 - \[*Sensors 2020*\] 	**Crowd of Oz: A Crowd-Powered Social Robotics System for Stress Management**. Tahir Abbas, Vassilis-Javed Khan, Ujwal Gadiraju, Emilia I. Barakova, Panos Markopoulos. *In Proceedings of the MDPI Journal (Sensors 2020)*. [\[PDF\]](https://www.mdpi.com/1424-8220/20/2/569)
 
-- \[[*CHI 2020*](http://chi2020.acm.org/)\] 	**Improving Worker Engagement Through Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *Proceedings of the International Conference on Human Factors in Computing Systems (CHI 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CHI2020.pdf)
+- \[[*CHI 2020*](http://chi2020.acm.org/)\] 	**Improving Worker Engagement Through Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CHI2020.pdf)
 
-- \[[*HRI 2020*]()\] 	**How do People Perceive Privacy and Interaction Quality while Chatting with a Crowd-operated Robot?**. Tahir Abbas, Giovanni Corpaccioli, Vassilis-Javed Khan, Ujwal Gadiraju, Emilia Barakova, Panos Markopoulos. *Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2020)*. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3371382.3378332)
+- \[[*HRI 2020*]()\] 	**How do People Perceive Privacy and Interaction Quality while Chatting with a Crowd-operated Robot?**. Tahir Abbas, Giovanni Corpaccioli, Vassilis-Javed Khan, Ujwal Gadiraju, Emilia Barakova, Panos Markopoulos. *In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2020)*. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3371382.3378332)
+
+- \[[*HRI 2020*]()\] 	**Crowd of Oz: A Crowd-powered Teleoperation System for Enhanced Human-Robot Conversations**. Tahir Abbas, Vassilis-Javed Khan, Ujwal Gadiraju, Emilia Barakova, Panos Markopoulos. *In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2020)*. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3371382.3378335)
+
+- \[[*WSDM 2020*]()\] 	**Crowd Worker Strategies in Relevance Judgment Tasks**. Lei Han, Eddy Maddalena, Alessandro Checco, Cristina Sarasua, Ujwal Gadiraju, Kevin Roitero, Gianluca Demartini. *In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/WSDM2020.pdf)
+
