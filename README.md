@@ -48,4 +48,8 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 - \[[*TKDE 2019*]()\] 	**The Impact of Task Abandonment in Crowdsourcing**. Lei Han, Kevin Roitero, Ujwal Gadiraju, Cristina Sarasua, Alessandro Checco, Eddy Maddalena, Gianluca Demartini. *IEEE Transactions on Knowledge and Data Engineering (TKDE 2019)*. [\[PDF\]](https://ieeexplore.ieee.org/document/8873609)
 
+- \[[*CSCW 2019*](https://cscw.acm.org/2019/)\] **Dissonance Between Human and Machine Understanding**. Zijian Zhang, Jaspreet Singh, Ujwal Gadiraju, Avishek Anand. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CSCW2019.pdf)
 
+- \[[*HT 2019*](https://human.iisys.de/ht2019/)\] **Understanding Worker Moods and Reactions to Rejection in Crowdsourcing**. Ujwal Gadiraju, Gianluca Demartini. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HT2019a.pdf) 
+
+- \[[*HT 2019*](https://human.iisys.de/ht2019/)\] **Understanding User Search Behavior Across Varying Cognitive Levels**. Rishita Kalyani, Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HT2019b.pdf) 
