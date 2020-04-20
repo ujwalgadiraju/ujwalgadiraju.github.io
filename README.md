@@ -57,4 +57,10 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 - \[[*SIGIR 2019*](https://sigir.org/sigir2019/)\] **Revealing the Role of User Moods in Struggling Search Tasks**. Luyan Xu, Xuan Zhou, Ujwal Gadiraju. *In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/SIGIR2019.pdf)
 
-- \[[*WebScience 2019*](https://sigir.org/sigir2019/)\] **In What Mood Are You Today? An Analysis of Crowd Workers' Mood, Performance and Engagement**. Mengdie Zhuang, Ujwal Gadiraju. *In Proceedings of the ACM Conference on Web Science (WebSci 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/WebSci19_Mood.pdf)
+- \[[*WebScience 2019*]()\] **In What Mood Are You Today? An Analysis of Crowd Workers' Mood, Performance and Engagement**. Mengdie Zhuang, Ujwal Gadiraju. *In Proceedings of the ACM Conference on Web Science (WebSci 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/WebSci19_Mood.pdf)
+
+- \[[*UMAP 2019*](http://www.cyprusconferences.org/umap2019/)\] **Chatterbox: Conversational Interfaces for Microtask Crowdsourcing**. Panagiotis Mavridis, Owen Huang, Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/Chatterbox_UMAP2019.pdf)
+
+- \[[*CHI 2019*](http://chi2019.acm.org/)\] 	**Understanding and Mitigating Worker Biases in the Crowdsourced Collection of Subjective Judgments**. Christoph Hube, Besnik Fetahu, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CHI2019.pdf)
+
+
