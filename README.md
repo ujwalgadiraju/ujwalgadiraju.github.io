@@ -41,3 +41,11 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 - \[[*WSDM 2020*]()\] 	**Crowd Worker Strategies in Relevance Judgment Tasks**. Lei Han, Eddy Maddalena, Alessandro Checco, Cristina Sarasua, Ujwal Gadiraju, Kevin Roitero, Gianluca Demartini. *In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/WSDM2020.pdf)
 
+- \[[*WIDM 2020*]()\] 	**Bias in Data-driven AI Systems - An Introductory Survey**. Eirini Ntoutsi, Pavlos Fafalios, Ujwal Gadiraju, Vasileios Iosifidis, Wolfgang Nejdl, Maria-Esther Vidal, Salvatore Ruggieri, Franco Turini, Symeon Papadopoulos, Emmanouil Krasanakis, Ioannis Kompatsiaris, Katharina Kinder-Kurlanda, Claudia Wagner, Fariba Karimi, Miriam Fernández, Harith Alani, Bettina Berendt, Tina Kruegel, Christian Heinze, Klaus Broelemann, Gjergji Kasneci, Thanassis Tiropanis, Steffen Staab. *In WIREs Data Mining and Knowledge Discovery (WIDM 2020)*. [\[PDF\]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1356)
+
+## 2019
+
+
+- \[[*TKDE 2019*]()\] 	**The Impact of Task Abandonment in Crowdsourcing**. Lei Han, Kevin Roitero, Ujwal Gadiraju, Cristina Sarasua, Alessandro Checco, Eddy Maddalena, Gianluca Demartini. *IEEE Transactions on Knowledge and Data Engineering (TKDE 2019)*. [\[PDF\]](https://ieeexplore.ieee.org/document/8873609)
+
+
