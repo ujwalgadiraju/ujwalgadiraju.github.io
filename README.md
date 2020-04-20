@@ -53,4 +53,6 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 - \[[*HT 2019*](https://human.iisys.de/ht2019/)\] **Understanding Worker Moods and Reactions to Rejection in Crowdsourcing**. Ujwal Gadiraju, Gianluca Demartini. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HT2019a.pdf) 
 
-- \[[*HT 2019*](https://human.iisys.de/ht2019/)\] **Understanding User Search Behavior Across Varying Cognitive Levels**. Rishita Kalyani, Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HT2019b.pdf) 
+- \[[*HT 2019*](https://human.iisys.de/ht2019/)\] **Understanding User Search Behavior Across Varying Cognitive Levels**. Rishita Kalyani, Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HT2019b.pdf)
+
+- \[[*SIGIR 2019*](https://sigir.org/sigir2019/)\] **Revealing the Role of User Moods in Struggling Search Tasks**. Luyan Xu, Xuan Zhou, Ujwal Gadiraju. *In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/SIGIR2019.pdf)
