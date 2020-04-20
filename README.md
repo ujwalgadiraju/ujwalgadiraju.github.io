@@ -63,4 +63,6 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 - \[[*CHI 2019*](http://chi2019.acm.org/)\] 	**Understanding and Mitigating Worker Biases in the Crowdsourced Collection of Subjective Judgments**. Christoph Hube, Besnik Fetahu, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CHI2019.pdf)
 
+- \[[*WSDM 2019*](http://www.wsdm-conference.org/2019/)\] 	**All Those Wasted Hours: On Task Abandonment in Crowdsourcing**. Lei Han, Kevin Roitero, Ujwal Gadiraju, Cristina Sarasua, Alessandro Checco, Eddy Maddalena, and Gianluca Demartini. *In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM 2019)*. [\[PDF\]](http://l3s.de/~gadiraju/WSDM2019.pdf)
+
 
