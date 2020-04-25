@@ -70,5 +70,5 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 - \[[*WSDM 2019*](http://www.wsdm-conference.org/2019/)\] 	**All Those Wasted Hours: On Task Abandonment in Crowdsourcing**. Lei Han, Kevin Roitero, Ujwal Gadiraju, Cristina Sarasua, Alessandro Checco, Eddy Maddalena, and Gianluca Demartini. *In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM 2019)*. [\[PDF\]](http://l3s.de/~gadiraju/WSDM2019.pdf)
 
 - \[[*SWJ 2019*](http://chi2019.acm.org/)\] 	**KnowMore - Knowledge Base Augmentation With Structured Web Markup**. Ran Yu, Ujwal Gadiraju, Besnik Fetahu, Oliver Lehmberg, and Stefan Dietze. *In Proceedings of the Semantic Web Journal (SWJ 2019)*. [\[PDF\]](http://www.semantic-web-journal.net/system/files/swj1773.pdf)
-
 </details>
+
