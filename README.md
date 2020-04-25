@@ -27,7 +27,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 # Selected Publications
 
 ## 2020
- 
+
 <details><summary> See list </summary>
 <p>
 - \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **Estimating Conversational Styles in Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CSCW2020.pdf)
