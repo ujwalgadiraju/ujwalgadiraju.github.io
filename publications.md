@@ -15,6 +15,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Z7IhCfiTec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - \[[*HRI 2020*]()\] 	**Crowd of Oz: A Crowd-powered Teleoperation System for Enhanced Human-Robot Conversations**. Tahir Abbas, Vassilis-Javed Khan, Ujwal Gadiraju, Emilia Barakova, Panos Markopoulos. *In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2020)*. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3371382.3378335)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4oWaIOU-i8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - \[[*WSDM 2020*]()\] 	**Crowd Worker Strategies in Relevance Judgment Tasks**. Lei Han, Eddy Maddalena, Alessandro Checco, Cristina Sarasua, Ujwal Gadiraju, Kevin Roitero, Gianluca Demartini. *In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/WSDM2020.pdf)
 
