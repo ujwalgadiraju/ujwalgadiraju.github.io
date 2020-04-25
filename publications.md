@@ -9,7 +9,7 @@
 - \[*Sensors 2020*\] 	**Crowd of Oz: A Crowd-Powered Social Robotics System for Stress Management**. Tahir Abbas, Vassilis-Javed Khan, Ujwal Gadiraju, Emilia I. Barakova, Panos Markopoulos. *In Proceedings of the MDPI Journal (Sensors 2020)*. [\[PDF\]](https://www.mdpi.com/1424-8220/20/2/569)
 
 - \[[*CHI 2020*](http://chi2020.acm.org/)\] 	**Improving Worker Engagement Through Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CHI2020.pdf)
-<video src="CHI2020.mp4#t=5" width="320" height="200" controls preload>Watch Video</video>
+<video src="CHI2020.mp4#t=5" width="560" height="315" controls preload>Watch Video</video>
 
 - \[[*HRI 2020*]()\] 	**How do People Perceive Privacy and Interaction Quality while Chatting with a Crowd-operated Robot?**. Tahir Abbas, Giovanni Corpaccioli, Vassilis-Javed Khan, Ujwal Gadiraju, Emilia Barakova, Panos Markopoulos. *In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2020)*. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3371382.3378332)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Z7IhCfiTec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
