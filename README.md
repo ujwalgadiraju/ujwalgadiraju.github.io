@@ -26,7 +26,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 # Selected Publications
 
- ## 2020
+## 2020
  
 <details><summary> See list </summary>
 
