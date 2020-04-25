@@ -29,7 +29,6 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 ## 2020
 
 <details><summary> See list </summary>
-<p>
  
 - \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **Estimating Conversational Styles in Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CSCW2020.pdf)
 
@@ -46,7 +45,6 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 - \[[*WSDM 2020*]()\] 	**Crowd Worker Strategies in Relevance Judgment Tasks**. Lei Han, Eddy Maddalena, Alessandro Checco, Cristina Sarasua, Ujwal Gadiraju, Kevin Roitero, Gianluca Demartini. *In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/WSDM2020.pdf)
 
 - \[[*WIDM 2020*]()\] 	**Bias in Data-driven AI Systems - An Introductory Survey**. Eirini Ntoutsi, Pavlos Fafalios, Ujwal Gadiraju, Vasileios Iosifidis, Wolfgang Nejdl, Maria-Esther Vidal, Salvatore Ruggieri, Franco Turini, Symeon Papadopoulos, Emmanouil Krasanakis, Ioannis Kompatsiaris, Katharina Kinder-Kurlanda, Claudia Wagner, Fariba Karimi, Miriam Fernández, Harith Alani, Bettina Berendt, Tina Kruegel, Christian Heinze, Klaus Broelemann, Gjergji Kasneci, Thanassis Tiropanis, Steffen Staab. *In WIREs Data Mining and Knowledge Discovery (WIDM 2020)*. [\[PDF\]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1356)
-</p>
 </details>
 
 ## 2019
