@@ -12,6 +12,7 @@
 <video src="CHI2020.mp4#t=5" width="320" height="200" controls preload>Watch Video</video>
 
 - \[[*HRI 2020*]()\] 	**How do People Perceive Privacy and Interaction Quality while Chatting with a Crowd-operated Robot?**. Tahir Abbas, Giovanni Corpaccioli, Vassilis-Javed Khan, Ujwal Gadiraju, Emilia Barakova, Panos Markopoulos. *In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2020)*. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3371382.3378332)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Z7IhCfiTec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - \[[*HRI 2020*]()\] 	**Crowd of Oz: A Crowd-powered Teleoperation System for Enhanced Human-Robot Conversations**. Tahir Abbas, Vassilis-Javed Khan, Ujwal Gadiraju, Emilia Barakova, Panos Markopoulos. *In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2020)*. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3371382.3378335)
 
