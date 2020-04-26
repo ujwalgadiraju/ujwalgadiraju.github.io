@@ -21,6 +21,6 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
  - \[20.04.2020\] Course on Crowd Computing ([CS4145](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51132)) with [Alessandro](https://www.alessandrobozzon.com) and [Nava](http://www.navatintarev.com) begins!
  - \[09.04.2020\] Paper titled "Estimating Conversational Styles in Conversational Microtask Crowdsourcing" with Sihang Qiu and Alessandro Bozzon has been accepted to ACM [CSCW 2020](https://cscw.acm.org/2020/).
  - \[01.04.2020\] Ujwal joined the [WIS group](http://wis.ewi.tudelft.nl/) at TU Delft as an Assitant Professor.
- - \[01.01.2020\] Ujwal is serving as the Program Chair for the [ACM Conference on Hypertext and Social Media](https://ht.acm.org/ht2020/) (HT 2020), and the Publicity Co-chair for the [ACM International Conference on Information and Knowlefge Management](https://cikm2020.org) (CIKM 2020).
+ - \[01.01.2020\] Ujwal is serving as the Program Chair for the [ACM Conference on Hypertext and Social Media](https://ht.acm.org/ht2020/) (HT 2020), and the Publicity Co-chair for the [ACM International Conference on Information and Knowledge Management](https://cikm2020.org) (CIKM 2020).
 
  
