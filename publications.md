@@ -38,7 +38,7 @@
 
 - \[[*UMAP 2019*](http://www.cyprusconferences.org/umap2019/)\] **Chatterbox: Conversational Interfaces for Microtask Crowdsourcing**. Panagiotis Mavridis, Owen Huang, Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/Chatterbox_UMAP2019.pdf)
 
-- \[[*CHI 2019*](http://chi2019.acm.org/)\] 	**Understanding and Mitigating Worker Biases in the Crowdsourced Collection of Subjective Judgments**. Christoph Hube, Besnik Fetahu, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CHI2019.pdf)
+- \[[*CHI 2019*](http://chi2019.acm.org/)\] 	**Understanding and Mitigating Worker Biases in the Crowdsourced Collection of Subjective Judgments**. Christoph Hube, Besnik Fetahu, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CHI2019.pdf) [\[Blog\]](https://medium.com/acm-chi/nipping-it-in-the-bud-mitigating-opinion-biases-in-the-crowdsourced-collection-of-subjective-72af815297d7)
 
 - \[[*WSDM 2019*](http://www.wsdm-conference.org/2019/)\] 	**All Those Wasted Hours: On Task Abandonment in Crowdsourcing**. Lei Han, Kevin Roitero, Ujwal Gadiraju, Cristina Sarasua, Alessandro Checco, Eddy Maddalena, and Gianluca Demartini. *In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM 2019)*. [\[PDF\]](http://l3s.de/~gadiraju/WSDM2019.pdf)
 
