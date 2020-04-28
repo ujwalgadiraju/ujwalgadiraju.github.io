@@ -52,6 +52,10 @@
 
 - \[[*HCOMP 2018*](http://)\] **LimitBias! Measuring Worker Biases in the Crowdsourced Collection of Subjective Judgments**. Christoph Hube, Besnik Fetahu, and Ujwal Gadiraju. *In Proceedings of the CrowdBias'18 Workshop at AAAI Conference on HUman Computation and Crowdsourcing (HCOMP 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CrowdBias2018.pdf)
 
+- \[[*HCOMP 2018*](http://)\] **Effects of Algorithmic Decision-Making and Interpretability on Human Behavior: Experiments using Crowdsourcing**. Avishek Anand, Kilian Bizer, Alexander Erlei, Ujwal Gadiraju, Christian Heinze, Lukas Meub, Wolfgang Nejdl and Bjoern Steinroetter. *In Proceedings of the CrowdBias'18 Workshop at AAAI Conference on HUman Computation and Crowdsourcing (HCOMP 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HCOMP18.pdf)
+
+- \[[*SIGIR 2018*](https://sigir.org/sigir2018/)\] **Predicting User Knowledge Gain in Informational Search Sessions**. Luyan Xu, Xuan Zhou, Ujwal Gadiraju. *In Proceedings of the 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)*. [\[PDF\]](https://dl.acm.org/citation.cfm?id=3210064)
+
 
 ----
 
