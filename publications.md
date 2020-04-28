@@ -21,6 +21,8 @@
 
 - \[[*WIDM 2020*]()\] 	**Bias in Data-driven AI Systems - An Introductory Survey**. Eirini Ntoutsi, Pavlos Fafalios, Ujwal Gadiraju, Vasileios Iosifidis, Wolfgang Nejdl, Maria-Esther Vidal, Salvatore Ruggieri, Franco Turini, Symeon Papadopoulos, Emmanouil Krasanakis, Ioannis Kompatsiaris, Katharina Kinder-Kurlanda, Claudia Wagner, Fariba Karimi, Miriam Fernández, Harith Alani, Bettina Berendt, Tina Kruegel, Christian Heinze, Klaus Broelemann, Gjergji Kasneci, Thanassis Tiropanis, Steffen Staab. *In WIREs Data Mining and Knowledge Discovery (WIDM 2020)*. [\[PDF\]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1356)
 
+----
+
 ## 2019
 
 
@@ -42,9 +44,16 @@
 
 - \[[*WSDM 2019*](http://www.wsdm-conference.org/2019/)\] 	**All Those Wasted Hours: On Task Abandonment in Crowdsourcing**. Lei Han, Kevin Roitero, Ujwal Gadiraju, Cristina Sarasua, Alessandro Checco, Eddy Maddalena, and Gianluca Demartini. *In Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM 2019)*. [\[PDF\]](http://l3s.de/~gadiraju/WSDM2019.pdf)
 
-- \[[*SWJ 2019*](http://chi2019.acm.org/)\] 	**KnowMore - Knowledge Base Augmentation With Structured Web Markup**. Ran Yu, Ujwal Gadiraju, Besnik Fetahu, Oliver Lehmberg, and Stefan Dietze. *In Proceedings of the Semantic Web Journal (SWJ 2019)*. [\[PDF\]](http://www.semantic-web-journal.net/system/files/swj1773.pdf)
+- \[[*SWJ 2019*](http://www.semantic-web-journal.net)\] 	**KnowMore - Knowledge Base Augmentation With Structured Web Markup**. Ran Yu, Ujwal Gadiraju, Besnik Fetahu, Oliver Lehmberg, and Stefan Dietze. *In Proceedings of the Semantic Web Journal (SWJ 2019)*. [\[PDF\]](http://www.semantic-web-journal.net/system/files/swj1773.pdf)
+
+----
 
 ## 2018
+
+- \[[*HCOMP 2018*](http://)\] **LimitBias! Measuring Worker Biases in the Crowdsourced Collection of Subjective Judgments**. Christoph Hube, Besnik Fetahu, and Ujwal Gadiraju. *In Proceedings of the CrowdBias'18 Workshop at AAAI Conference on HUman Computation and Crowdsourcing (HCOMP 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CrowdBias2018.pdf)
+
+
+----
 
 ## 2017
 
