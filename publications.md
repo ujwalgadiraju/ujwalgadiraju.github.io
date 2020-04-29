@@ -50,11 +50,17 @@
 
 ## 2018
 
-- \[[*HCOMP 2018*](http://)\] **LimitBias! Measuring Worker Biases in the Crowdsourced Collection of Subjective Judgments**. Christoph Hube, Besnik Fetahu, and Ujwal Gadiraju. *In Proceedings of the CrowdBias'18 Workshop at AAAI Conference on HUman Computation and Crowdsourcing (HCOMP 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CrowdBias2018.pdf)
+- \[[*HCOMP 2018*](https://www.humancomputation.com/2018/)\] **LimitBias! Measuring Worker Biases in the Crowdsourced Collection of Subjective Judgments**. Christoph Hube, Besnik Fetahu, and Ujwal Gadiraju. *In Proceedings of the CrowdBias'18 Workshop at AAAI Conference on HUman Computation and Crowdsourcing (HCOMP 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CrowdBias2018.pdf)
 
-- \[[*HCOMP 2018*](http://)\] **Effects of Algorithmic Decision-Making and Interpretability on Human Behavior: Experiments using Crowdsourcing**. Avishek Anand, Kilian Bizer, Alexander Erlei, Ujwal Gadiraju, Christian Heinze, Lukas Meub, Wolfgang Nejdl and Bjoern Steinroetter. *In Proceedings of the CrowdBias'18 Workshop at AAAI Conference on HUman Computation and Crowdsourcing (HCOMP 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HCOMP18.pdf)
+- \[[*HCOMP 2018*](https://www.humancomputation.com/2018/)\] **Effects of Algorithmic Decision-Making and Interpretability on Human Behavior: Experiments using Crowdsourcing**. Avishek Anand, Kilian Bizer, Alexander Erlei, Ujwal Gadiraju, Christian Heinze, Lukas Meub, Wolfgang Nejdl and Bjoern Steinroetter. *In Proceedings of the CrowdBias'18 Workshop at AAAI Conference on HUman Computation and Crowdsourcing (HCOMP 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HCOMP18.pdf)
 
 - \[[*SIGIR 2018*](https://sigir.org/sigir2018/)\] **Predicting User Knowledge Gain in Informational Search Sessions**. Luyan Xu, Xuan Zhou, Ujwal Gadiraju. *In Proceedings of the 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)*. [\[PDF\]](https://dl.acm.org/citation.cfm?id=3210064)
+
+- \[[*JCSCW 2018*](https://www.springer.com/journal/10606)\] **Crowd Anatomy Beyond the Good and Bad: Behavioral Traces for Crowd Worker Modeling and Pre-selection**. Ujwal Gadiraju, Gianluca Demartini, Ricardo Kawase, and Stefan Dietze. *In Proceedings of the Computer Supported Cooperative Work (CSCW) - The Journal of Collaborative Computing and Work Practices (JCSCW 2018)*. [\[PDF\]](http://www.semantic-web-journal.net/system/files/swj1773.pdf)
+
+- \[[*HT 2018*](https://human.iisys.de/ht2018/)\] **SimilarHITs: Revealing the Role of Task Similarity in Microtask Crowdsourcing**. Alan Aipe and Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_HT2018.pdf) 
+
+- \[[*CHIIR 2018*](http://sigir.org/chiir2018/)\] **Analyzing Knowledge Gain of Users in Informational Search Sessions on the Web**. Ujwal Gadiraju, Ran Yu, Stefan Dietze and Peter Holtz. *In Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_chiir2018.pdf) 
 
 
 ----
