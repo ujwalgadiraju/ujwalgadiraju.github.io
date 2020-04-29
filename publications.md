@@ -58,7 +58,7 @@
 
 - \[[*JCSCW 2018*](https://www.springer.com/journal/10606)\] **Crowd Anatomy Beyond the Good and Bad: Behavioral Traces for Crowd Worker Modeling and Pre-selection**. Ujwal Gadiraju, Gianluca Demartini, Ricardo Kawase, and Stefan Dietze. *In the Computer Supported Cooperative Work (CSCW) Journal - The Journal of Collaborative Computing and Work Practices (JCSCW 2018)*. [\[PDF\]](http://www.semantic-web-journal.net/system/files/swj1773.pdf)
 
-- \[[*HT 2018*](https://human.iisys.de/ht2018/)\] **SimilarHITs: Revealing the Role of Task Similarity in Microtask Crowdsourcing**. Alan Aipe and Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_HT2018.pdf) 
+- \[[*HT 2018*](https://ht.acm.org/ht2018/)\] **SimilarHITs: Revealing the Role of Task Similarity in Microtask Crowdsourcing**. Alan Aipe and Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_HT2018.pdf) 
 
 - \[[*CHIIR 2018*](http://sigir.org/chiir2018/)\] **Analyzing Knowledge Gain of Users in Informational Search Sessions on the Web**. Ujwal Gadiraju, Ran Yu, Stefan Dietze and Peter Holtz. *In Proceedings of the ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_chiir2018.pdf) 
 
@@ -71,10 +71,10 @@
 
 - \[[*TOCHI 2017*](https://dl.acm.org/journal/tochi)\] **Using Worker Self-Assessments for Competence-based Pre-selection in Crowdsourcing Microtasks**. Ujwal Gadiraju, Besnik Fetahu, Ricardo Kawase, Patrick Siehndel and Stefan Dietze. *In ACM Transactions on Computer-Human Interaction (TOCHI 2017)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_tochi2017.pdf)
 
-- \[[*HT 2017*](https://human.iisys.de/ht2017/)\] **Clarity is a Worthwhile Quality - On the Role of Task Clarity in Microtask Crowdsourcing**. Ujwal Gadiraju, Jie Yang and Alessandro Bozzon. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2017)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadirajuHT2017.pdf) <br>
+- \[[*HT 2017*](https://ht.acm.org/ht2017/)\] **Clarity is a Worthwhile Quality - On the Role of Task Clarity in Microtask Crowdsourcing**. Ujwal Gadiraju, Jie Yang and Alessandro Bozzon. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2017)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadirajuHT2017.pdf)
 &#127942; *Best Paper Award* &#127942;
 
-
+- \[[*ICWE 2017*](http://icwe2017.webengineering.org)\] **Improving Reliability of Crowdsourced Results by Detecting Crowd Workers with Multiple Identities**. Ujwal Gadiraju and Ricardo Kawase. *In Proceedings of the International Conference on Web Engineering (ICWE 2017)*. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-319-60131-1_11) 
 
 ## 2016
 
