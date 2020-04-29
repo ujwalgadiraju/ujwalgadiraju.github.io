@@ -67,7 +67,9 @@
 
 ## 2017
 
-- \[[*UBICOMP 2017*](https://www.springer.com/journal/10606)\] **Modus Operandi of Crowd Workers : The Invisible Role of Microtask Work Environments**. Ujwal Gadiraju, Alessandro Checco, Neha Gupta, and Gianluca Demartini. *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2017)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_ubicomp2017.pdf)
+- \[[*UBICOMP 2017*](https://ubicomp.org/ubicomp2017/)\] **Modus Operandi of Crowd Workers : The Invisible Role of Microtask Work Environments**. Ujwal Gadiraju, Alessandro Checco, Neha Gupta, and Gianluca Demartini. *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2017)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_ubicomp2017.pdf)
+
+- \[[*TOCHI 2017*](https://dl.acm.org/journal/tochi)\] **Using Worker Self-Assessments for Competence-based Pre-selection in Crowdsourcing Microtasks**. Ujwal Gadiraju, Besnik Fetahu, Ricardo Kawase, Patrick Siehndel and Stefan Dietze. *In ACM Transactions on Computer-Human Interaction (TOCHI 2017)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_tochi2017.pdf)
 
 
 
