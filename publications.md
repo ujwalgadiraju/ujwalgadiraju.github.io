@@ -71,7 +71,8 @@
 
 - \[[*TOCHI 2017*](https://dl.acm.org/journal/tochi)\] **Using Worker Self-Assessments for Competence-based Pre-selection in Crowdsourcing Microtasks**. Ujwal Gadiraju, Besnik Fetahu, Ricardo Kawase, Patrick Siehndel and Stefan Dietze. *In ACM Transactions on Computer-Human Interaction (TOCHI 2017)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_tochi2017.pdf)
 
-- \[[*HT 2017*](https://human.iisys.de/ht2017/)\] **Clarity is a Worthwhile Quality - On the Role of Task Clarity in Microtask Crowdsourcing**. Ujwal Gadiraju, Jie Yang and Alessandro Bozzon. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2017)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadirajuHT2017.pdf) :trophy: *Best Paper Award*
+- \[[*HT 2017*](https://human.iisys.de/ht2017/)\] **Clarity is a Worthwhile Quality - On the Role of Task Clarity in Microtask Crowdsourcing**. Ujwal Gadiraju, Jie Yang and Alessandro Bozzon. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2017)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadirajuHT2017.pdf) 
+&#127942; *Best Paper Award* &#127942;
 
 
 
