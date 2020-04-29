@@ -78,6 +78,8 @@
 
 - \[[*LAK 2017*]()\] **Improving Learning Through Achievement Priming in Information Finding Microtasks**. Ujwal Gadiraju and Stefan Dietze. *In Proceedings of the ACM International Conference on Learning Analytics and Knowledge*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/Gadiraju_LAK2017.pdf) 
 
+- \[[*ICDE 2017*](http://icde2017.sdsc.edu)\] **FuseM: Query-Centric Data Fusion on Structured Web Markup**. Ran Yu, Ujwal Gadiraju, Besnik Fetahu and Stefan Dietze. *In Proceedings of the IEEE International Conference on Data Engineering (ICDE 2017)*. [\[PDF\]](https://ieeexplore.ieee.org/document/7929965) 
+
 ## 2016
 
 ## 2015
