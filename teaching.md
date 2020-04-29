@@ -14,4 +14,5 @@
 
 - Social Computing with Alessandro Checco and Cristina Sarasua, University of Zurich
 
+- [Seminar on Foundations of Human Computation](https://www2.kbs.uni-hannover.de/hcomp-seminar.html) with Sergej Zerr, Leibniz University of Hannover
 
