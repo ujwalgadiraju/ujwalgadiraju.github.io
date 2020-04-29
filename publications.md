@@ -76,6 +76,8 @@
 
 - \[[*ICWE 2017*](http://icwe2017.webengineering.org)\] **Improving Reliability of Crowdsourced Results by Detecting Crowd Workers with Multiple Identities**. Ujwal Gadiraju and Ricardo Kawase. *In Proceedings of the International Conference on Web Engineering (ICWE 2017)*. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-319-60131-1_11) 
 
+- \[[*LAK 2017*]()\] **Improving Learning Through Achievement Priming in Information Finding Microtasks**. Ujwal Gadiraju and Stefan Dietze. *In Proceedings of the ACM International Conference on Learning Analytics and Knowledge*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/Gadiraju_LAK2017.pdf) 
+
 ## 2016
 
 ## 2015
