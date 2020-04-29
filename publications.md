@@ -56,7 +56,7 @@
 
 - \[[*SIGIR 2018*](https://sigir.org/sigir2018/)\] **Predicting User Knowledge Gain in Informational Search Sessions**. Luyan Xu, Xuan Zhou, Ujwal Gadiraju. *In Proceedings of the 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)*. [\[PDF\]](https://dl.acm.org/citation.cfm?id=3210064)
 
-- \[[*JCSCW 2018*](https://www.springer.com/journal/10606)\] **Crowd Anatomy Beyond the Good and Bad: Behavioral Traces for Crowd Worker Modeling and Pre-selection**. Ujwal Gadiraju, Gianluca Demartini, Ricardo Kawase, and Stefan Dietze. *In Proceedings of the Computer Supported Cooperative Work (CSCW) - The Journal of Collaborative Computing and Work Practices (JCSCW 2018)*. [\[PDF\]](http://www.semantic-web-journal.net/system/files/swj1773.pdf)
+- \[[*JCSCW 2018*](https://www.springer.com/journal/10606)\] **Crowd Anatomy Beyond the Good and Bad: Behavioral Traces for Crowd Worker Modeling and Pre-selection**. Ujwal Gadiraju, Gianluca Demartini, Ricardo Kawase, and Stefan Dietze. *In the Computer Supported Cooperative Work (CSCW) Journal - The Journal of Collaborative Computing and Work Practices (JCSCW 2018)*. [\[PDF\]](http://www.semantic-web-journal.net/system/files/swj1773.pdf)
 
 - \[[*HT 2018*](https://human.iisys.de/ht2018/)\] **SimilarHITs: Revealing the Role of Task Similarity in Microtask Crowdsourcing**. Alan Aipe and Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2018)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_HT2018.pdf) 
 
@@ -66,6 +66,10 @@
 ----
 
 ## 2017
+
+- \[[*UBICOMP 2017*](https://www.springer.com/journal/10606)\] **Modus Operandi of Crowd Workers : The Invisible Role of Microtask Work Environments**. Ujwal Gadiraju, Alessandro Checco, Neha Gupta, and Gianluca Demartini. *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2017)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_ubicomp2017.pdf)
+
+
 
 ## 2016
 
