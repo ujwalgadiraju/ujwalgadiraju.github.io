@@ -80,6 +80,10 @@
 
 - \[[*ICDE 2017*](http://icde2017.sdsc.edu)\] **FuseM: Query-Centric Data Fusion on Structured Web Markup**. Ran Yu, Ujwal Gadiraju, Besnik Fetahu and Stefan Dietze. *In Proceedings of the IEEE International Conference on Data Engineering (ICDE 2017)*. [\[PDF\]](https://ieeexplore.ieee.org/document/7929965) 
 
+- \[[*ECIR 2017*](https://www.ecir2017.org)\] **JustEvents: A Crowdsourced Corpus for Event Validation with Strict Temporal Constraints**. Andrea Ceroni, Ujwal Gadiraju and Marco Fisichella. *In Proceedings of the European Conference on Information Retrieval (ECIR 2017)*. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-319-56608-5_38) 
+
+---
+
 ## 2016
 
 ## 2015
