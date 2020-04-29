@@ -6,7 +6,7 @@
 
 ## 2019
 
-- Foundations of Human Computation and Crowdsourcing with Sergej Zerr, Leibniz University of Hannover
+- [Foundations of Human Computation and Crowdsourcing](https://www2.kbs.uni-hannover.de/411.html) with Sergej Zerr, Leibniz University of Hannover
 
 ## 2018
 
