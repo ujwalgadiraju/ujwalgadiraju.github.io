@@ -92,6 +92,8 @@
 
 - \[[*CHI 2016*]()\] **Dealing With Sub-optimal Crowd Work : Implications of Current Quality Control Practices**. Ujwal Gadiraju and Neha Gupta. *In Proceedings of Crowd Dynamics Workshop at the ACM Conference on Human Factors in Computing Systems (CHI 2016)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_neha_CrowdDynamics.pdf)
 
+- \[[*CHI 2016*]()\] **Cognitive Factors that Influence Workers’ Task Performance in Crowdsourcing Microtasks**. Darren J. Edwards and Ujwal Gadiraju. *In Proceedings of the Productivity Decomposed Workshop at the ACM Conference on Human Factors in Computing Systems (CHI 2016)*. [\[PDF\]](http://darrenedwards.info/index_files/edwards-microproductivity.pdf)
+
 ## 2015
 
 ## 2014
