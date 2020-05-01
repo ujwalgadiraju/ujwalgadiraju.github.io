@@ -86,7 +86,11 @@
 
 ## 2016
 
-- \[[*WeSci 2016*]()\] **Estimating Domain Specificity for Effective Crowdsourcing of Link Prediction and Schema Mapping**. Ujwal Gadiraju, Patrick Siehndel and Stefan Dietze. *In Proceedings of the ACM Conference on Web Science (WebSci 2016)*. [\[PDF\]]() &#127942; *Best Poster Award* &#127942;
+- \[[*WebSci 2016*]()\] **Estimating Domain Specificity for Effective Crowdsourcing of Link Prediction and Schema Mapping**. Ujwal Gadiraju, Patrick Siehndel and Stefan Dietze. *In Proceedings of the ACM Conference on Web Science (WebSci 2016)*. [\[PDF\]]() &#127942; *Best Poster Award* &#127942;
+
+- \[[*WebSci 2016*]()\] **Crystal Clear or Very Vague? Effects of Task Clarity in the Microtask Crowdsourcing Ecosystem**. Ujwal Gadiraju, Besnik Fetahu and Christoph Hube. *In Proceedings of the Trust In Crowd Work Workshop at ACM Conference on Web Science (WebSci 2016)*. [\[PDF\]](https://trustincrowdwork.west.uni-koblenz.de/sites/trustincrowdwork.west.uni-koblenz.de/files/gadriaju-trust.pdf)
+
+- \[[*CHI 2016*]()\] **Dealing With Sub-optimal Crowd Work : Implications of Current Quality Control Practices**. Ujwal Gadiraju and Neha Gupta. *In Proceedings of Crowd Dynamics Workshop at the ACM Conference on Human Factors in Computing Systems (CHI 2016)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_neha_CrowdDynamics.pdf)
 
 ## 2015
 
