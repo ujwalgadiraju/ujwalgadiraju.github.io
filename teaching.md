@@ -15,7 +15,7 @@
 </a>
 
 - **Social Computing** with Alessandro Checco and Cristina Sarasua, University of Zurich
-<img src="social_computing" alt="Social Computing" width="240">
+<img src="social_computing.jpg" alt="Social Computing" width="240">
 
 
 ## 2018
