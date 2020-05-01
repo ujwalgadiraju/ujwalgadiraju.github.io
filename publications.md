@@ -86,7 +86,7 @@
 
 ## 2016
 
-- \[[*WeSci 2016*]()\] **Estimating Domain Specificity for Effective Crowdsourcing of Link Prediction and Schema Mapping**. Ujwal Gadiraju, Patrick Siehndel and Stefan Dietze. *In Proceedings of the ACM Conference on Web Science (WebSci 2016)*. [\[PDF\]]() 
+- \[[*WeSci 2016*]()\] **Estimating Domain Specificity for Effective Crowdsourcing of Link Prediction and Schema Mapping**. Ujwal Gadiraju, Patrick Siehndel and Stefan Dietze. *In Proceedings of the ACM Conference on Web Science (WebSci 2016)*. [\[PDF\]]() &#127942; *Best Poster Award* &#127942;
 
 ## 2015
 
