@@ -90,9 +90,11 @@
 
 - \[[*WebSci 2016*]()\] **Crystal Clear or Very Vague? Effects of Task Clarity in the Microtask Crowdsourcing Ecosystem**. Ujwal Gadiraju, Besnik Fetahu and Christoph Hube. *In Proceedings of the Trust In Crowd Work Workshop at ACM Conference on Web Science (WebSci 2016)*. [\[PDF\]](https://trustincrowdwork.west.uni-koblenz.de/sites/trustincrowdwork.west.uni-koblenz.de/files/gadriaju-trust.pdf)
 
-- \[[*CHI 2016*]()\] **Dealing With Sub-optimal Crowd Work : Implications of Current Quality Control Practices**. Ujwal Gadiraju and Neha Gupta. *In Proceedings of Crowd Dynamics Workshop at the ACM Conference on Human Factors in Computing Systems (CHI 2016)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_neha_CrowdDynamics.pdf)
+- \[[*Crowd Dynamics 2016*]()\] **Dealing With Sub-optimal Crowd Work : Implications of Current Quality Control Practices**. Ujwal Gadiraju and Neha Gupta. *In Proceedings of Crowd Dynamics Workshop at the ACM Conference on Human Factors in Computing Systems (CHI 2016)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_neha_CrowdDynamics.pdf)
 
-- \[[*CHI 2016*]()\] **Cognitive Factors that Influence Workers’ Task Performance in Crowdsourcing Microtasks**. Darren J. Edwards and Ujwal Gadiraju. *In Proceedings of the Productivity Decomposed Workshop at the ACM Conference on Human Factors in Computing Systems (CHI 2016)*. [\[PDF\]](http://darrenedwards.info/index_files/edwards-microproductivity.pdf)
+- \[[*Productivity Decomposed 2016*]()\] **Cognitive Factors that Influence Workers’ Task Performance in Crowdsourcing Microtasks**. Darren J. Edwards and Ujwal Gadiraju. *In Proceedings of the Productivity Decomposed Workshop at the ACM Conference on Human Factors in Computing Systems (CHI 2016)*. [\[PDF\]](http://darrenedwards.info/index_files/edwards-microproductivity.pdf)
+
+- \[[*SAVE-SD 2016*]()\] **Analysing Structured Scholarly Data embedded in Web Pages**. Pracheta Sahoo, Ujwal Gadiraju, Ran Yu, Sriparna Saha and Stefan Dietze. *In Proceedings of the Semantics, Analytics, Visualisation: Enhancing Scholarly Data (SAVE-SD) Workshop at the International World Wide Web Conference (WWW 2016)*. [\[PDF\]](http://cs.unibo.it/save-sd/2016/papers/pdf/sahoo-savesd2016.pdf)
 
 ## 2015
 
