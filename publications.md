@@ -102,6 +102,10 @@
 
 - \[[*CHI 2015*](https://chi2015.acm.org)\] **Understanding Malicious Behavior in Crowdsourcing Platforms: The Case of Online Surveys**. Ujwal Gadiraju, Ricardo Kawase, Stefan Dietze, and Gianluca Demartini. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_chi2015.pdf)
 
+- \[[*IEEE IS 2015*](https://chi2015.acm.org)\] **Human Beyond the Machine: Challenges and Opportunities of Microtask Crowdsourcing**. Ujwal Gadiraju, Gianluca Demartini, Ricardo Kawase, and Stefan Dietze. *In Proceedings of the IEEE Intelligent Systems, Volume 30 Issue 4*. [\[PDF\]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7156008)
+
+- \[[*WebSci 2015*]()\] **Ranking Buildings and Mining the Web for Popular Architectural Patterns**. Ujwal Gadiraju, Stefan Dietze, and Ernesto Diaz-Aviles. *In Proceedings of the ACM Conference on Web Science (WebSci 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_webscience2015.pdf) [\[Slides\]](http://www.slideshare.net/ujwal07/ranking-buildings-and-mining-the-web-for-popular-architectural-patterns-49944510)
+
 ## 2014
 
 ## 2013
