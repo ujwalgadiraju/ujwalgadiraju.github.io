@@ -98,15 +98,19 @@
 
 - \[[*EDBT/ICDT 2016*]()\] **Unlock the Stock: User Topic Modeling for Stock Market Analysis**. Patrick Siehndel and Ujwal Gadiraju. *In the Workshop Proceedings of the EDBT/ICDT 2016 Joint Conference (EDBT/ICDT 2016)*. [\[PDF\]](http://ceur-ws.org/Vol-1558/paper4.pdf)
 
+---
+
 ## 2015
 
 - \[[*CHI 2015*](https://chi2015.acm.org)\] **Understanding Malicious Behavior in Crowdsourcing Platforms: The Case of Online Surveys**. Ujwal Gadiraju, Ricardo Kawase, Stefan Dietze, and Gianluca Demartini. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_chi2015.pdf) [\[Slides\]](http://www.slideshare.net/ujwal07/understanding-malicious-behavior-in-crowdsourcing-platforms)
 
-- \[[*IEEE IS 2015*](https://chi2015.acm.org)\] **Human Beyond the Machine: Challenges and Opportunities of Microtask Crowdsourcing**. Ujwal Gadiraju, Gianluca Demartini, Ricardo Kawase, and Stefan Dietze. *In Proceedings of the IEEE Intelligent Systems, Volume 30 Issue 4*. [\[PDF\]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7156008)
+- \[[*IEEE IS 2015*]()\] **Human Beyond the Machine: Challenges and Opportunities of Microtask Crowdsourcing**. Ujwal Gadiraju, Gianluca Demartini, Ricardo Kawase, and Stefan Dietze. *In Proceedings of the IEEE Intelligent Systems, Volume 30 Issue 4*. [\[PDF\]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7156008)
 
 - \[[*WebSci 2015*]()\] **Ranking Buildings and Mining the Web for Popular Architectural Patterns**. Ujwal Gadiraju, Stefan Dietze, and Ernesto Diaz-Aviles. *In Proceedings of the ACM Conference on Web Science (WebSci 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_webscience2015.pdf) [\[Slides\]](http://www.slideshare.net/ujwal07/ranking-buildings-and-mining-the-web-for-popular-architectural-patterns-49944510)
 
-- \[[*ISWC 2015*](https://chi2015.acm.org)\] **Improving Entity Retrieval on Structured Data**. Besnik Fetahu, Ujwal Gadiraju, Stefan Dietze. *In Proceedings of the International Semantic Web Conference (ISWC 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/fetahu_iswc2015.pdf)
+- \[[*ISWC 2015*]()\] **Improving Entity Retrieval on Structured Data**. Besnik Fetahu, Ujwal Gadiraju, Stefan Dietze. *In Proceedings of the International Semantic Web Conference (ISWC 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/fetahu_iswc2015.pdf)
+
+- \[[*ECTEL 2015*]()\] **Training Workers for Improving Performance in Crowdsourcing Microtasks**. Ujwal Gadiraju, Besnik Fetahu, and Ricardo Kawase. *In Proceedings of the ACM Conference on Web Science (WebSci 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_ectel2015.pdf) [\[Slides\]](http://www.slideshare.net/ujwal07/training-workers-for-improving-performance-in-crowdsourcing-microtasks)
 
 
 ## 2014
