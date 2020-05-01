@@ -112,6 +112,8 @@
 
 - \[[*ECTEL 2015*]()\] **Training Workers for Improving Performance in Crowdsourcing Microtasks**. Ujwal Gadiraju, Besnik Fetahu, and Ricardo Kawase. *In Proceedings of the ACM Conference on Web Science (WebSci 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_ectel2015.pdf) [\[Slides\]](http://www.slideshare.net/ujwal07/training-workers-for-improving-performance-in-crowdsourcing-microtasks)
 
+- \[[*HT 2015*]()\] **Breaking Bad - Understanding Behavior of Crowd Workers in Categorization Microtasks**. Ujwal Gadiraju, Ricardo Kawase, Patrick Siehndel, and Besnik Fetahu. *In Proceedings of the ACM Conference on Web Science (HT 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_ht2015.pdf) [\[Slides\]](http://www.slideshare.net/ujwal07/breaking-bad-understanding-the-behavior-of-crowd-workers-in-categorization-microtasks)
+
 
 ## 2014
 
