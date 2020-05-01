@@ -96,6 +96,8 @@
 
 - \[[*SAVE-SD 2016*]()\] **Analysing Structured Scholarly Data embedded in Web Pages**. Pracheta Sahoo, Ujwal Gadiraju, Ran Yu, Sriparna Saha and Stefan Dietze. *In Proceedings of the Semantics, Analytics, Visualisation: Enhancing Scholarly Data (SAVE-SD) Workshop at the International World Wide Web Conference (WWW 2016)*. [\[PDF\]](http://cs.unibo.it/save-sd/2016/papers/pdf/sahoo-savesd2016.pdf)
 
+- \[[*EDBT/ICDT 2016*]()\] **Unlock the Stock: User Topic Modeling for Stock Market Analysis**. Patrick Siehndel and Ujwal Gadiraju. *In the Workshop Proceedings of the EDBT/ICDT 2016 Joint Conference (EDBT/ICDT 2016)*. [\[PDF\]](http://ceur-ws.org/Vol-1558/paper4.pdf)
+
 ## 2015
 
 ## 2014
