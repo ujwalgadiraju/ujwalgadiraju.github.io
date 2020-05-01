@@ -112,7 +112,13 @@
 
 - \[[*ECTEL 2015*]()\] **Training Workers for Improving Performance in Crowdsourcing Microtasks**. Ujwal Gadiraju, Besnik Fetahu, and Ricardo Kawase. *In Proceedings of the ACM Conference on Web Science (WebSci 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_ectel2015.pdf) [\[Slides\]](http://www.slideshare.net/ujwal07/training-workers-for-improving-performance-in-crowdsourcing-microtasks)
 
-- \[[*HT 2015*]()\] **Breaking Bad - Understanding Behavior of Crowd Workers in Categorization Microtasks**. Ujwal Gadiraju, Ricardo Kawase, Patrick Siehndel, and Besnik Fetahu. *In Proceedings of the ACM Conference on Web Science (HT 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_ht2015.pdf) [\[Slides\]](http://www.slideshare.net/ujwal07/breaking-bad-understanding-the-behavior-of-crowd-workers-in-categorization-microtasks)
+- \[[*HT 2015*]()\] **Breaking Bad - Understanding Behavior of Crowd Workers in Categorization Microtasks**. Ujwal Gadiraju, Ricardo Kawase, Patrick Siehndel, and Besnik Fetahu. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_ht2015.pdf) [\[Slides\]](http://www.slideshare.net/ujwal07/breaking-bad-understanding-the-behavior-of-crowd-workers-in-categorization-microtasks)
+
+- \[[*WWW 2015*]()\] **Make Hay While the Crowd Shines: Towards Efficient Crowdsourcing on the Web**. Ujwal Gadiraju, Ricardo Kawase, Patrick Siehndel, and Besnik Fetahu. *In Proceedings of the International World Wide Web Conference (WWW 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_www2015.pdf) [\[Slides\]]()
+
+- \[[*CIKM 2015*](https://www.cikm-2015.org)\] **Improving Event Detection by Automatically Assessing Validity of Event Occurrence in Text**. Tuan Tran, Claudia Niederée, Nattiya Kanhabua, Ujwal Gadiraju, and Avishek Anand. *In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM 2015)*. [\[PDF\]]() [\[Slides\]]()
+
+- \[[*WISE 2015*]()\] **Adaptive Focused Crawling of Linked Data**. Ran Yu, Ujwal Gadiraju, Besnik Fetahu and Stefan Dietze. *In Proceedings of Web Information Systems Engineering (WISE 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/yu_wise2015.pdf) [\[Slides\]]()
 
 
 ## 2014
