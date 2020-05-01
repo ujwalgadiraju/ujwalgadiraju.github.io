@@ -9,7 +9,10 @@
 
 ## 2019
 
-- **[Foundations of Human Computation and Crowdsourcing](https://www2.kbs.uni-hannover.de/411.html)** with Sergej Zerr, Leibniz University of Hannover
+- **Foundations of Human Computation and Crowdsourcing** with Sergej Zerr, Leibniz University of Hannover
+<a href="https://www2.kbs.uni-hannover.de/411.html">
+<img src="fhcc.jpg" alt="fhcc" width="240">
+</a>
 
 - **Social Computing** with Alessandro Checco and Cristina Sarasua, University of Zurich
 
