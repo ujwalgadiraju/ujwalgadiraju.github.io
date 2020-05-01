@@ -100,6 +100,8 @@
 
 ## 2015
 
+- \[[*CHI 2015*](https://chi2015.acm.org)\] **Understanding Malicious Behavior in Crowdsourcing Platforms: The Case of Online Surveys**. Ujwal Gadiraju, Ricardo Kawase, Stefan Dietze, and Gianluca Demartini. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2015)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_chi2015.pdf)
+
 ## 2014
 
 ## 2013
