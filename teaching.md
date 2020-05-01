@@ -14,8 +14,7 @@
 <img src="fhcc.jpg" alt="fhcc" width="240">
 </a>
 
-- **Social Computing** with Alessandro Checco and Cristina Sarasua, University of Zurich
-
+- **Social Computing** with Alessandro Checco and Cristina Sarasua, University of Zurich <br>
 <img src="social_computing.jpg" alt="Social Computing" width="240">
 
 
