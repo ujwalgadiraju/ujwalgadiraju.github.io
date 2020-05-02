@@ -123,4 +123,10 @@
 
 ## 2014
 
+- \[[*ISWC 2014*]()\] **Extracting Architectural Patterns from Web Data**. Ujwal Gadiraju, Ricardo Kawase, and Stefan Dietze. *In Proceedings of the International Semantic Web Conference (ISWC 2014)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/gadiraju_iswc2014a.pdf) &#127942; *Best Poster Award* &#127942;
+
+- \[[*ISWC 2014*]()\] **Crawl Me Maybe: Iterative Linked Dataset Preservation**. Besnik Fetahu, Ujwal Gadiraju, Stefan Dietze. *In Proceedings of the International Semantic Web Conference (ISWC 2014)*. [\[PDF\]]()
+
+- \[[*ISWC 2014*]()\] **WikipEvent: Temporal Event Data for the Semantic Web**. Ujwal Gadiraju, Kaweh Djafari Naini, Andrea Ceroni, Mihai Georgescu, Dang Duc Pham, and Marco Fisichella. *In Proceedings of the International Semantic Web Conference (ISWC 2014)*. [\[PDF\]]()
+
 ## 2013
