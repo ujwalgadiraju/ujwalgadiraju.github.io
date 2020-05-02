@@ -129,4 +129,6 @@
 
 - \[[*ISWC 2014*]()\] **WikipEvent: Temporal Event Data for the Semantic Web**. Ujwal Gadiraju, Kaweh Djafari Naini, Andrea Ceroni, Mihai Georgescu, Dang Duc Pham, and Marco Fisichella. *In Proceedings of the International Semantic Web Conference (ISWC 2014)*. [\[PDF\]]()
 
+- \[[*HT 2014*](https://ht.acm.org/ht2014/)\] **A Taxonomy of Microtasks on the Web**. Ujwal Gadiraju, Ricardo Kawase, and Stefan Dietze. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2014)*. [\[PDF\]]()
+
 ## 2013
