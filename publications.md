@@ -138,3 +138,7 @@
 - \[[*WIMS 2014*]()\] **When in Doubt Ask the Crowd: Employing Crowdsourcing for Active Learning**. Mihai Georgescu, Dang Duc Pham, Claudiu S Firan, Ujwal Gadiraju, and Wolfgang Nejdl. *In Proceedings of the International Conference on Web Intelligence, Mining and Semantics (WIMS 2014)*. [\[PDF\]]()
 
 ## 2013
+
+- \[[*SDA 2013*]()\] **Towards Preservation of Semantically Enriched Architectural Knowledge**. Stefan Dietze, Jakob Beetz, Ujwal Gadiraju, Georgios Katsimpras, Raoul Wessel, and René Berndt. *In Proceedings of the International Workshop on Semantic Digital Archives (SDA 2013)*. [\[PDF\]]()
+
+- \[[*WWW 2013*]()\] **Groundhog Day: Near-duplicate Detection on Twitter**. Ke Tao, Fabian Abel, Claudia Hauff, Geert-Jan Houben, and Ujwal Gadiraju. *In Proceedings of the International World Wide Web Conference (WWW 2013)*. [\[PDF\]]()
