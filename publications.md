@@ -131,4 +131,10 @@
 
 - \[[*HT 2014*](https://ht.acm.org/ht2014/)\] **A Taxonomy of Microtasks on the Web**. Ujwal Gadiraju, Ricardo Kawase, and Stefan Dietze. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2014)*. [\[PDF\]]()
 
+- \[[*OpenSym 2014*]()\] **Information Evolution in Wikipedia**. Andrea Ceroni, Mihai Georgescu, Ujwal Gadiraju, Kaweh Djafari Naini, and Marco Fisichella. *In Proceedings of the  International Symposium on Open Collaboration (OpenSym 2014)*. [\[PDF\]]()
+
+- \[[*ECTEL 2014*](http://ectel2014.httc.de/index.php?id=681)\] **Technology Enhancing Learning: Past, Present and Future**. Ricardo Kawase, Patrick Siehndel, and Ujwal Gadiraju. *In Proceedings of the European Conference on Technology Enhancing Learning (ECTEL 2014)*. [\[PDF\]]()
+
+- \[[*WIMS 2014*]()\] **When in Doubt Ask the Crowd: Employing Crowdsourcing for Active Learning**. Mihai Georgescu, Dang Duc Pham, Claudiu S Firan, Ujwal Gadiraju, and Wolfgang Nejdl. *In Proceedings of the International Conference on Web Intelligence, Mining and Semantics (WIMS 2014)*. [\[PDF\]]()
+
 ## 2013
