@@ -30,7 +30,8 @@
 
 - \[[*CSCW 2019*](https://cscw.acm.org/2019/)\] **Dissonance Between Human and Machine Understanding**. Zijian Zhang, Jaspreet Singh, Ujwal Gadiraju, Avishek Anand. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CSCW2019.pdf)
 
-- \[[*HT 2019*](https://human.iisys.de/ht2019/)\] **Understanding Worker Moods and Reactions to Rejection in Crowdsourcing**. Ujwal Gadiraju, Gianluca Demartini. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HT2019a.pdf) [\[Slides\]] (https://docs.google.com/presentation/d/1BXp0YsGH7OWUcdvVXNihf0zI5vwFVU9Af5JTnDtNkHs/edit?usp=sharing)
+- \[[*HT 2019*](https://human.iisys.de/ht2019/)\] **Understanding Worker Moods and Reactions to Rejection in Crowdsourcing**. Ujwal Gadiraju, Gianluca Demartini. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HT2019a.pdf) 
+[\[Slides\]](https://docs.google.com/presentation/d/1BXp0YsGH7OWUcdvVXNihf0zI5vwFVU9Af5JTnDtNkHs/edit?usp=sharing)
 
 - \[[*HT 2019*](https://human.iisys.de/ht2019/)\] **Understanding User Search Behavior Across Varying Cognitive Levels**. Rishita Kalyani, Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HT2019b.pdf)
 
