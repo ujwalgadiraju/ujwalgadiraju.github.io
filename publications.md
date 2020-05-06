@@ -32,6 +32,7 @@
 
 - \[[*HT 2019*](https://human.iisys.de/ht2019/)\] **Understanding Worker Moods and Reactions to Rejection in Crowdsourcing**. Ujwal Gadiraju, Gianluca Demartini. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HT2019a.pdf) 
 [\[Slides\]](https://docs.google.com/presentation/d/1BXp0YsGH7OWUcdvVXNihf0zI5vwFVU9Af5JTnDtNkHs/edit?usp=sharing)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQaWwZ-FFNrFOQgme7yMG4inRtn09QM2lUbj1507PLkLE4NcqIfYd3IVdtnxyQXyC_CdmqsTL5LkRqZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 - \[[*HT 2019*](https://human.iisys.de/ht2019/)\] **Understanding User Search Behavior Across Varying Cognitive Levels**. Rishita Kalyani, Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/HT2019b.pdf)
 
