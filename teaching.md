@@ -3,7 +3,7 @@
 ## 2020
 
 - **Crowd Computing (CS4145)** with Alessandro Bozzon and Nava Tintarev, Delft University of Technology
-<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=44916">        
+<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51132">        
 <img src="CS4145.png" alt="CS4145" width="240">
 </a>
 
