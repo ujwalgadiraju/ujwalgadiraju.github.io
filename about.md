@@ -1,7 +1,7 @@
 # Books read recently...
 
-1. *Artemis* by Andy Weir
-2.  
+1. *Ghost Work* by Mary Gray and Siddharth Suri
+2. *Artemis* by Andy Weir
 3. 
 4. 
 5. 
