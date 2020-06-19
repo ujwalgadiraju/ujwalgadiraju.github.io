@@ -18,6 +18,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 # News
 
+ - \[08.06.2020\] Our HRI'20 [late breaking report]() received an **honorable mention award**!
  - \[29.05.2020\] Paper titled "How Does Team Composition Affect Knowledge Gain of Users in Collaborative Web Search?" with Luyan Xu and Xuan Zhou was accepted to [ACM HT2020](https://ht.acm.org/ht2020/)!
  - \[20.04.2020\] Course on Crowd Computing ([CS4145](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51132)) with [Alessandro](https://www.alessandrobozzon.com) and [Nava](http://www.navatintarev.com) begins!
  - \[09.04.2020\] Paper titled "Estimating Conversational Styles in Conversational Microtask Crowdsourcing" with Sihang Qiu and Alessandro Bozzon has been accepted to ACM [CSCW 2020](https://cscw.acm.org/2020/).
