@@ -2,7 +2,7 @@
 
 ## 2020
 
-- \[[*NFW 2020*](https://www.microsoft.com/en-us/research/event/new-future-of-work/)\] ***TaskGenie*: Crowd-powered Generation of Struggling Search Tasks**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the Microsoft Symposium on the New Future of Work (NFW 2020)*. [\[PDF\]]()
+- \[[*NFW 2020*](https://www.microsoft.com/en-us/research/event/new-future-of-work/)\] **Remote Work Aided By Conversational Agents**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the Microsoft Symposium on the New Future of Work (NFW 2020)*. [\[PDF\]]()
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Tbj9p36oNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - \[[*WISE 2020*](http://wasp.cs.vu.nl/WISE2020/)\] ***TaskGenie*: Crowd-powered Generation of Struggling Search Tasks**. Luyan Xu, Xuan Zhou, Ujwal Gadiraju. *In Proceedings of the 21st International Conference on Web Information Systems Engineering (WISE 2020)*. [\[PDF\]]()
