@@ -2,6 +2,8 @@
 
 ## 2020
 
+- \[[*WISE 2020*](http://wasp.cs.vu.nl/WISE2020/)\] ***TaskGenie*: Crowd-powered Generation of Struggling Search Tasks**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the 21st International Conference on Web Information Systems Engineering (WISE 2020)*. [\[PDF\]]()
+
 - \[[*ICTIR 2020*](https://ictir2020.org/)\] **Towards Memorable Information Retrieval**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR 2020)*. [\[PDF\]]()
 
 - \[[*HT 2020*](https://ht.acm.org/ht2020/)\] **How Does Team Composition Affect Knowledge Gain of Users in Collaborative Web Search?**. Luyan Xu, Xuan Zhou, Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2020)*. [\[PDF\]](https://t.co/urniWbC2Qw?amp=1)
