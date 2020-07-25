@@ -17,7 +17,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 ---
 
 # News
-
+ - \[25.07.2020\] Paper titled "CrowdCO-OP: Sharing Risks and Rewards in Crowdsourcing" with Shaoyang Fan, Alessandro Checco, Gianluca Demartini has been accepted to ACM [CSCW 2020](https://cscw.acm.org/2020/).
  - \[30.06.2020\] Paper titled "Towards Memorable Information Retrieval" with Sihang Qiu and Alessandro Bozzon was accepted to [ACM ICTIR 2020](https://ictir2020.org)!
  - \[08.06.2020\] Our HRI'20 [late breaking report](https://dl.acm.org/doi/abs/10.1145/3371382.3378332) received an &#127942; *Honorable Mention Award* &#127942;!
  - \[29.05.2020\] Paper titled "How Does Team Composition Affect Knowledge Gain of Users in Collaborative Web Search?" with Luyan Xu and Xuan Zhou was accepted to [ACM HT2020](https://ht.acm.org/ht2020/)!
