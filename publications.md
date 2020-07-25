@@ -2,6 +2,8 @@
 
 ## 2020
 
+- \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **CrowdCO-OP: Sharing Risks and Rewards in Crowdsourcing**. Shaoyang Fan, Ujwal Gadiraju, Alessandro Checco, Gianluca Demartini. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]]()
+
 - \[[*NFW 2020*](https://www.microsoft.com/en-us/research/event/new-future-of-work/)\] **Remote Work Aided By Conversational Agents**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the Microsoft Symposium on the New Future of Work (NFW 2020)*. [\[PDF\]]()
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Tbj9p36oNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
