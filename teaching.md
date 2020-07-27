@@ -2,6 +2,11 @@
 
 ## 2020
 
+- **Applied Machine Learning** with other colleagues, Delft University of Technology
+<a href="">        
+<img src="" alt="" width="240">
+</a>
+
 - **Crowd Computing (CS4145)** with Alessandro Bozzon and Nava Tintarev, Delft University of Technology
 <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51132">        
 <img src="CS4145.png" alt="CS4145" width="240">
