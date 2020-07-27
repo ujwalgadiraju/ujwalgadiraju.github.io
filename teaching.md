@@ -4,7 +4,7 @@
 
 - **Applied Machine Learning** with other colleagues, Delft University of Technology
 <a href="">        
-<img src="" alt="" width="240">
+<!-- <img src="" alt="" width="240"> -->
 </a>
 
 - **Crowd Computing (CS4145)** with Alessandro Bozzon and Nava Tintarev, Delft University of Technology
