@@ -14,7 +14,7 @@
 - \[[*HT 2020*](https://ht.acm.org/ht2020/)\] **How Does Team Composition Affect Knowledge Gain of Users in Collaborative Web Search?**. Luyan Xu, Xuan Zhou, Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2020)*. [\[PDF\]](https://t.co/urniWbC2Qw?amp=1)
 <iframe src="https://drive.google.com/file/d/1e9aBRrsG0spkJnw32DFfrFLTlZK-Wxz6/preview" width="560" height="315"></iframe>
 
-- \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **Estimating Conversational Styles in Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CSCW2020.pdf)
+- \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **Estimating Conversational Styles in Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CSCW2020.pdf) [\[Demo\]](https://qiusihang.github.io/convsty)
 
 - \[[*ICWE 2020*](https://icwe2020.webengineering.org)\] 	**Just the Right Mood for HIT! Analyzing the Role of Worker Moods in Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *Proceedings of the International Conference on Web Engineering (ICWE 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/ICWE2020.pdf)
 
