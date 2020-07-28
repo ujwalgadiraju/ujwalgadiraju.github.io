@@ -17,6 +17,7 @@
 - \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **Estimating Conversational Styles in Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CSCW2020.pdf) [\[Demo\]](https://qiusihang.github.io/convsty)
 
 - \[[*ICWE 2020*](https://icwe2020.webengineering.org)\] 	**Just the Right Mood for HIT! Analyzing the Role of Worker Moods in Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *Proceedings of the International Conference on Web Engineering (ICWE 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/ICWE2020.pdf)
+<video src="ICWE_2020_Summary.mp4" width="560" height="315" controls preload>Watch Video</video>
 
 - \[*Sensors 2020*\] 	**Crowd of Oz: A Crowd-Powered Social Robotics System for Stress Management**. Tahir Abbas, Vassilis-Javed Khan, Ujwal Gadiraju, Emilia I. Barakova, Panos Markopoulos. *In Proceedings of the MDPI Journal (Sensors 2020)*. [\[PDF\]](https://www.mdpi.com/1424-8220/20/2/569)
 
