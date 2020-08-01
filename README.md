@@ -17,6 +17,9 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 ---
 
 # News
+
+ - \[31.07.2020\] Paper titled "Trainbot: A Conversational Interface Based on Motivational Interviewing to Train Crowd Workers for Therapeutic Tasks" with Tahir Abbas, Vassilis-Javed Khan, Panos Markopoulos has been accepted to AAAI [HCOMP 2020](https://www.humancomputation.com/).
+ - \[31.07.2020\] Paper titled "Impact of Algorithmic Decision Making on Human Behavior: Evidence from Ultimatum Bargaining" with Alexander Erlei, Franck Awounang Nekdem, Lukas Meub, Avishek Anand has been accepted to AAAI [HCOMP 2020](https://www.humancomputation.com/).
  - \[25.07.2020\] Paper titled "CrowdCO-OP: Sharing Risks and Rewards in Crowdsourcing" with Shaoyang Fan, Alessandro Checco, Gianluca Demartini has been accepted to ACM [CSCW 2020](https://cscw.acm.org/2020/).
  - \[30.06.2020\] Paper titled "Towards Memorable Information Retrieval" with Sihang Qiu and Alessandro Bozzon was accepted to [ACM ICTIR 2020](https://ictir2020.org)!
  - \[08.06.2020\] Our HRI'20 [late breaking report](https://dl.acm.org/doi/abs/10.1145/3371382.3378332) received an &#127942; *Honorable Mention Award* &#127942;!
