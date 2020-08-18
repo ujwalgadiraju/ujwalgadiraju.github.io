@@ -9,7 +9,7 @@ Prior to joining the WIS group, Ujwal worked at the [L3S Research Center](https:
 Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence’ obtained by combining humans and machines to solve a range of problems in HCI and IR. His current research agenda pertaining to Crowd Computing and Human-centered AI includes the following topics:
 
  - <a href="conversational_interfaces">Conversational Interfaces for Crowd Computing</a>
- - Impact of Algorithmic Decision-Making on Humans
+ - <a href="adms">Impact of Algorithmic Decision-Making on Humans</a>
  - Understanding the Dissonance Between Humans and Machines
  - Characterizing, Measuring and Predicting User Knowledge Gain through Web Search
  
