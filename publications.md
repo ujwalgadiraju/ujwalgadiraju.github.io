@@ -4,7 +4,7 @@
 
 - \[[*HCOMP 2020*](https://www.humancomputation.com)\] **Impact of Algorithmic Decision Making on Human Behavior: Evidence from Ultimatum Bargaining**. Alexander Erlei, Franck Awounang Nekdem, Lukas Meub, Avishek Anand, Ujwal Gadiraju. *In Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2020)*. [\[PDF\]](Publications/HCOMP2020a.pdf)
 
-- \[[*HCOMP 2020*](https://www.humancomputation.com)\] **Trainbot: A Conversational Interface Based on Motivational Interviewing to Train Crowd Workers for Therapeutic Tasks**. Tahir Abbas, Vassilis-Javed Khan, Ujwal Gadiraju, Panos Markopoulos. *In Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2020)*. [\[PDF\]](Publications/Trainbot_HCOMP_2020.pdf)
+- \[[*HCOMP 2020*](https://www.humancomputation.com)\] **Trainbot: A Conversational Interface to Train Crowd Workers for Delivering On-Demand Therapy**. Tahir Abbas, Vassilis-Javed Khan, Ujwal Gadiraju, Panos Markopoulos. *In Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2020)*. [\[PDF\]](Publications/Trainbot_HCOMP_2020.pdf)
 
 - \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **CrowdCO-OP: Sharing Risks and Rewards in Crowdsourcing**. Shaoyang Fan, Ujwal Gadiraju, Alessandro Checco, Gianluca Demartini. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]]()
 
