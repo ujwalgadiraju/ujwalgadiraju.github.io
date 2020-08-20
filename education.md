@@ -2,8 +2,8 @@
 
 ## 2020
 
-- **Applied Machine Learning** with other colleagues, Delft University of Technology
-<a href="">        
+- **Applied Machine Learning (CS4305TU)** with colleagues, Delft University of Technology
+<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56615">        
 <!-- <img src="" alt="" width="240"> -->
 </a>
 
