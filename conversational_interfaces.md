@@ -2,6 +2,8 @@
 
 Here's a list of selected publications in this line of research.
 
+- \[[*HCOMP 2020*](https://www.humancomputation.com)\] **Trainbot: A Conversational Interface to Train Crowd Workers for Delivering On-Demand Therapy**. Tahir Abbas, Vassilis-Javed Khan, Ujwal Gadiraju, Panos Markopoulos. *In Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2020)*. [\[PDF\]](Publications/HCOMP2020b.pdf)
+
 - \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **Estimating Conversational Styles in Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/CSCW2020.pdf)
 
 - \[[*ICWE 2020*](https://icwe2020.webengineering.org)\] 	**Just the Right Mood for HIT! Analyzing the Role of Worker Moods in Conversational Microtask Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *Proceedings of the International Conference on Web Engineering (ICWE 2020)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/ICWE2020.pdf)
