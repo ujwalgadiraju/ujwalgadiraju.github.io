@@ -4,7 +4,7 @@
 
 - **Applied Machine Learning (CS4305TU)** with colleagues, Delft University of Technology
 <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56615">        
-<!-- <img src="" alt="" width="240"> -->
+<img src="https://images.unsplash.com/photo-1501526029524-a8ea952b15be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="" width="240">
 </a>
 
 - **Crowd Computing (CS4145)** with Alessandro Bozzon and Nava Tintarev, Delft University of Technology
