@@ -2,6 +2,12 @@
 
 ## 2020
 
+- **Web and Database Technology (CSE1500)** with colleagues, Delft University of Technology
+<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55104">        
+<img align="left" src="" alt="" width="240">
+</a>
+Web & Database Technology is a first year course that provides an introduction to Web and Database technology and programming.
+
 - **Applied Machine Learning (CS4305TU)** with colleagues, Delft University of Technology
 <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56615">        
 <img align="left" src="https://images.unsplash.com/photo-1501526029524-a8ea952b15be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="" width="240">
