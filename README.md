@@ -11,7 +11,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
  - <a href="conversational_interfaces">Conversational Interfaces for Crowd Computing</a>
  - <a href="adms">Impact of Algorithmic Decision-Making on Humans</a>
  - Understanding the Dissonance Between Humans and Machines
- - Characterizing, Measuring and Predicting User Knowledge Gain through Web Search
+ - <a href="kg">Characterizing, Measuring and Predicting User Knowledge Gain through Web Search</a>
  
  
 ---
