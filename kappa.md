@@ -6,8 +6,6 @@
 
 ## Human-Centered AI
 
-<img src="https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px" align="right">
-
 Human-Centered AI is an emerging field that sits at the intersection of computer science, data science, and artificial intelligence. Human-Centered AI is concerned with how large groups of people can work together, potentially with artificial intelligence algorithms, to solve complex tasks that are currently beyond the capabilities of algorithms, and that cannot be solved by a single person alone.  These complex tasks are mainly focused on the creation, enrichment, and interpretation of data, making human-centered computing a building block of data-driven AI systems. Examples of such tasks include the analysis and interpretation of Web data to spot and identify inappropriate content (e.g., hate speech, or fake news); the annotation of existing data sets to create ground truth data for the training of machine learning algorithms; the explanation of machine-generated results (e.g., automatic diagnostics, product recommendations) to help users decide whether to trust them.
 
 Human-centered AI is an essential tool for any AI company: from Facebook to Microsoft, from Google to IBM, and from Spotify to Pandora, all major companies employ human-centered computing in their AI systems to fulfil their data needs, both by involving employees, and by reaching out to anonymous crowds through online marketplaces like Amazon Mechanical Turk and Appen.
@@ -17,6 +15,8 @@ The Human-Centered AI theme is led by assistant professors Dr. Ujwal Gadiraju an
 ---
 
 ## Human-AI Interaction
+
+<img src="https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px" align="right">
 
 Principles for human-AI interaction have been discussed in the HCI community for several years. However, in the light of recent advances in AI and the growing role of AI technologies in human-centered applications, a deeper exploration is the need of the hour. Within the theme of Human-AI interaction, we will explore and develop fundamental methods and techniques to harness the virtues of AI in a manner that is beneficial and useful to the society at large. 
 AI systems offer computational powers that vastly transcend human capabilities. In conjunction with the ability to autonomously detect data patterns and derive superior predictions, AI systems are projected to complement, transform and in several cases even substitute human decision-makers. This process broadly revolutionizes all the relevant stages of economical, political and societal decision-making. Despite these dynamics, the impact of AI systems on human behavior remains largely unexplored. We will address this crucial gap by carrying out interdisciplinary research to advance the current understanding of impact of AI systems on human decision-making. 
