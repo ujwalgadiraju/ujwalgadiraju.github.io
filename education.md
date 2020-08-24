@@ -9,6 +9,8 @@
 Web & Database Technology is a first year course that provides an introduction to Web and Database technology and programming.
 <br>
 <br>
+<br>
+<br>
 
 - **Applied Machine Learning (CS4305TU)** with colleagues, Delft University of Technology
 <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56615">        
