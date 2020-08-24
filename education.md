@@ -25,6 +25,8 @@ Machine Learning is increasingly important to fields outside of traditional Arti
 Crowd Computing is an emerging field that sits at the intersection of computer science and data science. Crowd computing studies how large groups of people can solve complex tasks that are currently beyond the capabilities of artificial intelligence algorithms, and that cannot be solved by a single person alone. 
 It involves algorithmic engagement and coordination of people by means of Web-enabled platforms. These complex tasks are mainly focused on the creation, enrichment, and interpretation of data, making crowd computing a building block of data science. Examples of such tasks include the coordinated creation of data about real world events when electronic sensors are not available; the annotation of existing data sets to create ground truth data for the training of machine learning algorithms; and the analysis and interpretation of Web data to spot identify inappropriate content (e.g.,hate speech, or fake news).
 
+---
+
 ## 2019
 
 - **Foundations of Human Computation and Crowdsourcing** with Sergej Zerr, Leibniz University of Hannover
@@ -35,6 +37,7 @@ It involves algorithmic engagement and coordination of people by means of Web-en
 - **Social Computing** with Alessandro Checco and Cristina Sarasua, University of Zurich <br>
 <img src="social_computing.jpg" alt="Social Computing" width="240">
 
+---
 
 ## 2018
 
