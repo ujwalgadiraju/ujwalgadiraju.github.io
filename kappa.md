@@ -6,6 +6,8 @@
 
 ## Human-Centered AI
 
+<img src="https://images.unsplash.com/photo-1524673360092-e07b7ae58845?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px" align="left">
+
 Human-Centered AI is an emerging field that sits at the intersection of computer science, data science, and artificial intelligence. Human-Centered AI is concerned with how large groups of people can work together, potentially with artificial intelligence algorithms, to solve complex tasks that are currently beyond the capabilities of algorithms, and that cannot be solved by a single person alone.  These complex tasks are mainly focused on the creation, enrichment, and interpretation of data, making human-centered computing a building block of data-driven AI systems. Examples of such tasks include the analysis and interpretation of Web data to spot and identify inappropriate content (e.g., hate speech, or fake news); the annotation of existing data sets to create ground truth data for the training of machine learning algorithms; the explanation of machine-generated results (e.g., automatic diagnostics, product recommendations) to help users decide whether to trust them.
 
 Human-centered AI is an essential tool for any AI company: from Facebook to Microsoft, from Google to IBM, and from Spotify to Pandora, all major companies employ human-centered computing in their AI systems to fulfil their data needs, both by involving employees, and by reaching out to anonymous crowds through online marketplaces like Amazon Mechanical Turk and Appen.
