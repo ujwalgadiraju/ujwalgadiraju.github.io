@@ -1,4 +1,4 @@
-# Kappa Lab: Crowd Computing and Human-Centered AI
+# Kappa Lab: Crowd Computing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pwCT4L0S90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
