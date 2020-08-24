@@ -1,4 +1,4 @@
-Ujwal Gadiraju is an Assistant Professor at the [Web Information Systems](http://wis.ewi.tudelft.nl/) group of the Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI), [*Delft University of Technology*](https://www.tudelft.nl/en/). 
+Ujwal Gadiraju is an Assistant Professor at the [Web Information Systems](http://wis.ewi.tudelft.nl/) group of the Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI), [*Delft University of Technology*](https://www.tudelft.nl/en/). Ujwal leads the <a href="kappa">Kappa</a> research line on Crowd Computing and Human-Centered AI, together with [Jie Yang](https://yangjiera.github.io) at the WIS group.
 
 ----
 
