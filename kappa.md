@@ -2,6 +2,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pwCT4L0S90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
 ## Human-Centered AI
 
 Human-Centered AI is an emerging field that sits at the intersection of computer science, data science, and artificial intelligence. Human-Centered AI is concerned with how large groups of people can work together, potentially with artificial intelligence algorithms, to solve complex tasks that are currently beyond the capabilities of algorithms, and that cannot be solved by a single person alone.  These complex tasks are mainly focused on the creation, enrichment, and interpretation of data, making human-centered computing a building block of data-driven AI systems. Examples of such tasks include the analysis and interpretation of Web data to spot and identify inappropriate content (e.g., hate speech, or fake news); the annotation of existing data sets to create ground truth data for the training of machine learning algorithms; the explanation of machine-generated results (e.g., automatic diagnostics, product recommendations) to help users decide whether to trust them.
