@@ -2,6 +2,8 @@
 
 ## 2020
 
+- \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **TickTalkTurk: Conversational Crowdsourcing Made Easy**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]](Publications/CSCW_2020_Demo.pdf) 
+
 - \[[*BIAS 2020*](https://sites.google.com/view/bias-2020/)\] **Assessing Viewpoint Diversity in Search Results Using Ranking Fairness Metrics**. Tim Draws, Nava Tintarev, Ujwal Gadiraju, Alessandro Bozzon, Benjamin Timmermans. *In Proceedings of the 1st Workshop on Bias and Fairness in AI at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020)*. [\[PDF\]](Publications/Bias2020.pdf)
 
 - \[[*HCOMP 2020*](https://www.humancomputation.com)\] **Impact of Algorithmic Decision Making on Human Behavior: Evidence from Ultimatum Bargaining**. Alexander Erlei, Franck Awounang Nekdem, Lukas Meub, Avishek Anand, Ujwal Gadiraju. *In Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2020)*. [\[PDF\]](Publications/HCOMP2020a.pdf)
