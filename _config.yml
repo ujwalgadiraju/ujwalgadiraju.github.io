@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Ujwal Gadiraju
 description: Assistant Professor, TU Delft
-logo: /ujwal_gadiraju_cropped.jpg
+logo: /ujwal_gadiraju_cropped.jpg=150x150
 google_analytics: UA-68030956-2
 github:
   is_project_page: false
