@@ -1,5 +1,12 @@
 # Teaching Activities
 
+## 2021
+
+- **Human Computer Interaction (CSE3500)** with Myrthe Tielmann, Delft University of Technology
+<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55134">
+<img align="left" src="https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
+</a>
+
 ## 2020
 
 - **Web and Database Technology (CSE1500)** with colleagues, Delft University of Technology
