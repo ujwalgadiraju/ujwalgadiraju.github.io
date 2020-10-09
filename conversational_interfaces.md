@@ -19,4 +19,6 @@ Here's a list of selected publications in this line of research.
 
 - \[[*IWILDS 2020*](https://www.cikm2020.org)\] **Conversational Interfaces for Search As Learning**. Sihang Qiu, Alessandro Bozzon, Ujwal Gadiraju. *In Proceedings of the 1st International Workshop on Investigating Learning During Web Search (IWILDS 2020) at CIKM 2020. [\[PDF\]](Publications/IWILDS2020.pdf) 
 
+- \[[*UMAP 2019*](http://www.cyprusconferences.org/umap2019/)\] **Chatterbox: Conversational Interfaces for Microtask Crowdsourcing**. Panagiotis Mavridis, Owen Huang, Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2019)*. [\[PDF\]](http://www.l3s.de/~gadiraju/publications/Chatterbox_UMAP2019.pdf)
+
 
