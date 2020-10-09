@@ -12,7 +12,7 @@
 
 - \[[*HCOMP 2020*](https://www.humancomputation.com)\] **Trainbot: A Conversational Interface to Train Crowd Workers for Delivering On-Demand Therapy**. Tahir Abbas, Vassilis-Javed Khan, Ujwal Gadiraju, Panos Markopoulos. *In Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2020)*. [\[PDF\]](Publications/HCOMP2020b.pdf)
 
-- \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **CrowdCO-OP: Sharing Risks and Rewards in Crowdsourcing**. Shaoyang Fan, Ujwal Gadiraju, Alessandro Checco, Gianluca Demartini. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]]()
+- \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **CrowdCO-OP: Sharing Risks and Rewards in Crowdsourcing**. Shaoyang Fan, Ujwal Gadiraju, Alessandro Checco, Gianluca Demartini. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]](Publications/CrowdCOOP_CSCW2020.pdf)
 
 - \[[*NFW 2020*](https://www.microsoft.com/en-us/research/event/new-future-of-work/)\] **Remote Work Aided By Conversational Agents**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the Microsoft Symposium on the New Future of Work (NFW 2020)*. [\[PDF\]](https://www.microsoft.com/en-us/research/uploads/prod/2020/07/NFW-Qiu-et-al.pdf)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Tbj9p36oNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
