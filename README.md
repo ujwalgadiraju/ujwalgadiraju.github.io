@@ -18,7 +18,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 # News
 
- - \[11.10.2020\] Paper titled "CrowdCO-OP: Sharing Risks and Rewards in Crowdsourcing" with Shaoyang Fan, Alessandro Checco, Gianluca Demartini received an &#127942; *Honorable Mention Award* &#127942; at ACM [CSCW 2020](https://cscw.acm.org/2020/). <b> Top 0.03%</b>.
+ - \[11.10.2020\] Paper titled "CrowdCO-OP: Sharing Risks and Rewards in Crowdsourcing" with Shaoyang Fan, Alessandro Checco, Gianluca Demartini received an &#127942; *Best Paper Honorable Mention Award* &#127942; at ACM [CSCW 2020](https://cscw.acm.org/2020/). <b> 
  - \[31.07.2020\] Two full papers accepted at AAAI [HCOMP 2020](https://www.humancomputation.com/). 
  (1). "Trainbot: A Conversational Interface to Train Crowd Workers for Delivering On-Demand Therapy" with Tahir Abbas, Vassilis-Javed Khan, Panos Markopoulos. 
  (2). "Impact of Algorithmic Decision Making on Human Behavior: Evidence from Ultimatum Bargaining" with Alexander Erlei, Franck Awounang Nekdem, Lukas Meub, Avishek Anand.
