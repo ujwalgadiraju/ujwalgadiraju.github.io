@@ -18,6 +18,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 # News
 
+ - \[06.11.2020\] We have announced the first edition of **[The Academic Fringe Festival](https://www.academicfringe.org)** on *Crowd Computing and Human-Centered AI*.
  - \[27.10.2020\] Paper titled "Impact of Algorithmic Decision Making on Human Behavior: Evidence from Ultimatum Bargaining" with Alexander Erlei, Franck Awounang Nekdem, Lukas Meub, Avishek Anand received the &#127942; *Best Student Paper Award* &#127942; at <b> AAAI [HCOMP 2020](https://www.humancomputation.com/). </b> 
  - \[11.10.2020\] Paper titled "CrowdCO-OP: Sharing Risks and Rewards in Crowdsourcing" with Shaoyang Fan, Alessandro Checco, Gianluca Demartini received an &#127942; *Best Paper Honorable Mention Award* &#127942; at <b> ACM [CSCW 2020](https://cscw.acm.org/2020/). </b> 
  - \[31.07.2020\] Two full papers accepted at AAAI [HCOMP 2020](https://www.humancomputation.com/). 
