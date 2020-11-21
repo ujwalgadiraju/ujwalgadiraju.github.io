@@ -21,12 +21,5 @@ See more information and project updates <b>[here](https://www.tudelft.nl/en/cov
 
 <img src="https://images.unsplash.com/photo-1533985062386-ef0837f31bc0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"  alt="" width="240" style="padding-right:10px;padding-top:10px" align="right">
 
-In this project we will develop a crowd computing platform with a conversational interface – a Web-enabled application
-that interacts with students and staff members at TU Delft (by means of traditional chat applications like Telegram,
-or Microsoft Teams). The aim is to support decision-making processes (e.g. to decide whether to attend a given
-event on the campus, or to find out what/where the next lecture is). This involves the satisfaction of an information
-need (e.g. information about the crowdedness of the event area, or the timetable of a given student) and solicit data
-about a given event (i.e. crowdsensing), or answer information needs from other users. In addition to serving such
-use-cases, the project also aims to gather an understanding of student ‘wellbeing’ periodically by leveraging the engaging means of the conversational interface.
-<br>
-See more information and project updates <b>[here](https://www.tudelft.nl/en/covid/wellbeing/#c658803)</b>!
+In this project we will develop a crowd computing platform with a conversational interface – a Web-enabled application that interacts with students and staff members at TU Delft (by means of traditional chat applications like Telegram, or Microsoft Teams). The aim is to support decision-making processes (e.g. to decide whether to attend a given event on the campus, or to find out what/where the next lecture is). This involves the satisfaction of an information
+need (e.g. information about the crowdedness of the event area, or the timetable of a given student) and solicit data about a given event (i.e. crowdsensing), or answer information needs from other users. In addition to serving such use-cases, the project also aims to gather an understanding of student ‘wellbeing’ periodically by leveraging the engaging means of the conversational interface. See more information and project updates <b>[here](https://www.tudelft.nl/en/covid/wellbeing/#c658803)</b>!
