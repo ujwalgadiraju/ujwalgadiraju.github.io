@@ -2,7 +2,7 @@
 
 ## 2020
 
-- \[[*Crowd Science 2020*](https://research.yandex.com/workshops/crowd/neurips-2020/)\] **What Can Crowd Computing Do for the Next Generation of AI Systems?**. Ujwal Gadiraju and Jie Yang. *In Proceedings of the Crowd Science Workshop: Remoteness, Fairness, and Mechanisms as Challenges of Data Supply by Humans for Automation at NeurIPS 2020. [\[PDF\]](Publications/CrowdScience_NeurIPS2020.pdf)
+- \[[*Crowd Science 2020*](https://research.yandex.com/workshops/crowd/neurips-2020/)\] **What Can Crowd Computing Do for the Next Generation of AI Systems?** Ujwal Gadiraju and Jie Yang. *In Proceedings of the Crowd Science Workshop: Remoteness, Fairness, and Mechanisms as Challenges of Data Supply by Humans for Automation at NeurIPS 2020. [\[PDF\]](Publications/CrowdScience_NeurIPS2020.pdf)
 
 - \[[*IWILDS 2020*](https://www.cikm2020.org)\] **Conversational Interfaces for Search As Learning**. Sihang Qiu, Alessandro Bozzon, Ujwal Gadiraju. *In Proceedings of the 1st International Workshop on Investigating Learning During Web Search (IWILDS 2020) at CIKM 2020. [\[PDF\]](Publications/IWILDS2020.pdf) 
 
