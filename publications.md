@@ -2,7 +2,7 @@
 
 ## 2021
 
-- \[[*CHIIR 2021*](https://acm-chiir.github.io/chiir2021/)\] **Note the Highlight - Incorporating Active Reading Tools in a Search as Learning Environment** Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell, and Claudia Hauff. *In Proceedings of the 6th ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR 2021)*. [\[PDF\]](Publications/CHIIR2021.pdf)
+- \[[*CHIIR 2021*](https://acm-chiir.github.io/chiir2021/)\] **Note the Highlight - Incorporating Active Reading Tools in a Search as Learning Environment**. Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell, and Claudia Hauff. *In Proceedings of the 6th ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR 2021)*. [\[PDF\]](Publications/CHIIR2021.pdf)
 
 ## 2020
 
