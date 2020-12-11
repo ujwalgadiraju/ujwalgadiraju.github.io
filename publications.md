@@ -1,5 +1,9 @@
 # Selected Publications
 
+## 2021
+
+- \[[*CHIIR 2021*](https://acm-chiir.github.io/chiir2021/)\] **Note the Highlight - Incorporating Active Reading Tools in a Search as Learning Environment** Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell, and Claudia Hauff. *In Proceedings of the 6th ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR 2021)*. [\[PDF\]](Publications/CHIIR2021.pdf)
+
 ## 2020
 
 - \[[*Crowd Science 2020*](https://research.yandex.com/workshops/crowd/neurips-2020/)\] **What Can Crowd Computing Do for the Next Generation of AI Systems?** Ujwal Gadiraju and Jie Yang. *In Proceedings of the Crowd Science Workshop: Remoteness, Fairness, and Mechanisms as Challenges of Data Supply by Humans for Automation at NeurIPS 2020*. [\[PDF\]](Publications/CrowdScience_NeurIPS2020.pdf)
