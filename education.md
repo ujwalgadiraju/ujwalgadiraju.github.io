@@ -6,6 +6,7 @@
 <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55134">
 <img align="left" src="https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
 </a>
+<br>
 Traditionally interaction with computer systems moved from text-based (e.g., terminals) to graphical user interfaces (GUI). These evolved to a wider range of platforms than just desktop computers, to include computer kiosks, tablets, and smart phones. As technology systems (e.g., expert systems, recommender systems) increase in complexity, a standard graphical user interface (GUI) is often not sufficient to harness their power. This course will therefore consider developments in intelligent adaptive interfaces, but also alternative modalities for interaction such as Voice user interfaces (VUI), augmented reality (AR), and embodied agents.
 This course will cover four aspects of HCI systems: 
 a) Identifying functional and non-functional requirements. 
