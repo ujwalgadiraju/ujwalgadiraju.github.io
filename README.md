@@ -1,4 +1,4 @@
-Ujwal Gadiraju is an Assistant Professor at the [Web Information Systems](http://wis.ewi.tudelft.nl/) group of the Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI), [*Delft University of Technology*](https://www.tudelft.nl/en/). Ujwal co-leads the <a href="kappa">Kappa</a> research line on Crowd Computing and Human-Centered AI at the WIS group.
+Ujwal Gadiraju is an Assistant Professor at the [Web Information Systems](http://wis.ewi.tudelft.nl/) group of the Faculty of Engineering, Mathematics and Computer Science (EEMCS/EWI), [*Delft University of Technology*](https://www.tudelft.nl/en/). Ujwal co-leads the <a href="kappa">Kappa</a> research line on Crowd Computing and Human-Centered AI at the WIS group. He was appointed as a Distinguished Speaker of the ACM in January, 2021.
 
 ----
 
