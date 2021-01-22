@@ -18,6 +18,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 # News
 
+ - \[22.01.2021\] Appointed as an **ACM Distinguished Speaker**. This is a great way to engage with emerging professionals, students and the public on a range of topics in Crowd Computing and Human-Centered AI! 
  - \[08.12.2020\] Awarded a 5,000 EUR seed funding grant from the TU Delft Safety and Security Institute to support the ground work in building **Conversational Agents for Mental Health & Wellbeing**. The team consists of assistant professors [Dr. Trivik Verma](https://research.trivikverma.com/) from the TPM faculty and Dr. Derek Lomas from the IDE faculty. More on this coming up soon!
  - \[06.11.2020\] We have announced the first edition of **[The Academic Fringe Festival](https://www.academicfringe.org)** on *Crowd Computing and Human-Centered AI*.
  - \[27.10.2020\] Paper titled "Impact of Algorithmic Decision Making on Human Behavior: Evidence from Ultimatum Bargaining" with Alexander Erlei, Franck Awounang Nekdem, Lukas Meub, Avishek Anand received the &#127942; *Best Student Paper Award* &#127942; at <b> AAAI [HCOMP 2020](https://www.humancomputation.com/). </b> 
