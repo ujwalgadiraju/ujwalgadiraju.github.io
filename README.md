@@ -17,7 +17,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 ---
 
 # News
- - \[30.01.2021\] Our proposal for a Delft AI Lab called 'Design@Scale' has been accepted. I will serve as a Director of the [Design@Scale] Lab(https://www.tudelft.nl/en/ai/dats-lab), which focuses on Human-AI collaboration to design solutions for complex social problems. This lab is the product of a collaboration with wonderful colleagues from the Industrial Design Engineering faculty at TU Delft.
+ - \[30.01.2021\] Our proposal for a Delft AI Lab called 'Design@Scale' has been accepted. I will serve as a Director of the [Design@Scale Lab](https://www.tudelft.nl/en/ai/dats-lab), which focuses on Human-AI collaboration to design solutions for complex social problems. This lab is the product of a collaboration with wonderful colleagues from the Industrial Design Engineering faculty at TU Delft.
  - \[22.01.2021\] Appointed as an **ACM Distinguished Speaker**. This is a great way to engage with emerging professionals, students and the public on a range of topics in Crowd Computing and Human-Centered AI! 
  - \[08.12.2020\] Awarded a 5,000 EUR seed funding grant from the TU Delft Safety and Security Institute to support the ground work in building **Conversational Agents for Mental Health & Wellbeing**. The team consists of assistant professors [Dr. Trivik Verma](https://research.trivikverma.com/) from the TPM faculty and Dr. Derek Lomas from the IDE faculty. More on this coming up soon!
  - \[06.11.2020\] We have announced the first edition of **[The Academic Fringe Festival](https://www.academicfringe.org)** on *Crowd Computing and Human-Centered AI*.
