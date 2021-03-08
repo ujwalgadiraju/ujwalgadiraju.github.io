@@ -2,6 +2,8 @@
 
 ## 2021
 
+- \[[*UMAP 2021*](https://www.um.org/umap2021/)\] **How Do User Opinions Influence Their Interaction With Web Search Results?**. Luyan Xu, Mengdie Zhuang, and Ujwal Gadiraju. *In Proceedings of the 29th ACM 29th Conference on User Modeling, Adaptation and Personalization (UMAP 2021)*. [\[PDF\]](Publications/UMAP2021b.pdf)
+
 - \[[*UMAP 2021*](https://www.um.org/umap2021/)\] **Second Chance for a First Impression? Trust Development in Intelligent System Interaction**. Suzanne Tolmeijer, Ujwal Gadiraju, Ramya Ghantasala, Akshit Gupta, and Abraham Bernstein. *In Proceedings of the 29th ACM 29th Conference on User Modeling, Adaptation and Personalization (UMAP 2021)*. [\[PDF\]](Publications/UMAP2021a.pdf)
 
 - \[[*IRJ 2021*]()\] **Topic-independent Modeling of User Knowledge in Informational Search Sessions.** Ran Yu, Rui Tang, Markus Rokicki, Ujwal Gadiraju, and Stefan Dietze. *Information Retrieval Journal*. [\[PDF\]](Publications/IRJ2021.pdf)
