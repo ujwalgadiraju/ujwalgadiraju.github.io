@@ -2,6 +2,8 @@
 
 ## 2021
 
+- \[[*UMAP 2021*](https://www.um.org/umap2021/)\] **Second Chance for a First Impression? Trust Development in Intelligent System Interaction**. Suzanne Tolmeijer, Ujwal Gadiraju, Ramya Ghantasala, Akshit Gupta, and Abraham Bernstein. *In Proceedings of the 29th ACM 29th Conference on User Modeling, Adaptation and Personalization (UMAP 2021)*. [\[PDF\]](Publications/UMAP2021a.pdf)
+
 - \[[*IRJ 2021*]()\] **Topic-independent Modeling of User Knowledge in Informational Search Sessions.** Ran Yu, Rui Tang, Markus Rokicki, Ujwal Gadiraju, and Stefan Dietze. *Information Retrieval Journal*. [\[PDF\]](Publications/IRJ2021.pdf)
 
 - \[[*ECIR 2021*](https://www.ecir2021.eu)\] **How Do Active Reading Strategies Affect Learning Outcomes in Web Search?** Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell, and Claudia Hauff. *In Proceedings of the 43rd annual BCS-IRSG European Conference on Information Retrieval (ECIR 2021)*. [\[PDF\]](Publications/ECIR2021.pdf)
