@@ -36,7 +36,7 @@
 - \[[*NFW 2020*](https://www.microsoft.com/en-us/research/event/new-future-of-work/)\] **Remote Work Aided By Conversational Agents**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the Microsoft Symposium on the New Future of Work (NFW 2020)*. [\[PDF\]](https://www.microsoft.com/en-us/research/uploads/prod/2020/07/NFW-Qiu-et-al.pdf)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Tbj9p36oNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- \[[*WISE 2020*](http://wasp.cs.vu.nl/WISE2020/)\] ***TaskGenie*: Crowd-powered Generation of Struggling Search Tasks**. Luyan Xu, Xuan Zhou, Ujwal Gadiraju. *In Proceedings of the 21st International Conference on Web Information Systems Engineering (WISE 2020)*. [\[PDF\]]()
+- \[[*WISE 2020*](http://wasp.cs.vu.nl/WISE2020/)\] ***TaskGenie*: Crowd-powered Generation of Struggling Search Tasks**. Luyan Xu, Xuan Zhou, Ujwal Gadiraju. *In Proceedings of the 21st International Conference on Web Information Systems Engineering (WISE 2020)*. [\[PDF\]](https://link.springer.com/chapter/10.1007%2F978-3-030-62008-0_1)
 
 - \[[*ICTIR 2020*](https://ictir2020.org/)\] **Towards Memorable Information Retrieval**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR 2020)*. [\[PDF\]](Publications/ICTIR_2020.pdf)
 <video src="ICTIR_2020.mp4" width="560" height="315" controls preload>Watch Video</video>
