@@ -7,3 +7,11 @@
 ------
 
 # Previous Talks
+
+## 2021
+
+*22.03.2021* – [AI4Fintech Talk](https://se.ewi.tudelft.nl/ai4fintech/) – Towards Conversational Human-AI Interfaces
+
+*11.03.2021* – [Faculty Lunch Talk at TU Delft]() – Trust Development in Human-AI Interactions
+
+
