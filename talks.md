@@ -14,4 +14,8 @@
 
 *11.03.2021* – [Faculty Lunch Talk at TU Delft]() : Trust Development in Human-AI Interactions
 
+## 2020
 
+*27.11.2020* – [L3S Seminar at Leibniz University of Hannover]() : Conversational Interfaces for Health, Search, and Crowd Computing
+
+*09.11.2020* – [Lecture Series on Digital and Networked Working Environments at the University of Bielefeld and Paderborn University](https://www.uni-paderborn.de/en/termin?tx_cal_controller%5Btype%5D=tx_cal_phpicalendar&tx_cal_controller%5Buid%5D=21679&tx_cal_controller%5Bview%5D=event&cHash=b96d05a1419037db1400c2ba66c40dda) : Conversational Interfaces for Health, Search, and Crowd Computing
