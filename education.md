@@ -3,7 +3,7 @@
 ## 2021
 
 - **Crowd Computing (CS4145)** with Alessandro Bozzon, Delft University of Technology
-<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51132">        
+<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281">        
 <img align="left" src="CS4145.png" alt="CS4145" width="240" style="padding-right:10px;padding-top:10px">
 </a>
 Crowd Computing is an emerging field that sits at the intersection of computer science and data science. Crowd computing studies how large groups of people can solve complex tasks that are currently beyond the capabilities of artificial intelligence algorithms, and that cannot be solved by a single person alone. 
