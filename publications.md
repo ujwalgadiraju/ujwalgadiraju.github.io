@@ -2,6 +2,8 @@
 
 ## 2021
 
+- \[[*SIGIR 2021*](https://sigir.org/sigir2021/)\] **How Do Biased Search Result Rankings Affect User Attitudes on Debated Topics?** Tim Draws, Nava Tintarev, Ujwal Gadiraju, Alessandro Bozzon and Benjamin Timmermans. *In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021)*. [\[PDF\]](Publications/SIGIR2021.pdf)
+
 - \[[*Web Science 2021*](http://websci21.webscience.org/)\] **Improving Reactions to Rejection in Crowdsourcing Through Self-Reflection** Tom Edixhoven, Sihang Qiu, Lucie Kuiper, Olivier Dikken, Gwennan Smitskamp and Ujwal Gadiraju. *In Proceedings of the 13th ACM Web Science Conference (WebSci 2021)*. [\[PDF\]](Publications/WebSci2021.pdf)
 
 - \[[*CUI@CHI 2021*](http://www.speechinteraction.org/CHI2021/)\] **How Do User Moods Affect Perceived Delays in Crowd-Powered Conversational Interactions?** Tahir Abbas, Ujwal Gadiraju, and Panos Markopoulos. *In Proceedings of the Workshop at the 2021 ACM CHI Conference – Let's Talk About CUIs: Putting Conversational User Interface Design Into Practice (CUI@CHI 2021)*. [\[PDF\]](Publications/CUI_CHI2021.pdf)
