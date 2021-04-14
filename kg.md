@@ -1,3 +1,11 @@
+## 2021
+
+- \[[*IRJ 2021*]()\] **Topic-independent Modeling of User Knowledge in Informational Search Sessions.** Ran Yu, Rui Tang, Markus Rokicki, Ujwal Gadiraju, and Stefan Dietze. *Information Retrieval Journal*. [\[PDF\]](https://link.springer.com/article/10.1007/s10791-021-09391-7)
+
+- \[[*ECIR 2021*](https://www.ecir2021.eu)\] **How Do Active Reading Strategies Affect Learning Outcomes in Web Search?** Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell, and Claudia Hauff. *In Proceedings of the 43rd annual BCS-IRSG European Conference on Information Retrieval (ECIR 2021)*. [\[PDF\]](Publications/ECIR2021.pdf)
+
+- \[[*CHIIR 2021*](https://acm-chiir.github.io/chiir2021/)\] **Note the Highlight - Incorporating Active Reading Tools in a Search as Learning Environment**. Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell, and Claudia Hauff. *In Proceedings of the 6th ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR 2021)*. [\[PDF\]](Publications/CHIIR2021.pdf)
+
 ## 2020
 
 - \[[*HT 2020*](https://ht.acm.org/ht2020/)\] **How Does Team Composition Affect Knowledge Gain of Users in Collaborative Web Search?**. Luyan Xu, Xuan Zhou, Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2020)*. [\[PDF\]](Publications/OptimizingKG.pdf)
