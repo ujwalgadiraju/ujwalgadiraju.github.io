@@ -1,5 +1,7 @@
 ## 2021
 
+- \[[*SIGIR 2021*](https://sigir.org/sigir2021/)\] **How Do Biased Search Result Rankings Affect User Attitudes on Debated Topics?** Tim Draws, Nava Tintarev, Ujwal Gadiraju, Alessandro Bozzon and Benjamin Timmermans. *In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021)*. [\[PDF\]](Publications/SIGIR2021.pdf)
+
 - \[[*IRJ 2021*]()\] **Topic-independent Modeling of User Knowledge in Informational Search Sessions.** Ran Yu, Rui Tang, Markus Rokicki, Ujwal Gadiraju, and Stefan Dietze. *Information Retrieval Journal*. [\[PDF\]](https://link.springer.com/article/10.1007/s10791-021-09391-7)
 
 - \[[*ECIR 2021*](https://www.ecir2021.eu)\] **How Do Active Reading Strategies Affect Learning Outcomes in Web Search?** Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell, and Claudia Hauff. *In Proceedings of the 43rd annual BCS-IRSG European Conference on Information Retrieval (ECIR 2021)*. [\[PDF\]](Publications/ECIR2021.pdf)
