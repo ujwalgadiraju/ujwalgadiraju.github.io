@@ -2,7 +2,7 @@
 
 ## 2021
 
-- \[[*NAACL 2021*](https://trustnlpworkshop.github.io)\] **Towards Benchmarking the Utility of Explanations for Model Debugging** Maximilian Idahl, Lijun Lyu, Ujwal Gadiraju, Avishek Anand. *In Proceedings of TrustNLP: First Workshop on Trustworthy Natural Language Processing
+- \[[*NAACL 2021*](https://trustnlpworkshop.github.io)\] **Towards Benchmarking the Utility of Explanations for Model Debugging.** Maximilian Idahl, Lijun Lyu, Ujwal Gadiraju, Avishek Anand. *In Proceedings of TrustNLP: First Workshop on Trustworthy Natural Language Processing
 Colocated with the Annual Conference of the North American Chapter of the Association for Computational Linguistics*. [\[PDF\]](Publications/TrustNLP_NAACL2021.pdf)
 
 - \[[*SIGIR 2021*](https://sigir.org/sigir2021/)\] **This Is Not What We Ordered: Exploring Why Biased Search Result Rankings Affect User Attitudes on Debated Topics** Tim Draws, Nava Tintarev, Ujwal Gadiraju, Alessandro Bozzon and Benjamin Timmermans. *In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021)*. [\[PDF\]](Publications/SIGIR2021.pdf)
