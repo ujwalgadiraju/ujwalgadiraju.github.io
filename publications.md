@@ -3,9 +3,9 @@
 ## 2021
 
 - \[[*NAACL 2021*](https://trustnlpworkshop.github.io)\] **Towards Benchmarking the Utility of Explanations for Model Debugging.** Maximilian Idahl, Lijun Lyu, Ujwal Gadiraju, Avishek Anand. *In Proceedings of TrustNLP: First Workshop on Trustworthy Natural Language Processing
-Colocated with the Annual Conference of the North American Chapter of the Association for Computational Linguistics*. [\[PDF\]](Publications/TrustNLP_NAACL2021.pdf)
+Colocated with the Annual Conference of the North American Chapter of the Association for Computational Linguistics*. [\[PDF\]](Publications/TrustNLP_NAACL2021.pdf) <span style="color:blue">Workshop Paper</span>
 
-- \[[*SIGIR 2021*](https://sigir.org/sigir2021/)\] **This Is Not What We Ordered: Exploring Why Biased Search Result Rankings Affect User Attitudes on Debated Topics** Tim Draws, Nava Tintarev, Ujwal Gadiraju, Alessandro Bozzon and Benjamin Timmermans. *In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021)*. [\[PDF\]](Publications/SIGIR2021.pdf)
+- \[[*SIGIR 2021*](https://sigir.org/sigir2021/)\] **This Is Not What We Ordered: Exploring Why Biased Search Result Rankings Affect User Attitudes on Debated Topics** Tim Draws, Nava Tintarev, Ujwal Gadiraju, Alessandro Bozzon and Benjamin Timmermans. *In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021)*. [\[PDF\]](Publications/SIGIR2021.pdf) <span style="color:blue">Full Paper</span>
 
 - \[[*Web Science 2021*](http://websci21.webscience.org/)\] **Improving Reactions to Rejection in Crowdsourcing Through Self-Reflection** Tom Edixhoven, Sihang Qiu, Lucie Kuiper, Olivier Dikken, Gwennan Smitskamp and Ujwal Gadiraju. *In Proceedings of the 13th ACM Web Science Conference (WebSci 2021)*. [\[PDF\]](Publications/WebScience2021.pdf)
 
