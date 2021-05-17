@@ -2,7 +2,7 @@
 
 ## 2021
 
-- \[[*CSCW 2021*](https://cscw.acm.org/2021/)\] **Using Worker Avatars to Improve Microtask Crowdsourcing**. Sihang Qiu, Alessandro Bozzon, Max V. Birk, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2021)*. [\[PDF\]](Publications/CSCW_2021.pdf) 
+- \[[*CSCW 2021*](https://cscw.acm.org/2021/)\] **Using Worker Avatars to Improve Microtask Crowdsourcing**. Sihang Qiu, Alessandro Bozzon, Max V. Birk, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2021)*. [\[PDF\]](Publications/CSCW2021.pdf) 
 
 - \[[*NAACL 2021*](https://trustnlpworkshop.github.io)\] **Towards Benchmarking the Utility of Explanations for Model Debugging.** Maximilian Idahl, Lijun Lyu, Ujwal Gadiraju, Avishek Anand. *In Proceedings of TrustNLP: First Workshop on Trustworthy Natural Language Processing
 Colocated with the Annual Conference of the North American Chapter of the Association for Computational Linguistics*. [\[PDF\]](Publications/TrustNLP_NAACL2021.pdf) 
