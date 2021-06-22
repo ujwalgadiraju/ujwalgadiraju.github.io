@@ -2,6 +2,30 @@
 
 Here's a list of selected publications in this line of research.
 
+## 2021
+
+- \[[*CSCW 2021*](https://cscw.acm.org/2021/)\] **Using Worker Avatars to Improve Microtask Crowdsourcing**. Sihang Qiu, Alessandro Bozzon, Max V. Birk, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2021)*. [\[PDF\]](Publications/CSCW2021.pdf) 
+
+---
+
+- \[[*CUI@CHI 2021*](http://www.speechinteraction.org/CHI2021/)\] **How Do User Moods Affect Perceived Delays in Crowd-Powered Conversational Interactions?** Tahir Abbas, Ujwal Gadiraju, and Panos Markopoulos. *In Proceedings of the Workshop at the 2021 ACM CHI Conference – Let's Talk About CUIs: Putting Conversational User Interface Design Into Practice (CUI@CHI 2021)*. [\[PDF\]](Publications/CUI_CHI2021.pdf)
+
+---
+
+## 2020
+
+- \[[*Crowd Science 2020*](https://research.yandex.com/workshops/crowd/neurips-2020/)\] **Conversational Crowdsourcing**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon, and Geert-Jan Houben. *In Proceedings of the Crowd Science Workshop: Remoteness, Fairness, and Mechanisms as Challenges of Data Supply by Humans for Automation at NeurIPS 2020*. [\[PDF\]](http://ceur-ws.org/Vol-2736/paper1.pdf)
+
+---
+
+- \[[*IWILDS 2020*](https://www.cikm2020.org)\] **Conversational Interfaces for Search As Learning**. Sihang Qiu, Alessandro Bozzon, Ujwal Gadiraju. *In Proceedings of the 1st International Workshop on Investigating Learning During Web Search (IWILDS 2020) at CIKM 2020*. [\[PDF\]](Publications/IWILDS2020.pdf) 
+
+---
+
+- \[[*CSCW 2020*](https://cscw.acm.org/2020/)\] **TickTalkTurk: Conversational Crowdsourcing Made Easy**. Sihang Qiu, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2020)*. [\[PDF\]](Publications/CSCW_2020_Demo.pdf) 
+
+---
+
 - \[[*HCOMP 2020*](https://www.humancomputation.com)\] **Trainbot: A Conversational Interface to Train Crowd Workers for Delivering On-Demand Therapy**. Tahir Abbas, Vassilis-Javed Khan, Ujwal Gadiraju, Panos Markopoulos. *In Proceedings of the 8th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2020)*. [\[PDF\]](Publications/HCOMP2020b.pdf)
 
 ---
