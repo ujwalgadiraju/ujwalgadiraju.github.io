@@ -18,7 +18,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 # News
 
-- \[23.06.2021\] Received the "Best Reviewer Award" at [ACM UMAP 2021](https://www.um.org/umap2021/index.php). 13 among more than 100 reviewers at UMAP 2021 were bestowed with this award.
+- \[23.06.2021\] Received the &#127942; *"Best Reviewer Award"* &#127942; at [ACM UMAP 2021](https://www.um.org/umap2021/index.php). 13 among more than 100 reviewers at UMAP 2021 were bestowed with this award.
 - \[13.04.2021\] Full paper titled *"Improving Reactions to Rejection in Crowdsourcing Through Self-Reflection"* has been accepted at [ACM Web Science 2021](http://websci21.webscience.org/)! This began as a group project among students following the previous edition of the MSc. course on [Crowd Computing](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281).
  - \[08.03.2021\] 1 full paper exploring *Trust Development in Human-AI Interaction*, and 1 short paper exploring *User Biases in Web Search* accepted at [ACM UMAP 2021](https://www.um.org/umap2021/index.php)! 
  - \[30.01.2021\] Our proposal for a Delft AI Lab called 'Design@Scale' has been accepted. I will serve as a Director of the [Design@Scale Lab](https://www.tudelft.nl/en/ai/dats-lab), which focuses on Human-AI collaboration to design solutions for complex social problems. This lab is the product of a collaboration with wonderful colleagues from the Industrial Design Engineering faculty at TU Delft.
