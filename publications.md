@@ -2,6 +2,8 @@
 
 ## 2021
 
+- \[[*HT 2021*](https://ht.acm.org/ht2021/)\] **What Is Unclear? Computational Assessment of Task Clarity in Crowdsourcing**. Zahra Nouri, Ujwal Gadiraju, Gregor Engels, Henning Wachsmuth. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2021)*. [\[PDF\]](Publications/HT2021.pdf) 
+
 - \[[*CSCW 2021*](https://cscw.acm.org/2021/)\] **Using Worker Avatars to Improve Microtask Crowdsourcing**. Sihang Qiu, Alessandro Bozzon, Max V. Birk, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2021)*. [\[PDF\]](Publications/CSCW2021.pdf) 
 
 - \[[*NAACL 2021*](https://trustnlpworkshop.github.io)\] **Towards Benchmarking the Utility of Explanations for Model Debugging.** Maximilian Idahl, Lijun Lyu, Ujwal Gadiraju, Avishek Anand. *In Proceedings of TrustNLP: First Workshop on Trustworthy Natural Language Processing
