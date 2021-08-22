@@ -17,6 +17,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 # News
 
+- \[21.08.2021\] 3 full papers accepted to AAAI HCOMP 2021! 
 - \[09.07.2021\] Full paper titled *"What Is Unclear? Computational Assessment of Task Clarity in Crowdsourcing"* has been accepted at [ACM HT 2021](https://ht.acm.org/ht2021/)! 
 - \[23.06.2021\] Received the &#127942; *"Best Reviewer Award"* &#127942; at [ACM UMAP 2021](https://www.um.org/umap2021/index.php). 13 among more than 100 reviewers at UMAP 2021 were bestowed with this award.
 - \[13.04.2021\] Full paper titled *"Improving Reactions to Rejection in Crowdsourcing Through Self-Reflection"* has been accepted at [ACM Web Science 2021](http://websci21.webscience.org/)! This began as a group project among students following the previous edition of the MSc. course on [Crowd Computing](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281).
