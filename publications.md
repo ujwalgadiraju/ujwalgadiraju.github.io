@@ -2,6 +2,13 @@
 
 ## 2021
 
+
+- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **Making Time Fly: Using Fillers to Improve Perceived Latency in Crowd-Powered Conversational Systems**. Tahir Abbas, Ujwal Gadiraju, Vassilis-Javed Khan and Panos Markopoulos. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021). [\[PDF\]](Publications/HCOMP2021a.pdf)
+
+- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **A Checklist to Combat Cognitive Biases in Crowdsourcing**. Tim Draws, Alisa Rieger, Oana Inel, Ujwal Gadiraju and Nava Tintarev. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021). [\[PDF\]](Publications/HCOMP2021b.pdf) 
+
+- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **Exploring the Music Perception Skills of Crowd Workers**.  Ioannis Petros Samiotis, Sihang Qiu, Christoph Lofi, Jie Yang, Ujwal Gadiraju and Alessandro Bozzon. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021). [\[PDF\]](Publications/HCOMP2021c.pdf) 
+
 - \[[*HT 2021*](https://ht.acm.org/ht2021/)\] **What Is Unclear? Computational Assessment of Task Clarity in Crowdsourcing**. Zahra Nouri, Ujwal Gadiraju, Gregor Engels, Henning Wachsmuth. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2021)*. [\[PDF\]](Publications/HT2021.pdf) 
 
 - \[[*CSCW 2021*](https://cscw.acm.org/2021/)\] **Using Worker Avatars to Improve Microtask Crowdsourcing**. Sihang Qiu, Alessandro Bozzon, Max V. Birk, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2021)*. [\[PDF\]](Publications/CSCW2021.pdf) 
