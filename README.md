@@ -17,6 +17,8 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 # News
 
+
+- \[07.09.2021\] An article on a successful group project within our Crowd Computing course – [Intepreting Image Classification Models Via Crowdsourcing](https://www.datasciencecentral.com/profiles/blogs/interpreting-image-classification-models-via-crowdsourcing). 
 - \[21.08.2021\] 3 full papers accepted to AAAI HCOMP 2021! 
 - \[09.07.2021\] Full paper titled *"What Is Unclear? Computational Assessment of Task Clarity in Crowdsourcing"* has been accepted at [ACM HT 2021](https://ht.acm.org/ht2021/)! 
 - \[23.06.2021\] Received the &#127942; *"Best Reviewer Award"* &#127942; at [ACM UMAP 2021](https://www.um.org/umap2021/index.php). 13 among more than 100 reviewers at UMAP 2021 were bestowed with this award.
