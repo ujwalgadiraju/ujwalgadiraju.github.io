@@ -9,6 +9,13 @@
 
 - \[[*HCOMP 2021*](https://www.humancomputation.com)\] **Exploring the Music Perception Skills of Crowd Workers**.  Ioannis Petros Samiotis, Sihang Qiu, Christoph Lofi, Jie Yang, Ujwal Gadiraju and Alessandro Bozzon. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021c.pdf) 
 
+- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents**. Emilija Zlatkutė, Sihang Qiu, Jie Yang, and Ujwal Gadiraju. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021d.pdf) [Work-in-progress]
+
+- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge**. Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, and Ujwal Gadiraju. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021e.pdf) [Demo] 
+
+- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing**. Zahra Nouri, Nikhil Prakash, Ujwal Gadiraju, and Henning Wachsmuth. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021f.pdf) [Demo] 
+
+
 - \[[*HT 2021*](https://ht.acm.org/ht2021/)\] **What Is Unclear? Computational Assessment of Task Clarity in Crowdsourcing**. Zahra Nouri, Ujwal Gadiraju, Gregor Engels, Henning Wachsmuth. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2021)*. [\[PDF\]](Publications/HT2021.pdf) 
 
 - \[[*CSCW 2021*](https://cscw.acm.org/2021/)\] **Using Worker Avatars to Improve Microtask Crowdsourcing**. Sihang Qiu, Alessandro Bozzon, Max V. Birk, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2021)*. [\[PDF\]](Publications/CSCW2021.pdf) 
