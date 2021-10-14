@@ -13,7 +13,7 @@
 
 - \[[*HCOMP 2021*](https://www.humancomputation.com)\] **FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge**. Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, and Ujwal Gadiraju. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021e.pdf) [Demo] 
 
-- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing**. Zahra Nouri, Nikhil Prakash, Ujwal Gadiraju, and Henning Wachsmuth. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021f.pdf) [Demo] 
+- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing**. Zahra Nouri, Nikhil Prakash, Ujwal Gadiraju, and Henning Wachsmuth. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021f.pdf) [Demo] <video src="HCOMP_2021f.mp4" width="560" height="315" controls preload>Watch Video</video>
 
 
 - \[[*HT 2021*](https://ht.acm.org/ht2021/)\] **What Is Unclear? Computational Assessment of Task Clarity in Crowdsourcing**. Zahra Nouri, Ujwal Gadiraju, Gregor Engels, Henning Wachsmuth. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2021)*. [\[PDF\]](Publications/HT2021.pdf) 
