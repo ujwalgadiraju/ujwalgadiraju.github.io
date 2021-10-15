@@ -13,7 +13,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
  - <a href="kg">Human Factors in Interactive Information Retrieval</a>
  
 ----
-
+<!--
 # Current & Previous Students
 
  - <a href="https://richardhgl.github.io">Gaole He</a>
@@ -21,6 +21,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
  - <a href="https://scholar.google.com/citations?user=z0qzFVUAAAAJ">Tahir Abbas</a>
  
 ---
+-->
 
 # News
 
