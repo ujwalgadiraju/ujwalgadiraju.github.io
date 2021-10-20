@@ -16,9 +16,12 @@
 - \[[*HCOMP 2021*](https://www.humancomputation.com)\] **iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing**. Zahra Nouri, Nikhil Prakash, Ujwal Gadiraju, and Henning Wachsmuth. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021f.pdf) [Demo] <video src="iClarify_HCOMP2021.mp4" width="560" height="315" controls preload>Watch Video</video>
 
 
+- \[[*CSCW 2021*](https://cscw.acm.org/2021/)\] **Using Worker Avatars to Improve Microtask Crowdsourcing**. Sihang Qiu, Alessandro Bozzon, Max V. Birk, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2021)*. [\[PDF\]](Publications/CSCW2021.pdf) 
+
+- \[[*CSCW 2021*](https://cscw.acm.org/2021/)\] **Using Conversational Artificial Intelligence to Support Children’s Search in the Classroom**. Garrett Allen, Jie Yang, Maria Soledad Pera, and Ujwal Gadiraju. *In Proceedings of CUI@CSCW: Inclusive and Collaborative Child-facing Voice Technologies (Workshop at CSCW 2021)*. [\[PDF\]](Publications/CSCW2021a.pdf) 
+
 - \[[*HT 2021*](https://ht.acm.org/ht2021/)\] **What Is Unclear? Computational Assessment of Task Clarity in Crowdsourcing**. Zahra Nouri, Ujwal Gadiraju, Gregor Engels, Henning Wachsmuth. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2021)*. [\[PDF\]](Publications/HT2021.pdf) 
 
-- \[[*CSCW 2021*](https://cscw.acm.org/2021/)\] **Using Worker Avatars to Improve Microtask Crowdsourcing**. Sihang Qiu, Alessandro Bozzon, Max V. Birk, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2021)*. [\[PDF\]](Publications/CSCW2021.pdf) 
 
 - \[[*NAACL 2021*](https://trustnlpworkshop.github.io)\] **Towards Benchmarking the Utility of Explanations for Model Debugging.** Maximilian Idahl, Lijun Lyu, Ujwal Gadiraju, Avishek Anand. *In Proceedings of TrustNLP: First Workshop on Trustworthy Natural Language Processing
 Colocated with the Annual Conference of the North American Chapter of the Association for Computational Linguistics*. [\[PDF\]](Publications/TrustNLP_NAACL2021.pdf) 
