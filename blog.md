@@ -4,26 +4,24 @@ We are excited to share that WIS Delft will be very well represented at AAAI HCO
 
 ## Full Research Papers
 
-### A Checklist to Combat Cognitive Biases in Crowdsourcing
-
-### Exploring the Music Perception Skills of Crowd Workers
-
-### Making Time Fly: Using Fillers to Improve Perceived Latency in Crowd-Powered Conversational Systems
+- A Checklist to Combat Cognitive Biases in Crowdsourcing
+- Exploring the Music Perception Skills of Crowd Workers
+- Making Time Fly: Using Fillers to Improve Perceived Latency in Crowd-Powered Conversational Systems
 
 ## Works-in-Progress
 
-### Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors
+- Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors
 
-### The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents
+- The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents
 
 ## Demonstrations
 
-### FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge
+- FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge
 
-### iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing
+- iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing
 
 ## Blue Sky Idea
 
-### The Science of Rejection: A Research Area for Human Computation
+- The Science of Rejection: A Research Area for Human Computation
 
 Do not hesitate to reach out to us in case you would like to hear more about our work, or for potential collaboration!
