@@ -28,6 +28,6 @@ In this work led by [Petros](https://www.wis.ewi.tudelft.nl/samiotis), we explor
 
 ## Blue Sky Idea
 
-- [The Science of Rejection: A Research Area for Human Computation]():
+- [The Science of Rejection: A Research Area for Human Computation](): Burcu Sayin, Jie Yang, Andrea Passerini, Fabio Casati
 
 Do not hesitate to reach out to [us](u.k.gadiraju@tudelft.nl) in case you would like to hear more about our work, or for potential collaboration!
