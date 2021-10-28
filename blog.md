@@ -1,31 +1,29 @@
 # WIS Delft at HCOMP 2021 
 
-We are excited to share that WIS Delft will be very well represented at AAAI HCOMP 2021, the premier international conference on Human Computation and Crowdsourcing. 
+We are excited to share that WIS Delft will be very well represented at AAAI HCOMP 2021, the premier international conference on Human Computation and Crowdsourcing. Research contributions from members of WIS Delft resulted in the acceptance of 3 full papers, 2 works-in-progress, 2 demonstrations, and 1 blue sky idea. Here’s a brief overview of the different contributions that will be presented at HCOMP 2021. 
 
-Research contributions from members of WIS Delft resulted in the acceptance of 3 full papers, 2 works-in-progress, 2 demonstrations, and 1 blue sky idea. Here’s a brief overview of the different contributions that will be presented at HCOMP 2021. 
+## Full Research Papers
 
-##Full Research Papers
+### A Checklist to Combat Cognitive Biases in Crowdsourcing
 
-A Checklist to Combat Cognitive Biases in Crowdsourcing
+### Exploring the Music Perception Skills of Crowd Workers
 
-Exploring the Music Perception Skills of Crowd Workers
+### Making Time Fly: Using Fillers to Improve Perceived Latency in Crowd-Powered Conversational Systems
 
-Making Time Fly: Using Fillers to Improve Perceived Latency in Crowd-Powered Conversational Systems
+## Works-in-Progress
 
-##Works-in-Progress
+### Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors
 
-Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors
+### The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents
 
-The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents
+## Demonstrations
 
-##Demonstrations
+### FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge
 
-FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge
+### iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing
 
-iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing
+## Blue Sky Idea
 
-##Blue Sky Idea
-
-The Science of Rejection: A Research Area for Human Computation
+### The Science of Rejection: A Research Area for Human Computation
 
 Do not hesitate to reach out to us in case you would like to hear more about our work, or for potential collaboration!
