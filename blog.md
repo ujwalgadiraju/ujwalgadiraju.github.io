@@ -1,4 +1,4 @@
-###WIS Delft at HCOMP 2021###
+# WIS Delft at HCOMP 2021 
 
 We are excited to share that WIS Delft will be very well represented at AAAI HCOMP 2021, the premier international conference on Human Computation and Crowdsourcing. 
 
