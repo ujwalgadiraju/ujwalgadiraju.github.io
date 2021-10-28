@@ -18,15 +18,17 @@ In this work led by [Tahir](), we explored the challenge of dealing with latency
 
 ## Works-in-Progress
 
+
+- [The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents](https://ujwalgadiraju.com/Publications/HCOMP2021d.pdf): Emilija Zlatkute, Sihang Qiu, Jie Yang, Ujwal Gadiraju
+
 - [Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors](): 
 
-- [The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents]():
 
 ## Demonstrations
 
-- [FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge]():
+- [FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge](https://ujwalgadiraju.com/Publications/HCOMP2021e.pdf): Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, Ujwal Gadiraju
 
-- [iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing]():
+- [iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing](https://ujwalgadiraju.com/Publications/HCOMP2021f.pdf):
 
 ## Blue Sky Idea
 
