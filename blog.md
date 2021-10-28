@@ -24,4 +24,4 @@ We are excited to share that WIS Delft will be very well represented at AAAI HCO
 
 - The Science of Rejection: A Research Area for Human Computation
 
-Do not hesitate to reach out to us in case you would like to hear more about our work, or for potential collaboration!
+Do not hesitate to reach out to [us](u.k.gadiraju@tudelft.nl) in case you would like to hear more about our work, or for potential collaboration!
