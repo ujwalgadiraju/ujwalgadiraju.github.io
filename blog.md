@@ -16,18 +16,18 @@ In this work led by [Petros](https://www.wis.ewi.tudelft.nl/samiotis), we explor
 
 ## Works-in-Progress
 
-- Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors
+- [Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors]():
 
-- The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents
+- [The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents]():
 
 ## Demonstrations
 
-- FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge
+- [FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge]():
 
-- iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing
+- [iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing]():
 
 ## Blue Sky Idea
 
-- The Science of Rejection: A Research Area for Human Computation
+- [The Science of Rejection: A Research Area for Human Computation]():
 
 Do not hesitate to reach out to [us](u.k.gadiraju@tudelft.nl) in case you would like to hear more about our work, or for potential collaboration!
