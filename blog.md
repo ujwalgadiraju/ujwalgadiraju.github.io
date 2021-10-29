@@ -21,7 +21,7 @@ In this work led by [Tahir](), we explored the challenge of dealing with latency
 
 - [The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents](https://ujwalgadiraju.com/Publications/HCOMP2021d.pdf): Emilija Zlatkute, Sihang Qiu, Jie Yang, Ujwal Gadiraju
 
-- [Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors](): 
+- [Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors](https://yangjiera.github.io/pdf/hoogland2021hcomp.pdf): 
 
 
 ## Demonstrations
