@@ -1,6 +1,8 @@
 # WIS Delft at HCOMP 2021 
 
-We are thrilled to share that WIS Delft will be well-represented at AAAI HCOMP 2021, the premier international conference on Human Computation and Crowdsourcing. Research contributions from members of WIS Delft resulted in the acceptance of 3 full papers, 2 works-in-progress, 2 demonstrations, and 1 blue sky idea. Here’s a brief overview of the different contributions that will be presented at HCOMP 2021. 
+We are thrilled to share that WIS Delft will be well-represented at AAAI HCOMP 2021, the premier international conference on *Human Computation and Crowdsourcing*. Research contributions from members of WIS Delft resulted in the acceptance of 3 full papers, 2 works-in-progress, 2 demonstrations, and 1 blue sky idea. 
+
+Here’s a brief overview of the different contributions that will be presented at HCOMP 2021. 
 
 ## Full Research Papers
 
