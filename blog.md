@@ -2,7 +2,7 @@
 
 We are thrilled to share that WIS Delft will be well-represented at AAAI HCOMP 2021, the premier international conference on *Human Computation and Crowdsourcing*. Research contributions from members of WIS Delft resulted in the acceptance of 3 full papers, 2 works-in-progress, 2 demonstrations, and 1 blue sky idea. 
 
-Here’s a brief overview of the different contributions that will be presented at HCOMP 2021. 
+Here’s a brief overview of the different contributions that will be presented at [HCOMP 2021](https://www.humancomputation.com). 
 
 ## Full Research Papers
 
@@ -42,7 +42,7 @@ The goal of this study, based on time perception models, is to explore how effec
 
 - [FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge](https://ujwalgadiraju.com/Publications/HCOMP2021e.pdf): Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, Ujwal Gadiraju
 
-- [iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing](https://ujwalgadiraju.com/Publications/HCOMP2021f.pdf):
+- [iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing](https://ujwalgadiraju.com/Publications/HCOMP2021f.pdf): Zahra Nouri, Nikhil Prakash, Ujwal Gadiraju, Henning Wachsmuth
 
 ## Blue Sky Idea
 
