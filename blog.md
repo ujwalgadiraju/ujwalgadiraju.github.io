@@ -66,4 +66,4 @@ A requester can use *iClarify* to formulate a task description from scratch or a
 
 - [The Science of Rejection: A Research Area for Human Computation](https://yangjiera.github.io/pdf/sayin2021hcomp.pdf): Burcu Sayin, Jie Yang, Andrea Passerini, Fabio Casati
 
-### Do not hesitate to reach out to [us](u.k.gadiraju@tudelft.nl) in case you would like to hear more about our work, or for potential collaboration!
+### Do not hesitate to [reach out to us](u.k.gadiraju@tudelft.nl) in case you would like to hear more about our work, or for potential collaboration!
