@@ -35,7 +35,7 @@ The goal of this study, based on time perception models, is to explore how effec
 
 - [The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents](https://ujwalgadiraju.com/Publications/HCOMP2021d.pdf): Emilija Zlatkute, Sihang Qiu, Jie Yang, Ujwal Gadiraju
 
-- [Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors](https://yangjiera.github.io/pdf/hoogland2021hcomp.pdf): 
+- [Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors](https://yangjiera.github.io/pdf/hoogland2021hcomp.pdf): Pavel Hoogland, Margje Schuur, Piet van Hoffen, Jasper van Vliet, Oana Inel, Jie Yang
 
 
 ## Demonstrations
