@@ -35,7 +35,7 @@ The goal of this study, based on time perception models, is to explore how effec
 
 - [The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents](https://ujwalgadiraju.com/Publications/HCOMP2021d.pdf): Emilija Zlatkute, Sihang Qiu, Jie Yang, Ujwal Gadiraju
 
-With the increase of anthropomorphic conversational agents across several domains, research on the effects of anthropomorphism in conversational agents is also on the rise. However, prior studies present conflicting results and little is currently understood about how anthropomorphism can influence end user perception of conversational agents. This work-in-progress paper, led by [Emilija](https://www.linkedin.com/in/emilija-zlatkute/) while she was carrying out a Bachelor's project with us at [WIS](https://www.wis.ewi.tudelft.nl), attempts to contribute towards filling this gap by analysing whether anthropomorphic visual cues used in conversational agents have an effect on the trust and satisfaction of users. 
+With the increase of anthropomorphic conversational agents across several domains, research on the effects of anthropomorphism in conversational agents is also on the rise. However, prior studies present conflicting results and little is currently understood about how anthropomorphism can influence end user perception of conversational agents. This work-in-progress paper, led by [Emilija](https://www.linkedin.com/in/emilija-zlatkute/) while she was carrying out her Bachelor's thesis project with us at [WIS](https://www.wis.ewi.tudelft.nl), attempts to contribute towards filling this gap by analysing whether anthropomorphic visual cues used in conversational agents have an effect on the trust and satisfaction of users. 
 
 ![](https://media.istockphoto.com/photos/funny-pumpkins-with-faces-on-pastel-blue-background-with-copy-space-picture-id1271779055?b=1&k=20&m=1271779055&s=170667a&w=0&h=pOnRm-lq3kdjgdDd1LYUhiUseG2FKzW9rulko5YI8f8=)
 
@@ -48,7 +48,13 @@ We carried out a between-subjects experiment to this end, where the use of emoji
 
 - [FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge](https://ujwalgadiraju.com/Publications/HCOMP2021e.pdf): Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, Ujwal Gadiraju
 
-- [iClarify - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing](https://ujwalgadiraju.com/Publications/HCOMP2021f.pdf): Zahra Nouri, Nikhil Prakash, Ujwal Gadiraju, Henning Wachsmuth
+- [*iClarify* - A Tool to Help Requesters Iteratively Improve Task Descriptions in Crowdsourcing](https://ujwalgadiraju.com/Publications/HCOMP2021f.pdf): Zahra Nouri, Nikhil Prakash, Ujwal Gadiraju, Henning Wachsmuth
+
+Quality control and assurance are among the most important challenges in crowdsourcing. Low quality and sub-optimal responses from crowdworkers have been found to often result from unclear or incomplete task descriptions, especially from novice or inexperienced task requesters. Creating clear task descriptions with adequate information however, is a complex task for requesters in crowdsourcing marketplaces. To meet this challenge, we present *iClarify*, a tool that enables requesters to iteratively discover and revise eight common clarity flaws in their task description before deployment on the platform.
+
+![](https://media.istockphoto.com/photos/laptop-computer-with-magnifying-glass-as-a-symbol-for-searching-on-picture-id1269819070?b=1&k=20&m=1269819070&s=170667a&w=0&h=incq7yg0H4ZbcCqw4Rw9kqO1IUikxG6ierIHvKVtx2o=)
+
+A requester can use *iClarify* to formulate a task description from scratch or also to evaluate the clarity of prepared descriptions. The tool employs support vector regression models based on various feature types that were trained on 1332 annotated real-world task descriptions. Using these models, it scores the task description with respect to the eight flaws, and the requester can iteratively edit and evaluate the description until the scores shown by the tool reach a satisfactory level of clarity. We are currently conducting a usability study with both requesters and crowdworkers to assess to which extent the tool is effective in improving task clarity. This work was led by [Zahra](https://www.uni-paderborn.de/person/35802) and [Nikhil](https://nix07.github.io). Keep an eye out for more about *iClarify*.
 
 ## Blue Sky Idea
 
