@@ -35,6 +35,12 @@ The goal of this study, based on time perception models, is to explore how effec
 
 - [The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents](https://ujwalgadiraju.com/Publications/HCOMP2021d.pdf): Emilija Zlatkute, Sihang Qiu, Jie Yang, Ujwal Gadiraju
 
+With the increase of anthropomorphic conversational agents across several domains, research on the effects of anthropomorphism in conversational agents is also on the rise. However, prior studies present conflicting results and little is currently understood about how anthropomorphism can influence end user perception of conversational agents. This work-in-progress paper, led by [Emilija](https://www.linkedin.com/in/emilija-zlatkute/) while she was carrying out a Bachelor's project with us at [WIS](https://www.wis.ewi.tudelft.nl), attempts to contribute towards filling this gap by analysing whether anthropomorphic visual cues used in conversational agents have an effect on the trust and satisfaction of users. 
+
+![](https://media.istockphoto.com/photos/funny-pumpkins-with-faces-on-pastel-blue-background-with-copy-space-picture-id1271779055?b=1&k=20&m=1271779055&s=170667a&w=0&h=pOnRm-lq3kdjgdDd1LYUhiUseG2FKzW9rulko5YI8f8=)
+
+We carried out a between-subjects experiment to this end, where the use of emojis and a profile image of four different levels of anthropomorphism were manipulated in a conversational agent based on Telegram. A total of 120 participants had a conversation with the agent and reported their experience. Based on our findings, we conclude that individual visual cues as well as a combination of them did not have any significant effects on the trust and satisfaction of users, and discuss future directions of research.
+
 - [Exploring the Role of Domain Experts in Characterizing and Mitigating Machine Learning Errors](https://yangjiera.github.io/pdf/hoogland2021hcomp.pdf): Pavel Hoogland, Margje Schuur, Piet van Hoffen, Jasper van Vliet, Oana Inel, Jie Yang
 
 
