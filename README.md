@@ -25,7 +25,7 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 # News
 
-- \[15.11.2021\] Amazon Science  &#127942; Best Paper Award  &#127942; at [AAAI HCOMP 2021](https://ujwalgadiraju.com/Publications/HCOMP2021b.pdf) for our work titled *"A Checklist to Combat Cognitive Biases in Crowdsourcing"*. 
+- \[15.11.2021\] Amazon Science  &#127942; **Best Paper Award**  &#127942; at [AAAI HCOMP 2021](https://ujwalgadiraju.com/Publications/HCOMP2021b.pdf) for our work titled *"A Checklist to Combat Cognitive Biases in Crowdsourcing"*. 
 - \[07.09.2021\] An article on a successful group project within our Crowd Computing course – [Intepreting Image Classification Models Via Crowdsourcing](https://www.datasciencecentral.com/profiles/blogs/interpreting-image-classification-models-via-crowdsourcing). 
 - \[21.08.2021\] 3 full papers accepted to AAAI HCOMP 2021! 
 - \[09.07.2021\] Full paper titled *"What Is Unclear? Computational Assessment of Task Clarity in Crowdsourcing"* has been accepted at [ACM HT 2021](https://ht.acm.org/ht2021/)! 
