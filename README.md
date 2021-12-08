@@ -6,6 +6,8 @@ Ujwal Gadiraju is an Assistant Professor at the [Web Information Systems](http:/
 
 Prior to joining the WIS group, Ujwal worked at the [L3S Research Center](https://www.l3s.de/en) as a Postdoctoral researcher between 2017-2020. Ujwal received a [PhD degree](http://www.l3s.de/en/node/1537) (Dr. rer. nat.) in Computer Science from the Leibniz University of Hannover, Germany in 2017, and an MSc. Computer Science degree from TU Delft, the Netherlands in 2012. His research interests lie at the intersection of Human-Computer Interaction (HCI) and Information Retrieval (IR), with a special focus on Crowd Computing. Ujwal’s prior work in Crowd Computing has explored methods to improve the effectiveness of the crowdsourcing paradigm, running large-scale human-centered experiments to understand the interaction between humans and machines, and understanding the societal impact of algorithmic decision-making.
 
+![](ug_research_overview.jpg)
+
 Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence’ obtained by combining humans and machines to solve a range of problems in HCI and AI. His current research agenda pertaining to Crowd Computing and Human-centered AI includes the following topics:
 
  - <a href="conversational_interfaces">Conversational Agents and Interfaces</a>
