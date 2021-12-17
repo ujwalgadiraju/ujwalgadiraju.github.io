@@ -6,7 +6,7 @@ Here’s a brief overview of the different contributions that will be presented 
 
 ## Full Research Papers
 
-- [A Checklist to Combat Cognitive Biases in Crowdsourcing](https://ujwalgadiraju.com/Publications/HCOMP2021b.pdf): Tim Draws, Alisa Rieger, Oana Inel, Ujwal Gadiraju, Nava Tintarev
+-  &#127942; [A Checklist to Combat Cognitive Biases in Crowdsourcing](https://ujwalgadiraju.com/Publications/HCOMP2021b.pdf) &#127942; : Tim Draws, Alisa Rieger, Oana Inel, Ujwal Gadiraju, Nava Tintarev
 
 Recent research on data quality and the concomitant downstream effects on machine learning models and AI systems has demonstrated that cognitive biases can negatively affect the quality of crowdsourced data. Although this is now well-understood, cognitive biases often go unnoticed. Since significant efforts and costs entail the large-scale collection of human annotations across a plethora of tasks, there is unquestionable value in making such data collections reliable and resuable. To facilitate the reuse of crowdsourced data collections, practitioners can benefit from understanding whether and which cognitive biases may be associated with the data. To this end, task requesters (i.e., those who design and deploy tasks to gather labels or annotations online from a distributed crowd) need to ensure that the task workflows and design choices do not trigger cognitive biases of those who are contributing with their *human input*. 
 
@@ -46,7 +46,7 @@ We carried out a between-subjects experiment to this end, where the use of emoji
 
 ## Demonstrations
 
-- [FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge](https://ujwalgadiraju.com/Publications/HCOMP2021e.pdf): Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, Ujwal Gadiraju
+-  &#127942; [FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge](https://ujwalgadiraju.com/Publications/HCOMP2021e.pdf) &#127942; : Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, Ujwal Gadiraju
 
 Research can't get more "fun" than playing a game in the name of science! That's precisely what we've been spending some of our time on in the recent past. In this work led by [Agathe](https://www.wis.ewi.tudelft.nl/balayn) and [Gaole](https://richardhgl.github.io), and fueled by [Andy](https://www.linkedin.com/in/andrea-hu-12b2141b4)'s excellent Bachelor project, we designed and developed a game with a purpose (GWAP) that has the potential to help overcome some of the difficult challenges in the field of AI. 
 
