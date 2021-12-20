@@ -4,6 +4,8 @@
 
 ## 2021
 
+*20.12.2021* – [IHCI 2021](https://www.ihci.cs.kent.edu/index.php/invited-speakers/) : Conversational Human-AI Interactions
+
 *14.12.2021* – [LDE-CEL Annual Meeting](https://www.educationandlearning.nl/agenda/2021-12-14-annual-meeting-2021) : Chatbots for Goal Setting and Student Wellbeing
 
 *09.11.2021* – [Pennsylvania State University]() : What's in a Human? Crowd Computing for the Next Generation of AI Systems
