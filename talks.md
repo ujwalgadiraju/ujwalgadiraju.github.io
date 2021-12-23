@@ -1,6 +1,10 @@
-# Previous Talks
+# Previous and Upcoming Talks
 
-*This page is currently under construction.*
+*This page is currently under construction.* 
+
+## 2022
+
+*09.11.2021* – [AICTE-ISTE Lecture, Jaipur University of Engineering and Management]() : What's in a Human? Crowd Computing for the Next Generation of AI Systems
 
 ## 2021
 
@@ -10,7 +14,7 @@
 
 *14.12.2021* – [LDE-CEL Annual Meeting](https://www.educationandlearning.nl/agenda/2021-12-14-annual-meeting-2021) : Chatbots for Goal Setting and Student Wellbeing
 
-*09.11.2021* – [Pennsylvania State University]() : What's in a Human? Crowd Computing for the Next Generation of AI Systems
+*09.11.2021* – [Crowd-AI Lab, Pennsylvania State University](https://crowd.ist.psu.edu/crowd-ai-lab.html) : What's in a Human? Crowd Computing for the Next Generation of AI Systems
 
 *20.08.2021* – [Keynote Talk at VLDB'21 Crowd Science Workshop](https://crowdscience.ai/conference_events/vldb21) : HealthBytes – Fostering a Sustainable Future for Crowd Work. [[Blog post]](https://towardsdatascience.com/discussing-trust-ethics-and-responsibility-in-ml-at-icml-vldb-and-iclr-46b85b368375)
 
