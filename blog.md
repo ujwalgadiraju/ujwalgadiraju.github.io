@@ -72,4 +72,4 @@ A requester can use *iClarify* to formulate a task description from scratch or a
 --------------
 
 
-# Looking back at a successful [BHCC 2021](https://chinederland.nl/2021/12/bhcc-2021-a-retrospective/)
+# Looking back at a successful [BHCC 2021](https://chinederland.nl/2021/12/bhcc-2021-a-retrospective/).
