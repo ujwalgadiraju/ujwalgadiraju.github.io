@@ -2,6 +2,9 @@
 
 ## 2022
 
+
+- \[[*WWW 2022*](https://www2022.thewebconf.org)\] **Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game**. Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, and Ujwal Gadiraju. *In Proceedings of the ACM Web Conference 2022 (WWW 2022)*. [\[PDF\]](Publications/WWW2022a.pdf)
+
 - \[[*WWW 2022*](https://www2022.thewebconf.org)\] **What Should You Know? A Human-In-the-Loop Approach to Unknown Unknowns Characterization in Image Recognition**. Shahin Sharifi Noorian, Sihang Qiu, Ujwal Gadiraju, Jie Yang, and Alessandro Bozzon. *In Proceedings of the ACM Web Conference 2022 (WWW 2022)*. [\[PDF\]](Publications/WWW2022b.pdf)
 
 - \[[*WWW 2022*](https://www2022.thewebconf.org)\] **To Trust or Not To Trust: How a Conversational Interface Affects Trust in a Decision Support System**. Akshit Gupta, Debadeep Basu, Ramya Ghantasala, Sihang Qiu, and Ujwal Gadiraju. *In Proceedings of the ACM Web Conference 2022 (WWW 2022)*. [\[PDF\]](Publications/WWW2022c.pdf)
