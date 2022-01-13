@@ -2,6 +2,9 @@
 
 ## 2022
 
+- \[[*WWW 2022*](https://www2022.thewebconf.org)\] **What Should You Know? A Human-In-the-Loop Approach to Unknown Unknowns Characterization in Image Recognition**. Shahin Sharifi Noorian, Sihang Qiu, Ujwal Gadiraju, Jie Yang, and Alessandro Bozzon. *In Proceedings of the ACM Web Conference 2022 (WWW 2022)*. [\[PDF\]](Publications/WWW2022b.pdf)
+
+- \[[*WWW 2022*](https://www2022.thewebconf.org)\] **To Trust or Not To Trust: How a Conversational Interface Affects Trust in a Decision Support System**. Akshit Gupta, Debadeep Basu, Ramya Ghantasala, Sihang Qiu, and Ujwal Gadiraju. *In Proceedings of the ACM Web Conference 2022 (WWW 2022)*. [\[PDF\]](Publications/WWW2022c.pdf)
 
 - \[[*CSCW 2022*](https://cscw.acm.org/2022/)\] **Understanding User Perceptions of Response Delays in Crowd-Powered Conversational Systems**. Tahir Abbas, Ujwal Gadiraju, Vassilis-Javed Khan and Panos Markopoulos. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2022)*. [\[PDF\]](Publications/CSCW2022.pdf)
 
@@ -9,11 +12,11 @@
 ## 2021
 
 
-- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **Making Time Fly: Using Fillers to Improve Perceived Latency in Crowd-Powered Conversational Systems**. Tahir Abbas, Ujwal Gadiraju, Vassilis-Javed Khan and Panos Markopoulos. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021a.pdf)
+- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **Making Time Fly: Using Fillers to Improve Perceived Latency in Crowd-Powered Conversational Systems**. Tahir Abbas, Ujwal Gadiraju, Vassilis-Javed Khan, and Panos Markopoulos. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021a.pdf)
 
-- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **A Checklist to Combat Cognitive Biases in Crowdsourcing**. Tim Draws, Alisa Rieger, Oana Inel, Ujwal Gadiraju and Nava Tintarev. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021b.pdf) 
+- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **A Checklist to Combat Cognitive Biases in Crowdsourcing**. Tim Draws, Alisa Rieger, Oana Inel, Ujwal Gadiraju, and Nava Tintarev. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021b.pdf) 
 
-- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **Exploring the Music Perception Skills of Crowd Workers**.  Ioannis Petros Samiotis, Sihang Qiu, Christoph Lofi, Jie Yang, Ujwal Gadiraju and Alessandro Bozzon. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021c.pdf) 
+- \[[*HCOMP 2021*](https://www.humancomputation.com)\] **Exploring the Music Perception Skills of Crowd Workers**.  Ioannis Petros Samiotis, Sihang Qiu, Christoph Lofi, Jie Yang, Ujwal Gadiraju, and Alessandro Bozzon. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021c.pdf) 
 
 - \[[*HCOMP 2021*](https://www.humancomputation.com)\] **The Role of Anthropomorphic Visual Cues in Human Interactions with Conversational Agents**. Emilija Zlatkutė, Sihang Qiu, Jie Yang, and Ujwal Gadiraju. *In Proceedings of the 9th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2021)*. [\[PDF\]](Publications/HCOMP2021d.pdf) [Work-in-progress]
 
