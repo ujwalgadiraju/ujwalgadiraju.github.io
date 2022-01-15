@@ -4,9 +4,9 @@
 
 ## 2022
 
-*08.02.2021* – [Oxford Platform Economy Seminar, Oxford Internet Institute (OII) & Oxford's Saïd Business School (SBS)]() : TBD
+*08.02.2022* – [Oxford Platform Economy Seminar, Oxford Internet Institute (OII) & Oxford's Saïd Business School (SBS)]() : TBD
 
-*09.11.2021* – [AICTE-ISTE Lecture, Jaipur University of Engineering and Management]() : What's in a Human? Crowd Computing for the Next Generation of AI Systems
+*04.01.2022* – [AICTE-ISTE Lecture, Jaipur University of Engineering and Management]() : What's in a Human? Crowd Computing for the Next Generation of AI Systems
 
 ## 2021
 
