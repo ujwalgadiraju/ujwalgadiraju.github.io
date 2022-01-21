@@ -4,7 +4,9 @@
 
 ## 2022
 
-*08.02.2022* – [Oxford Platform Economy Seminar, Oxford Internet Institute (OII) & Oxford's Saïd Business School (SBS)]() : TBD
+*08.02.2022* – [Oxford Platform Economy Seminar, Oxford Internet Institute (OII) & Oxford's Saïd Business School (SBS)]() : What's A Healthy Workplace? The Future of Crowd Work
+
+*25.01.2022* – [Weizenbaum Institute for the Networked Society]() : The Human Quotient for Better AI Systems
 
 *10.01.2022* – [AICTE-ISTE Lecture, Jaipur University of Engineering and Management]() : What's in a Human? Crowd Computing for the Next Generation of AI Systems
 
