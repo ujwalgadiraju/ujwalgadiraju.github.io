@@ -25,6 +25,8 @@ Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence�
 
 # News
 
+
+- \[15.01.2022\] 3 full papers accepted at the ACM Web Conference 2022 [ACM WWW 2022](https://www2022.thewebconf.org)!
 - \[1.12.2021\] I will serve as the *Publicity Chair* for [ACM HT 2022](https://ht.acm.org/ht2022/). Keep an eye out for some exciting new ideas that will take shape at HT2022!
 - \[15.11.2021\] Amazon Science  &#127942; **Best Paper Award**  &#127942; at [AAAI HCOMP 2021](https://ujwalgadiraju.com/Publications/HCOMP2021b.pdf) for our work titled *"A Checklist to Combat Cognitive Biases in Crowdsourcing"*. 
 - \[15.11.2021\] Toloka  &#127942; **Best Poster/Demo Award**  &#127942; at [AAAI HCOMP 2021](https://ujwalgadiraju.com/Publications/HCOMP2021e.pdf) for our work titled *"FindItOut: A Multiplayer GWAP for Collecting Plural Knowledge"*. 
