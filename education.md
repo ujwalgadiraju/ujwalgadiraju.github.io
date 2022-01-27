@@ -39,28 +39,24 @@ Web & Database Technology is a first year course that provides an introduction t
 <br>
 <br>
 
-- **Crowd Computing (CS4145)**, Delft University of Technology
-<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281">        
+- <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281">**Crowd Computing (CS4145)**, Delft University of Technology</a>
+<!-- <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281">        
 <img align="left" src="CS4145.png" alt="CS4145" width="240" style="padding-right:10px;padding-top:10px">
 </a>
-<br>
-<br>
-<br>
-<br>
-<br>
-<!-- Crowd Computing is an emerging field that sits at the intersection of computer science and data science. Crowd computing studies how large groups of people can solve complex tasks that are currently beyond the capabilities of artificial intelligence algorithms, and that cannot be solved by a single person alone. 
+
+Crowd Computing is an emerging field that sits at the intersection of computer science and data science. Crowd computing studies how large groups of people can solve complex tasks that are currently beyond the capabilities of artificial intelligence algorithms, and that cannot be solved by a single person alone. 
 It involves algorithmic engagement and coordination of people by means of Web-enabled platforms. These complex tasks are mainly focused on the creation, enrichment, and interpretation of data, making crowd computing a building block of data science. Examples of such tasks include the coordinated creation of data about real world events when electronic sensors are not available; the annotation of existing data sets to create ground truth data for the training of machine learning algorithms; and the analysis and interpretation of Web data to spot identify inappropriate content (e.g.,hate speech, or fake news). -->
 
-- **Human Computer Interaction (CSE3500)**, Delft University of Technology
-<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55134">
-<img align="left" src="https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
+- <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55134">**Human Computer Interaction (CSE3500)**, Delft University of Technology</a>
+
+<!--<img align="left" src="https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
 </a>
 <br>
 <br>
 <br>
 <br>
 <br>
-<!--Traditionally interaction with computer systems moved from text-based (e.g., terminals) to graphical user interfaces (GUI). These evolved to a wider range of platforms than just desktop computers, to include computer kiosks, tablets, and smart phones. As technology systems (e.g., expert systems, recommender systems) increase in complexity, a standard graphical user interface (GUI) is often not sufficient to harness their power. This course will therefore consider developments in intelligent adaptive interfaces, but also alternative modalities for interaction such as Voice user interfaces (VUI), augmented reality (AR), and embodied agents.
+Traditionally interaction with computer systems moved from text-based (e.g., terminals) to graphical user interfaces (GUI). These evolved to a wider range of platforms than just desktop computers, to include computer kiosks, tablets, and smart phones. As technology systems (e.g., expert systems, recommender systems) increase in complexity, a standard graphical user interface (GUI) is often not sufficient to harness their power. This course will therefore consider developments in intelligent adaptive interfaces, but also alternative modalities for interaction such as Voice user interfaces (VUI), augmented reality (AR), and embodied agents.
 This course will cover four aspects of HCI systems: 
 a) Identifying functional and non-functional requirements. 
 b) Design of interactive and adaptive systems.
