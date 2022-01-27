@@ -32,7 +32,13 @@ It involves algorithmic engagement and coordination of people by means of Web-en
 <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55104">        
 <img align="left" src="https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
 </a>
-Web & Database Technology is a first year course that provides an introduction to Web and Database technology and programming.
+Web & Database Technology is a first year course that provides an introduction to Web and Database technology and programming. Topics related to Web technology and programming include:
+a) Introduction to Databases;
+b) Overview of Database Languages and Architectures;
+c) The basic relational model; database design theory;
+d) SQL: Data Definition, Constraints, Updates, Queries, Views, Triggers;
+e) Relational Databases and Object Persistence;
+f) Introduction to non-relational database systems: key-value stores, document stores, graph databases.
 <br>
 <br>
 <br>
