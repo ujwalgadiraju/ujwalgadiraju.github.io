@@ -3,7 +3,7 @@
 
 ## 2022
 
-- **Human Computer Interaction (CSE3500)**, Delft University of Technology
+- **Human Computer Interaction (CSE3500)**, *Delft University of Technology*
 <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=57351">
 <img align="left" src="https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
 </a>
@@ -18,7 +18,7 @@ d) User-centered Evaluation of these systems.
 <br>
 
 
-- **Crowd Computing (CS4145)**, Delft University of Technology
+- **Crowd Computing (CS4145)**, *Delft University of Technology*
 <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=57441">        
 <img align="left" src="CS4145.png" alt="CS4145" width="240" style="padding-right:10px;padding-top:10px">
 </a>
@@ -28,7 +28,7 @@ It involves algorithmic engagement and coordination of people by means of Web-en
 
 ## 2021
 
-- **Web and Database Technology (CSE1500)** with colleagues, Delft University of Technology
+- **Web and Database Technology (CSE1500)**, *Delft University of Technology*
 <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55104">        
 <img align="left" src="https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
 </a>
@@ -74,7 +74,7 @@ d) User-centered Evaluation of these systems.
 <br> -->
 
 
-- <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56615"> **Applied Machine Learning (CS4305TU)** with colleagues, Delft University of Technology</a>
+- <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56615"> **Applied Machine Learning (CS4305TU)**, Delft University of Technology</a>
 <br>
 <!--<img align="left" src="https://images.unsplash.com/photo-1501526029524-a8ea952b15be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
 </a>
@@ -87,7 +87,7 @@ d) User-centered Evaluation of these systems.
 
 ## 2020
 
-- <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55104">**Web and Database Technology (CSE1500)** with colleagues, Delft University of Technology</a>
+- <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55104">**Web and Database Technology (CSE1500)**, Delft University of Technology</a>
 <br>
 <!--<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55104">        
 <img align="left" src="https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
@@ -99,7 +99,7 @@ d) User-centered Evaluation of these systems.
 <br>
 <br>-->
 
-- <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56615">**Applied Machine Learning (CS4305TU)** with colleagues, Delft University of Technology</a>
+- <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56615">**Applied Machine Learning (CS4305TU)**, Delft University of Technology</a>
 <br>
 
 <!--<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56615">        
