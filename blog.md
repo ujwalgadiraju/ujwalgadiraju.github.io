@@ -69,7 +69,7 @@ A requester can use *iClarify* to formulate a task description from scratch or a
 ### Do not hesitate to [reach out to us](u.k.gadiraju@tudelft.nl) in case you would like to hear more about our work, or for potential collaboration!
 
 
---------------
+----
 
 
 # Looking back at a successful [BHCC 2021](https://chinederland.nl/2021/12/bhcc-2021-a-retrospective/).
