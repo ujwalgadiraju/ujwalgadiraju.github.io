@@ -42,12 +42,11 @@ f) Introduction to non-relational database systems: key-value stores, document s
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 - <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281">**Crowd Computing (CS4145)**, Delft University of Technology</a>
 <br>
-<br>
+
 <!-- <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55281">        
 <img align="left" src="CS4145.png" alt="CS4145" width="240" style="padding-right:10px;padding-top:10px">
 </a>
@@ -57,7 +56,7 @@ It involves algorithmic engagement and coordination of people by means of Web-en
 
 - <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55134">**Human Computer Interaction (CSE3500)**, Delft University of Technology</a>
 <br>
-<br>
+
 <!--<img align="left" src="https://images.unsplash.com/photo-1483478550801-ceba5fe50e8e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
 </a>
 <br>
@@ -76,7 +75,6 @@ d) User-centered Evaluation of these systems.
 
 
 - <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56615"> **Applied Machine Learning (CS4305TU)** with colleagues, Delft University of Technology</a>
-       <br>
 <br>
 <!--<img align="left" src="https://images.unsplash.com/photo-1501526029524-a8ea952b15be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
 </a>
@@ -91,7 +89,6 @@ d) User-centered Evaluation of these systems.
 
 - <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55104">**Web and Database Technology (CSE1500)** with colleagues, Delft University of Technology</a>
 <br>
-<br>
 <!--<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=55104">        
 <img align="left" src="https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
 </a>
@@ -104,7 +101,7 @@ d) User-centered Evaluation of these systems.
 
 - <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56615">**Applied Machine Learning (CS4305TU)** with colleagues, Delft University of Technology</a>
 <br>
-<br>
+
 <!--<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=56615">        
 <img align="left" src="https://images.unsplash.com/photo-1501526029524-a8ea952b15be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="" width="240" style="padding-right:10px;padding-top:10px">
 </a>
@@ -112,7 +109,7 @@ d) User-centered Evaluation of these systems.
 
 - <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51132">**Crowd Computing (CS4145)** with Alessandro Bozzon and Nava Tintarev, Delft University of Technology</a>
 <br>
-<br>
+
 <!--<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=51132">        
 <img align="left" src="CS4145.png" alt="CS4145" width="240" style="padding-right:10px;padding-top:10px">
 </a>
