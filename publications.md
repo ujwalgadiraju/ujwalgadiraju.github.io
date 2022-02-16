@@ -2,6 +2,7 @@
 
 ## 2022
 
+- \[[*CHI 2022*](http://chi2022.acm.org/)\] **Great Chain of Agents: The Role of Metaphorical Representation of Agents in Conversational Crowdsourcing**. Ji-Youn Jung, Sihang Qiu, Alessandro Bozzon, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2022)*. [\[PDF\]]()
 
 - \[[*WWW 2022*](https://www2022.thewebconf.org)\] **Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game**. Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, and Ujwal Gadiraju. *In Proceedings of the ACM Web Conference 2022 (WWW 2022)*. [\[PDF\]](Publications/WWW2022a.pdf)
 
