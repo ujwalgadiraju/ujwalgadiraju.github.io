@@ -47,6 +47,9 @@ Colocated with the Annual Conference of the North American Chapter of the Associ
 
 - \[[*CUI@CHI 2021*](http://www.speechinteraction.org/CHI2021/)\] **How Do User Moods Affect Perceived Delays in Crowd-Powered Conversational Interactions?** Tahir Abbas, Ujwal Gadiraju, and Panos Markopoulos. *In Proceedings of the Workshop at the 2021 ACM CHI Conference – Let's Talk About CUIs: Putting Conversational User Interface Design Into Practice (CUI@CHI 2021)*. [\[PDF\]](Publications/CUI_CHI2021.pdf)
 
+
+- \[[*CHI 2021*](https://www.thenewvulnerable.com)\] **Context-Sensitive Assessments of Human Wellbeing.** Willem van der Maden, Sihang Qiu, James Derek Lomas, Ujwal Gadiraju. *In Proceedings of the The New Vulnerable Workshop at the 2021 ACM CHI Conference (CHI 2021)*. [\[PDF\]](Publications/CHI2021.pdf)
+
 - \[[*UMAP 2021*](https://www.um.org/umap2021/)\] **How Do User Opinions Influence Their Interaction With Web Search Results?** Luyan Xu, Mengdie Zhuang, and Ujwal Gadiraju. *In Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2021)*. [\[PDF\]](Publications/UMAP2021b.pdf)
 
 - \[[*UMAP 2021*](https://www.um.org/umap2021/)\] **Second Chance for a First Impression? Trust Development in Intelligent System Interaction**. Suzanne Tolmeijer, Ujwal Gadiraju, Ramya Ghantasala, Akshit Gupta, and Abraham Bernstein. *In Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2021)*. [\[PDF\]](Publications/UMAP2021a.pdf)
