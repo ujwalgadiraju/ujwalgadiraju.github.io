@@ -3,6 +3,7 @@
 ## 2022
 
 - \[[*CHI 2022*](http://chi2022.acm.org/)\] **For What It's Worth: Humans Overwrite Their Economic Self-Interest to Avoid Bargaining With AI Systems**. Alexander Erlei, Richeek Das, Lukas Meub, Avishek Anand, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2022)*. [\[PDF\]](Publications/CHI2022b.pdf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qtRW5Vhr4nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - \[[*CHI 2022*](http://chi2022.acm.org/)\] **Great Chain of Agents: The Role of Metaphorical Representation of Agents in Conversational Crowdsourcing**. Ji-Youn Jung, Sihang Qiu, Alessandro Bozzon, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2022)*. [\[PDF\]](Publications/CHI2022a.pdf)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MRTvp5FDs-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
