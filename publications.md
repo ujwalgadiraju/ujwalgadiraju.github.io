@@ -2,7 +2,10 @@
 
 ## 2022
 
-- \[[*HT 2022*](https://ht.acm.org/ht2021/)\] **Exploring the Feasibility of Crowd-Powered Decomposition of Complex User Questions in Text-to-SQL Tasks**. Sara Salimzadeh, Ujwal Gadiraju, Claudia Hauff, Arie van Deursen. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2022)*. [\[PDF\]](Publications/HT2022.pdf) 
+
+- \[[*UMAP 2021*](https://www.um.org/umap2022/)\] **Understanding the Role of Explanation Modality in AI-assisted Decision-making**. Vincent Robbemond, Oana Inel, Ujwal Gadiraju. *In Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2022)*. [\[PDF\]](Publications/UMAP2022.pdf)
+
+- \[[*HT 2022*](https://ht.acm.org/ht2022/)\] **Exploring the Feasibility of Crowd-Powered Decomposition of Complex User Questions in Text-to-SQL Tasks**. Sara Salimzadeh, Ujwal Gadiraju, Claudia Hauff, Arie van Deursen. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2022)*. [\[PDF\]](Publications/HT2022.pdf) 
 
 - \[[*CHI 2022*](http://chi2022.acm.org/)\] **For What It's Worth: Humans Overwrite Their Economic Self-Interest to Avoid Bargaining With AI Systems**. Alexander Erlei, Richeek Das, Lukas Meub, Avishek Anand, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2022)*. [\[PDF\]](Publications/CHI2022b.pdf)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qtRW5Vhr4nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
