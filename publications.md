@@ -3,7 +3,7 @@
 ## 2022
 
 
-- \[[*UMAP 2021*](https://www.um.org/umap2022/)\] **Understanding the Role of Explanation Modality in AI-assisted Decision-making**. Vincent Robbemond, Oana Inel, Ujwal Gadiraju. *In Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2022)*. [\[PDF\]](Publications/UMAP2022.pdf)
+- \[[*UMAP 2022*](https://www.um.org/umap2022/)\] **Understanding the Role of Explanation Modality in AI-assisted Decision-making**. Vincent Robbemond, Oana Inel, Ujwal Gadiraju. *In Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2022)*. [\[PDF\]](Publications/UMAP2022.pdf)
 
 - \[[*HT 2022*](https://ht.acm.org/ht2022/)\] **Exploring the Feasibility of Crowd-Powered Decomposition of Complex User Questions in Text-to-SQL Tasks**. Sara Salimzadeh, Ujwal Gadiraju, Claudia Hauff, Arie van Deursen. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2022)*. [\[PDF\]](Publications/HT2022.pdf) 
 
