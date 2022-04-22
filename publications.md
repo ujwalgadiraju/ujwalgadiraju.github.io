@@ -13,7 +13,9 @@
 - \[[*CHI 2022*](http://chi2022.acm.org/)\] **Great Chain of Agents: The Role of Metaphorical Representation of Agents in Conversational Crowdsourcing**. Ji-Youn Jung, Sihang Qiu, Alessandro Bozzon, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2022)*. [\[PDF\]](Publications/CHI2022a.pdf)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MRTvp5FDs-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- \[[*CUI@CHI 2022*](https://www.conversationaluserinterfaces.org/workshops/CHI2022/)\] **Gender Choices For Conversational Agents: How Today's Practice Can Shape Tomorrow's Values**. Ji-Youn Jung, Ujwal Gadiraju, Alessandro Bozzon, Dave Murray-Rust. *In Proceedings of the CUI@CHI: Ethics of Conversational User Interfaces Workshop at the ACM CHI 2022 conference(CUI@CHI 2022)*. [\[PDF\]](Publications/CUI_CHI22.pdf)
+- \[[*TRAIT 2022*](https://chi-trait.github.io/)\] **Walking on Eggshells: Using Analogies to Promote Appropriate Reliance in Human-AI Decision Making**. Gaole He, Ujwal Gadiraju. *In Proceedings of the Workshop on Trust and Reliance on AI-Human Teams at the ACM CHI 2022 conference (CHI2022))*. [\[PDF\]](Publications/CUI_CHI22.pdf)
+
+- \[[*CUI@CHI 2022*](https://www.conversationaluserinterfaces.org/workshops/CHI2022/)\] **Gender Choices For Conversational Agents: How Today's Practice Can Shape Tomorrow's Values**. Ji-Youn Jung, Ujwal Gadiraju, Alessandro Bozzon, Dave Murray-Rust. *In Proceedings of the CUI@CHI: Ethics of Conversational User Interfaces Workshop at the ACM CHI 2022 conference (CUI@CHI 2022)*. [\[PDF\]](Publications/CUI_CHI22.pdf)
 
 - \[[*WWW 2022*](https://www2022.thewebconf.org)\] **Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game**. Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, and Ujwal Gadiraju. *In Proceedings of the ACM Web Conference 2022 (WWW 2022)*. [\[PDF\]](Publications/WWW2022a.pdf)
 
