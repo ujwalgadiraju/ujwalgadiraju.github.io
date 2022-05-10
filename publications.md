@@ -17,7 +17,7 @@
 
 - \[[*CUI@CHI 2022*](https://www.conversationaluserinterfaces.org/workshops/CHI2022/)\] **Gender Choices For Conversational Agents: How Today's Practice Can Shape Tomorrow's Values**. Ji-Youn Jung, Ujwal Gadiraju, Alessandro Bozzon, Dave Murray-Rust. *In Proceedings of the CUI@CHI: Ethics of Conversational User Interfaces Workshop at the ACM CHI 2022 conference (CUI@CHI 2022)*. [\[PDF\]](Publications/CUI_CHI22.pdf)
 
-- \[[*WWW 2022*](https://www2022.thewebconf.org)\] **Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game**. Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, and Ujwal Gadiraju. *In Proceedings of the ACM Web Conference 2022 (WWW 2022)*. [\[PDF\]](Publications/WWW2022a.pdf)
+- 🌟 \[[*WWW 2022*](https://www2022.thewebconf.org)\] **Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game**. Agathe Balayn, Gaole He, Andrea Hu, Jie Yang, and Ujwal Gadiraju. *In Proceedings of the ACM Web Conference 2022 (WWW 2022)*. [\[PDF\]](Publications/WWW2022a.pdf) 🌟 
 
 - \[[*WWW 2022*](https://www2022.thewebconf.org)\] **What Should You Know? A Human-In-the-Loop Approach to Unknown Unknowns Characterization in Image Recognition**. Shahin Sharifi Noorian, Sihang Qiu, Ujwal Gadiraju, Jie Yang, and Alessandro Bozzon. *In Proceedings of the ACM Web Conference 2022 (WWW 2022)*. [\[PDF\]](Publications/WWW2022b.pdf)
 
