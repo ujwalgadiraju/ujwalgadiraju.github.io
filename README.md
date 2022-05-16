@@ -27,6 +27,9 @@ Ujwal's goal is to **create novel methods, interfaces, systems, and tools to ove
 
 # News
 
+
+
+- \[29.04.2022\] &#127942; **Best Paper Award Nomination**  &#127942; at ACM Web Conference 2022 [ACM WWW 2022](https://www2022.thewebconf.org) for our work titled *"Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game."*
 - \[10.02.2022\] 2 full papers accepted at the [ACM CHI 2022](http://chi2022.acm.org/)!
 - \[15.01.2022\] 3 full papers accepted at the ACM Web Conference 2022 [ACM WWW 2022](https://www2022.thewebconf.org)!
 - \[1.12.2021\] I will serve as the *Publicity Chair* for [ACM HT 2022](https://ht.acm.org/ht2022/). Keep an eye out for some exciting new ideas that will take shape at HT2022!
