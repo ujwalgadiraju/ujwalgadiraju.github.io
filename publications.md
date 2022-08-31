@@ -2,6 +2,13 @@
 
 ## 2022
 
+- \[[*HCOMP 2022*](https://www.humancomputation.com)\] **It is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge**.  Gaole He, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. *In Proceedings of the 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2022)*. [\[PDF\]](Publications/HCOMP2022a.pdf) 
+
+- \[[*HCOMP 2022*](https://www.humancomputation.com)\] **Gesticulate for Health's Sake! Understanding the Use of Gestures as An Input Modality for Microtask Crowdsourcing**.  Garrett Allen, Andrea Hu, Ujwal Gadiraju. *In Proceedings of the 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2022)*. [\[PDF\]](Publications/HCOMP2022b.pdf) 
+
+- \[[*HCOMP 2022*](https://www.humancomputation.com)\] **Goal-setting Behavior of Workers on Crowdsourcing Platforms: An Exploratory Study on MTurk and Prolific**.  Tahir Abbas, Ujwal Gadiraju. *In Proceedings of the 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2022)*. [\[PDF\]](Publications/HCOMP2022c.pdf) 
+
+- \[[*HCOMP 2022*](https://www.humancomputation.com)\] **SignUpCrowd: Using Sign-Language as An Input Modality for Microtask Crowdsourcing**.  Aayush Singh, Sebastian Wehkamp, Ujwal Gadiraju. *In Proceedings of the 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2022)*. [\[PDF\]](Publications/HCOMP2022d.pdf) 
 
 - \[[*UMAP 2022*](https://www.um.org/umap2022/)\] **Understanding the Role of Explanation Modality in AI-assisted Decision-making**. Vincent Robbemond, Oana Inel, Ujwal Gadiraju. *In Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2022)*. [\[PDF\]](Publications/UMAP2022.pdf)
 
