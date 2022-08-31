@@ -28,7 +28,7 @@ Ujwal's goal is to **create novel methods, interfaces, systems, and tools to ove
 # News
 
 
-
+- \[27.08.2022\] 4 full papers accepted at the AAAI Human Computation and Crowdsourcing Conference [AAAI HCOMP 2022](https://www.humancomputation.com/)!
 - \[29.04.2022\] &#127942; **Best Paper Award Nomination**  &#127942; at ACM Web Conference 2022 [ACM WWW 2022](https://www2022.thewebconf.org) for our work titled *"Ready Player One! Eliciting Diverse Knowledge Using A Configurable Game."*
 - \[10.02.2022\] 2 full papers accepted at the [ACM CHI 2022](http://chi2022.acm.org/)!
 - \[15.01.2022\] 3 full papers accepted at the ACM Web Conference 2022 [ACM WWW 2022](https://www2022.thewebconf.org)!
