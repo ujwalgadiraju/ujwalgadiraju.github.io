@@ -5,7 +5,7 @@
 ## 2022
 
 
-*08.09.2022* – [HCAIS Deep Dive](https://www.tudelft.nl/evenementen/2022/delft-ai/hcais-deep-dive-a-crowd-computing-perspective) Human-Centered AI Systems: A Crowd Computing Perspective
+*08.09.2022* – [HCAIS Deep Dive : ](https://www.tudelft.nl/evenementen/2022/delft-ai/hcais-deep-dive-a-crowd-computing-perspective) Human-Centered AI Systems: A Crowd Computing Perspective
 
 ...
 
