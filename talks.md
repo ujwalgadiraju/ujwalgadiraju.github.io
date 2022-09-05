@@ -4,6 +4,12 @@
 
 ## 2022
 
+
+*08.09.2022* – [HCAIS Deep Dive](https://www.tudelft.nl/evenementen/2022/delft-ai/hcais-deep-dive-a-crowd-computing-perspective) Human-Centered AI Systems: A Crowd Computing Perspective
+
+...
+
+
 *08.02.2022* – [Oxford Platform Economy Seminar, Oxford Internet Institute (OII) & Oxford's Saïd Business School (SBS)]() : What's A Healthy Workplace? The Future of Crowd Work
 
 *25.01.2022* – [Weizenbaum Institute for the Networked Society]() : The Human Quotient for Better AI Systems
