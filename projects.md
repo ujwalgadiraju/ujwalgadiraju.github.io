@@ -7,6 +7,17 @@ I offer research and thesis projects for Bachelor and Master students on a first
 
 If you are interested in working with me, feel free to drop me an email and I will get back to you *ASAP*!
 
+
+## MSc. Thesis Projects - Completed
+
+- **Effects of Time Constraints and Search Results Presentation on Web Search**.  Mike Beijen. [\[PDF\]](Publications/MSc_Thesis_Mike_Beijen.pdf)
+- **Impact of Biased Search Results on User Engagement in Web Search**.  Wessel Turk. [\[PDF\]](Publications/MSc_Thesis_Wessel_Turk.pdf)
+- **ContextBot: Improving Response Consistency in Crowd-Powered Conversational Systems**.  Yao Ma. [\[PDF\]](Publications/MSc_Thesis_Yao_Ma.pdf)
+- **Using Sign-Language as an Input Modality for Microtask Crowdsourcing**.  Aayush Singh. [\[PDF\]](Publications/MSc_Thesis_Aayush_Singh.pdf)
+- **Human-AI Collaboration for Policy Document Annotation: Case of the CoronaNet Dataset**.  Ye Yuan. [\[PDF\]](Publications/MSc_Thesis_Ye_Yuan.pdf)
+
+
+
 <!--
 
 ## TRAINBOT – Minting Stress Management Coaches During a Pandemic
