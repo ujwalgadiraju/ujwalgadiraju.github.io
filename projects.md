@@ -13,6 +13,7 @@ If you are interested in working with me, feel free to drop me an email and I wi
 - *Effects of Time Constraints and Search Results Presentation on Web Search*.  **Mike Beijen**. [\[PDF\]](Publications/MSc_Thesis_Mike_Beijen.pdf)
 - *Impact of Biased Search Results on User Engagement in Web Search*.  **Wessel Turk**. [\[PDF\]](Publications/MSc_Thesis_Wessel_Turk.pdf)
 - *ContextBot: Improving Response Consistency in Crowd-Powered Conversational Systems*.  **Yao Ma**. [\[PDF\]](Publications/MSc_Thesis_Yao_Ma.pdf)
+- *Building Interactive Text-to-SQL Systems*.  **Reinier Koops**. [\[PDF\]](Publications/MSc_Thesis_Reinier_Koops.pdf)
 - *Using Sign-Language as an Input Modality for Microtask Crowdsourcing*.  **Aayush Singh**. [\[PDF\]](Publications/MSc_Thesis_Aayush_Singh.pdf)
 - *Human-AI Collaboration for Policy Document Annotation: Case of the CoronaNet Dataset*.  **Ye Yuan**. [\[PDF\]](Publications/MSc_Thesis_Ye_Yuan.pdf)
 - *Ethics, Gender, and Agents: The Role of Designers in Conversational Agent Design*. **Ji-Youn Jung**. [\[PDF\]](Publications/MSc_Thesis_Ji_Youn_Jung.pdf)
