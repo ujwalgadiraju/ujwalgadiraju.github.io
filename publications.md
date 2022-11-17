@@ -3,7 +3,8 @@
 ## 2022
 
 - \[[*HCOMP 2022*](https://www.humancomputation.com)\] **It is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge**.  Gaole He, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. *In Proceedings of the 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2022)*. [\[PDF\]](Publications/HCOMP2022a.pdf) 
-<a href="https://slideslive.com/38993029" title="Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge"><img src="" alt="Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge" /></a>
+- <iframe width="560" height="315" src="https://slideslive.com/38993029" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <video src="https://slideslive.com/38993029" width="560" height="315" controls preload>Watch Video</video>
 
 - \[[*HCOMP 2022*](https://www.humancomputation.com)\] **Gesticulate for Health's Sake! Understanding the Use of Gestures as An Input Modality for Microtask Crowdsourcing**.  Garrett Allen, Andrea Hu, Ujwal Gadiraju. *In Proceedings of the 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2022)*. [\[PDF\]](Publications/HCOMP2022b.pdf) 
