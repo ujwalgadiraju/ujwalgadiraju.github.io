@@ -2,7 +2,7 @@
 
 ## 2022
 
-- &#127942; \[[*HCOMP 2022*](https://www.humancomputation.com)\] &#127942; **It is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge**.  Gaole He, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. *In Proceedings of the 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2022)*. [\[PDF\]](Publications/HCOMP2022a.pdf) [\[Video\]](https://slideslive.com/38993029) 
+- &#127942; \[[*HCOMP 2022*](https://www.humancomputation.com)\] **It is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge**.  Gaole He, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. *In Proceedings of the 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2022)*. [\[PDF\]](Publications/HCOMP2022a.pdf) [\[Video\]](https://slideslive.com/38993029) (**Best Paper Award**)&#127942;
 
 - \[[*HCOMP 2022*](https://www.humancomputation.com)\] **Gesticulate for Health's Sake! Understanding the Use of Gestures as An Input Modality for Microtask Crowdsourcing**.  Garrett Allen, Andrea Hu, Ujwal Gadiraju. *In Proceedings of the 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2022)*. [\[PDF\]](Publications/HCOMP2022b.pdf) [\[Video\]](https://slideslive.com/38993018)
 
