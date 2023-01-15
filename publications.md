@@ -1,5 +1,14 @@
 # Selected Publications
 
+## 2023
+
+- \[[*CHI 2023*](https://chi2023.acm.org/)\] **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems**. Gaole He, Lucie Kuiper, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2023)*. [\[PDF\]](Publications/CHI2023.pdf)
+
+- \[[*IUI 2023*](https://iui.acm.org/2023/)\] **Supporting Requesters in Writing Clear Crowdsourcing Task Descriptions Through Computational Flaw Assessment**. Zahra Nouri, Nikhil Prakash, Ujwal Gadiraju, Henning Wachsmuth. *In Proceedings of the 29th ACM International Conference on Intelligent User Interfaces (IUI 2023)*. [\[PDF\]](Publications/IUI2023a.pdf)
+
+- \[[*IUI 2023*](https://iui.acm.org/2023/)\] **Perspective: Leveraging Human Understanding for Identifying and Characterizing Image Atypicality**. Shahin Sharifi, Sihang Qiu, Burcu Sayin, Agathe Balayn, Ujwal Gadiraju, Jie Yang, Alessandro Bozzon. *In Proceedings of the 29th ACM International Conference on Intelligent User Interfaces (IUI 2023)*. [\[PDF\]](Publications/IUI2023b.pdf)
+
+
 ## 2022
 
 - &#127942; \[[*HCOMP 2022*](https://www.humancomputation.com)\] **It is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge**.  Gaole He, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. *In Proceedings of the 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2022)*. [\[PDF\]](Publications/HCOMP2022a.pdf) [\[Video\]](https://slideslive.com/38993029) (**Best Paper Award**)&#127942;
