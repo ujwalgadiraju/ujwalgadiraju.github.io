@@ -2,7 +2,7 @@
 
 ## 2023
 
-- \[[*CHI 2023*](https://chi2023.acm.org/)\] **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems**. Gaole He, Lucie Kuiper, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2023)*. [\[PDF\]](Publications/CHI2023.pdf)
+- \[[*CHI 2023*](https://chi2023.acm.org/)\] **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems**. Gaole He, Lucie Kuiper, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2023)*. [\[PDF\]](https://arxiv.org/pdf/2301.11333.pdf)
 
 - \[[*IUI 2023*](https://iui.acm.org/2023/)\] **Supporting Requesters in Writing Clear Crowdsourcing Task Descriptions Through Computational Flaw Assessment**. Zahra Nouri, Nikhil Prakash, Ujwal Gadiraju, Henning Wachsmuth. *In Proceedings of the 29th ACM International Conference on Intelligent User Interfaces (IUI 2023)*. [\[PDF\]](Publications/IUI2023a.pdf)
 
