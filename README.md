@@ -8,11 +8,11 @@ Prior to joining the WIS group, Ujwal worked at the [L3S Research Center](https:
 
 <!--Ujwal’s work focuses on systematically leveraging the ‘hybrid intelligence’ obtained by combining humans and machines to solve a range of problems in HCI and AI. -->
 
-Ujwal's goal is to **create novel methods, interfaces, systems, and tools to overcome existing challenges on our path towards building better AI systems and facilitating better reliance of humans on AI systems**! To this end, his current research agenda includes the following topics:
+Ujwal's goal is to **create novel methods, interfaces, systems, and tools to overcome existing challenges on our path towards building better AI systems and facilitating better reliance of humans on AI systems**. <!--To this end, his current research agenda includes the following topics:
 
  - <a href="adms">Human-AI Interaction, Human-AI Collaboration, and Human Computation</a>
  - <a href="conversational_interfaces">Conversational Agents and Interfaces</a>
- - <a href="kg">Human Factors in Interactive Information Retrieval</a>
+ - <a href="kg">Human Factors in Interactive Information Retrieval</a> -->
  
 ----
 <!--
