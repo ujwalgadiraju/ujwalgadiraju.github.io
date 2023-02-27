@@ -8,6 +8,8 @@
 
 - \[[*IUI 2023*](https://iui.acm.org/2023/)\] **Perspective: Leveraging Human Understanding for Identifying and Characterizing Image Atypicality**. Shahin Sharifi, Sihang Qiu, Burcu Sayin, Agathe Balayn, Ujwal Gadiraju, Jie Yang, Alessandro Bozzon. *In Proceedings of the 29th ACM International Conference on Intelligent User Interfaces (IUI 2023)*. [\[PDF\]](Publications/IUI2023b.pdf)
 
+- \[[*IUI 2023*](https://iui.acm.org/2023/)\] **What You Show is What You Get! Gestures for Microtask Crowdsourcing**. Garrett Allen, Andrea Hu, Ujwal Gadiraju. *In Proceedings of the 29th ACM International Conference on Intelligent User Interfaces (IUI 2023)*. [\[PDF\]](Publications/IUI2023c.pdf)
+
 
 ## 2022
 
