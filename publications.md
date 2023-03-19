@@ -12,6 +12,7 @@
 
 - \[[*IUI 2023*](https://iui.acm.org/2023/)\] **What You Show is What You Get! Gestures for Microtask Crowdsourcing**. Garrett Allen, Andrea Hu, Ujwal Gadiraju. *In Proceedings of the 29th ACM International Conference on Intelligent User Interfaces (IUI 2023)*. [\[PDF\]](Publications/IUI2023c.pdf)
 
+- \[[*ICWE 2023*](https://icwe2023.webengineering.org)\] **In a Hurry: How Time Constraints and the Presentation of Web Search Results Affect Users**. Garrett Allen, Mike Beijen, David Maxwell, Ujwal Gadiraju. *In Proceedings of the 29th ACM International Conference on Intelligent User Interfaces (ICWE 2023)*. [\[PDF\]](Publications/ICWE2023.pdf)
 
 ## 2022
 
