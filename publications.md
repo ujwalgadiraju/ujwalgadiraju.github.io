@@ -14,6 +14,8 @@
 
 - \[[*ICWE 2023*](https://icwe2023.webengineering.org)\] **In a Hurry: How Time Constraints and the Presentation of Web Search Results Affect Users**. Garrett Allen, Mike Beijen, David Maxwell, Ujwal Gadiraju. *In Proceedings of the 29th ACM International Conference on Intelligent User Interfaces (ICWE 2023)*. [\[PDF\]](Publications/ICWE2023.pdf)
 
+- \[[*Frontiers in Digital Health*]()\] **Supporting Mental Health Self-care Discovery Through a Chatbot**. Joonas Moilanen, Niels van Berkel, Aku Visuri, Ujwal Gadiraju, Willem van der Maden, Simo Hosio. *In Proceedings of the Frontiers in Digital Health (2023)*. [\[PDF\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10028281/)
+
 ## 2022
 
 - &#127942; \[[*HCOMP 2022*](https://www.humancomputation.com)\] **It is Like Finding a Polar Bear in the Savannah! Concept-level AI Explanations with Analogical Inference from Commonsense Knowledge**.  Gaole He, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. *In Proceedings of the 10th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2022)*. [\[PDF\]](Publications/HCOMP2022a.pdf) [\[Video\]](https://slideslive.com/38993029) (**Best Paper Award**)&#127942;
