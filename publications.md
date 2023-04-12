@@ -2,6 +2,8 @@
 
 ## 2023
 
+- \[[*UMAP 2023*](https://www.um.org/umap2023/)\] **A Missing Piece in the Puzzle: Considering the Role of Task Complexity in Human-AI Decision Making**. Sara Salimzadeh, Gaole He, Ujwal Gadiraju. *In Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2023)*. [\[PDF\]](Publications/UMAP2023.pdf)
+
 - \[[*CSCW 2023*](https://cscw.acm.org/2023/)\] **How Stated Accuracy of an AI System and Analogies to Explain Accuracy Affect Human Reliance on the Systems**. Gaole He, Stefan Buijsman, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2023)*. [\[PDF\]](Publications/CSCW2023.pdf)
 
 - \[[*CHI 2023*](https://chi2023.acm.org/)\] **Knowing About Knowing: An Illusion of Human Competence Can Hinder Appropriate Reliance on AI Systems**. Gaole He, Lucie Kuiper, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2023)*. [\[PDF\]](https://arxiv.org/pdf/2301.11333.pdf)
