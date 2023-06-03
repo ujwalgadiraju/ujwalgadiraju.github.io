@@ -12,6 +12,8 @@
 
 - \[[*CHI 2023*](https://chi2023.acm.org/)\] **Power-up! What Can Generative Models Do for Human Computation Workflows?**. Garrett Allen, Gaole He, Ujwal Gadiraju. *In Proceedings of the Generative AI Workshop at ACM International Conference on Human Factors in Computing Systems (CHI 2023)*. [\[PDF\]](Publications/CHI2023_GenAI.pdf)
 
+- \[[*CHI 2023*](https://chi2023.acm.org/)\] **Generating Process-Centric Explanations to Enable Contestability in Algorithmic Decision-Making: Challenges and Opportunities**. Mireia Yurrita, Agathe Balayn, Ujwal Gadiraju. *In Proceedings of the HCXAI 2023 Workshop at ACM International Conference on Human Factors in Computing Systems (CHI 2023)*. [\[PDF\]](https://arxiv.org/pdf/2305.00739)
+
 - \[[*IUI 2023*](https://iui.acm.org/2023/)\] **Supporting Requesters in Writing Clear Crowdsourcing Task Descriptions Through Computational Flaw Assessment**. Zahra Nouri, Nikhil Prakash, Ujwal Gadiraju, Henning Wachsmuth. *In Proceedings of the 29th ACM International Conference on Intelligent User Interfaces (IUI 2023)*. [\[PDF\]](Publications/IUI2023a.pdf)
 
 - \[[*IUI 2023*](https://iui.acm.org/2023/)\] **Perspective: Leveraging Human Understanding for Identifying and Characterizing Image Atypicality**. Shahin Sharifi, Sihang Qiu, Burcu Sayin, Agathe Balayn, Ujwal Gadiraju, Jie Yang, Alessandro Bozzon. *In Proceedings of the 29th ACM International Conference on Intelligent User Interfaces (IUI 2023)*. [\[PDF\]](Publications/IUI2023b.pdf)
