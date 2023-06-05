@@ -4,6 +4,8 @@
 
 - \[[*AIES 2023*](https://www.aies-conference.com/2023/)\] **"Fairness Toolkits, A Checkbox Culture?" On the Factors that Fragment Developer Practices in Handling Algorithmic Harms**. Agathe Balayn, Mireia Yurrita, Jie Yang and Ujwal Gadiraju. *In Proceedings of the 6th AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES 2023)*. [\[PDF\]](Publications/AIES2023.pdf)
 
+- \[[*HT 2023*](https://ht.acm.org/ht2023/)\] **ContextBot: Improving Response Consistency in Crowd-Powered Conversational Systems for Affective Support Tasks**. Yao Ma, Tahir Abbas, Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2023)*. [\[PDF\]](Publications/HT2023.pdf)
+
 - \[[*UMAP 2023*](https://www.um.org/umap2023/)\] **A Missing Piece in the Puzzle: Considering the Role of Task Complexity in Human-AI Decision Making**. Sara Salimzadeh, Gaole He, Ujwal Gadiraju. *In Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2023)*. [\[PDF\]](Publications/UMAP2023.pdf)
 
 - \[[*CSCW 2023*](https://cscw.acm.org/2023/)\] **How Stated Accuracy of an AI System and Analogies to Explain Accuracy Affect Human Reliance on the Systems**. Gaole He, Stefan Buijsman, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2023)*. [\[PDF\]](Publications/CSCW2023.pdf)
