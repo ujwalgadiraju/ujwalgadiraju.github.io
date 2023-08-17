@@ -2,7 +2,7 @@
 
 ## 2023
 
-- \[[*AIES 2023*](https://www.aies-conference.com/2023/)\] **"Fairness Toolkits, A Checkbox Culture?" On the Factors that Fragment Developer Practices in Handling Algorithmic Harms**. Agathe Balayn, Mireia Yurrita, Jie Yang and Ujwal Gadiraju. *In Proceedings of the 6th AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES 2023)*. [\[PDF\]](Publications/AIES2023.pdf)
+- &#127942; \[[*AIES 2023*](https://www.aies-conference.com/2023/)\] **"Fairness Toolkits, A Checkbox Culture?" On the Factors that Fragment Developer Practices in Handling Algorithmic Harms**. Agathe Balayn, Mireia Yurrita, Jie Yang and Ujwal Gadiraju. *In Proceedings of the 6th AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES 2023)*. [\[PDF\]](Publications/AIES2023.pdf) (**Best Student Paper Award**)&#127942;
 
 - \[[*HT 2023*](https://ht.acm.org/ht2023/)\] **ContextBot: Improving Response Consistency in Crowd-Powered Conversational Systems for Affective Support Tasks**. Yao Ma, Tahir Abbas, Ujwal Gadiraju. *In Proceedings of the ACM Conference on Hypertext and Social Media (HT 2023)*. [\[PDF\]](Publications/HT2023.pdf)
 
