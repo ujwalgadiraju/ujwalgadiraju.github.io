@@ -1,5 +1,9 @@
 # Selected Publications
 
+## 2024
+
+- \[[*CSCW 2024*](https://cscw.acm.org/2024/)\] **The State of Pilot Study Reporting in Crowdsourcing: A Reflection on Best Practices and Guidelines**. Gaole He, Stefan Buijsman, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2024)*. [\[PDF\]](https://arxiv.org/pdf/2312.08090.pdf)
+
 ## 2023
 
 - &#127942; \[[*AIES 2023*](https://www.aies-conference.com/2023/)\] **"Fairness Toolkits, A Checkbox Culture?" On the Factors that Fragment Developer Practices in Handling Algorithmic Harms**. Agathe Balayn, Mireia Yurrita, Jie Yang and Ujwal Gadiraju. *In Proceedings of the 6th AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES 2023)*. [\[PDF\]](Publications/AIES2023.pdf) (**Best Student Paper Award**)&#127942;
