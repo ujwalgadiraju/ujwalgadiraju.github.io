@@ -2,7 +2,7 @@
 
 ## 2024
 
-- \[[*CSCW 2024*](https://cscw.acm.org/2024/)\] **The State of Pilot Study Reporting in Crowdsourcing: A Reflection on Best Practices and Guidelines**. Gaole He, Stefan Buijsman, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2024)*. [\[PDF\]](https://arxiv.org/pdf/2312.08090.pdf)
+- \[[*CSCW 2024*](https://cscw.acm.org/2024/)\] **The State of Pilot Study Reporting in Crowdsourcing: A Reflection on Best Practices and Guidelines**. Jonas Oppenlaender, Tahir Abbas, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2024)*. [\[PDF\]](https://arxiv.org/pdf/2312.08090.pdf)
 
 ## 2023
 
