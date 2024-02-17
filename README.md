@@ -36,6 +36,7 @@ Ujwal's goal is to **create novel methods, interfaces, systems, and tools to ove
 - [ACM CHI 2024](https://chi2024.acm.org): Associate Chair for the *Understanding People - Statistical and Quantitative Methods* Subcommittee
 - [ACM SIGIR 2024](https://sigir-2024.github.io): Social Events Co-Chair
 - [ACM WebSci 2024](https://websci24.org): Workshops & Tutorials Co-Chair
+- [ACM FAccT 2024](https://facctconference.org): Area Chair for *Experiences & Interactions* and *System Development & Deployment*
 
 
 # News
