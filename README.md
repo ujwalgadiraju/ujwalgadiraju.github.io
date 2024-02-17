@@ -29,6 +29,15 @@ Ujwal's goal is to **create novel methods, interfaces, systems, and tools to ove
 ---
 -->
 
+# Recent Professional Service
+
+- [ACM CSCW 2024](https://cscw.acm.org/2024/): Editor
+- [AAAI HCOMP 2024](https://www.humancomputation.com): Conference & Program Co-chair
+- [ACM CHI 2024](https://chi2024.acm.org): Associate Chair for the *Understanding People - Statistical and Quantitative Methods* Subcommittee
+- [ACM SIGIR 2024](https://sigir-2024.github.io): Social Events Co-Chair
+- [ACM WebSci 2024](https://websci24.org): Workshops & Tutorials Co-Chair
+
+
 # News
 
 - \[13.01.2023\] [1 full paper](https://arxiv.org/pdf/2301.11333.pdf) accepted at the [ACM CHI 2023](http://chi2023.acm.org/).
