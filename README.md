@@ -29,7 +29,7 @@ Ujwal's goal is to **create novel methods, interfaces, systems, and tools to ove
 ---
 -->
 
-# Recent Professional Service
+# Recent/Current Professional Service
 
 - [ACM CSCW 2024](https://cscw.acm.org/2024/): Editor
 - [AAAI HCOMP 2024](https://www.humancomputation.com): Conference & Program Co-chair
