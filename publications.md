@@ -4,9 +4,9 @@
 
 - \[[*JAIR 2024*](https://jair.org)\] **Opening the Analogical Portal to Explainability: Can Analogies Help Laypeople in AI-assisted Decision Making?** Gaole He, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. ***Upcoming*** *In Journal of Artificial Intelligence Research (JAIR 2024)*. [\[PDF\]]()
 
-- \[[*CHI 2024*](https://chi2024.acm.org/)\] **Dealing with Uncertainty: Understanding the Impact of Prognostic Versus Diagnostic Tasks on Trust and Reliance in Human-AI Decision Making**. Sara Salimzadeh, Gaole He, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2024)*. [\[PDF\]]()
+- \[[*CHI 2024*](https://chi2024.acm.org/)\] **Dealing with Uncertainty: Understanding the Impact of Prognostic Versus Diagnostic Tasks on Trust and Reliance in Human-AI Decision Making**. Sara Salimzadeh, Gaole He, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2024)*. [\[PDF\]](Publications/CHI2024a.pdf)
 
-- \[[*CHI 2024*](https://chi2024.acm.org/)\] **”Are we all in the same boat?" Customizable and Evolving Avatars to Improve Worker Engagement and Foster a Sense of Community in Online Crowd Work**. Esra de Groot, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2024)*. [\[PDF\]]()
+- \[[*CHI 2024*](https://chi2024.acm.org/)\] **”Are we all in the same boat?" Customizable and Evolving Avatars to Improve Worker Engagement and Foster a Sense of Community in Online Crowd Work**. Esra de Groot, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2024)*. [\[PDF\]](Publications/CHI2024b.pdf)
 
 - \[[*CHI 2024*](https://chi2024.acm.org/)\] **Understanding Choice Independence and Error Types in Human-AI Collaboration**. Alexander Erlei, Abhinav Sharma, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2024)*. [\[PDF\]](Publications/CHI2024c.pdf)
 
