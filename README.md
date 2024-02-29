@@ -39,7 +39,7 @@ Ujwal's goal is to **create novel methods, interfaces, systems, and tools to ove
 - [ACM FAccT 2024](https://facctconference.org): Area Chair for *Experiences & Interactions* and *System Development & Deployment*
 
 
-# News
+# Not So News! 
 
 - \[13.01.2023\] [1 full paper](https://arxiv.org/pdf/2301.11333.pdf) accepted at the [ACM CHI 2023](http://chi2023.acm.org/).
 - \[30.11.2022\] 2 full research track papers, 1 open science track paper, and 1 tutorial accepted at [ACM IUI 2023](https://iui.acm.org/2023/index.html).
