@@ -2,6 +2,8 @@
 
 ## 2024
 
+- \[[*FAccT 2024*](https://chi2024.acm.org/)\] **Akal Badi ya Bias: An Exploratory Study of Gender Bias in Hindi**. Rishav Hada, Safiya Husain, Varun Gumma, Harshita Diddee, Aditya Yadavalli, Agrima Seth, Nidhi Kulkarni, Ujwal Gadiraju, Aditya Vashistha, Vivek Seshadri, Kalika Bali. *In Proceedings of the ACM CHI Workshop on : [Human-Centered Explainable AI](https://hcxai.jimdosite.com) at ACM International Conference on Human Factors in Computing Systems (CHI 2024)*. [\[PDF\]]()
+
 - \[[*CHI 2024*](https://chi2024.acm.org/)\] **Understanding Stakeholders' Perceptions and Needs Across the LLM Supply Chain**. Agathe Balayn, Lorenzo Corti, Fanny Rancourt, Fabio Casati and Ujwal Gadiraju. *In Proceedings of the ACM CHI Workshop on : [Human-Centered Explainable AI](https://hcxai.jimdosite.com) at ACM International Conference on Human Factors in Computing Systems (CHI 2024)*. [\[PDF\]]()
 
 - \[[*CHI 2024*](https://chi2024.acm.org/)\] **An Empirical Exploration of Trust Dynamics in LLM Supply Chains**. Agathe Balayn, Mireia Yurrita, Fanny Rancourt, Fabio Casati, Ujwal Gadiraju. *In Proceedings of the TREW Workshop: [Trust and Reliance in Evolving Human-AI Workflows](https://chi-trew.github.io/#/) at ACM International Conference on Human Factors in Computing Systems (CHI 2024)*. [\[PDF\]]()
