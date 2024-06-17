@@ -2,7 +2,7 @@
 
 ## 2024
 
-\[[*ACM TSC 2024*](https://dl.acm.org/journal/tsc)\] **Longitudinal Loyalty: Understanding The Barriers To Running Longitudinal Studies On Crowdsourcing Platforms**. Michael Soprano, Kevin Roitero, Ujwal Gadiraju, Eddy Maddelena, and Gianluca Demartini. *In Proceedings of the ACM Transactions on Social Computing (2024)*. [\[PDF\]]()
+- \[[*ACM TSC 2024*](https://dl.acm.org/journal/tsc)\] **Longitudinal Loyalty: Understanding The Barriers To Running Longitudinal Studies On Crowdsourcing Platforms**. Michael Soprano, Kevin Roitero, Ujwal Gadiraju, Eddy Maddelena, and Gianluca Demartini. *In Proceedings of the ACM Transactions on Social Computing (2024)*. [\[PDF\]]()
 
 - &#127942; \[[*FAccT 2024*](https://chi2024.acm.org/)\] **Akal Badi ya Bias: An Exploratory Study of Gender Bias in Hindi**. Rishav Hada, Safiya Husain, Varun Gumma, Harshita Diddee, Aditya Yadavalli, Agrima Seth, Nidhi Kulkarni, Ujwal Gadiraju, Aditya Vashistha, Vivek Seshadri, Kalika Bali. *In Proceedings of the seventh annual [ACM FAccT conference](https://facctconference.org/2024/) (FAccT 2024)*. [\[PDF\]](Publications/FAccT2024.pdf) (**Best Paper Award**) &#127942;
 
