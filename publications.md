@@ -4,6 +4,8 @@
 
 - \[[*AAAI HCOMP 2024*](https://www.humancomputation.com/index.html)\] **"Hi. I'm Molly, your virtual interviewer!" --- Exploring the Impact of Race and Gender in AI-powered Virtual Interview Experiences**. Shreyan Biswas, Ji-Youn Jung, Abhishek Unnam, Kuldeep Yadav, Shreyansh Gupta, and Ujwal Gadiraju. *In Proceedings of the 12th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2024)*. [\[PDF\]](Publications/HCOMP2024.pdf)
 
+- &#127942; \[[*ACM ICMI 2024*](https://icmi.acm.org/2024/)\] **Everything We Hear: Towards Tackling Misinformation in Podcasts**. Sachin Pathiyan Cherumanal, Ujwal Gadiraju, and Damiano Spina. *Blue Sky Paper Track of the 26th ACM International Conference on Multimodal Interaction (ICMI 2024)*. [\[PDF\]](Publications/ICMI2024.pdf) &#127942;
+
 - \[[*ACM TSC 2024*](https://dl.acm.org/journal/tsc)\] **Longitudinal Loyalty: Understanding The Barriers To Running Longitudinal Studies On Crowdsourcing Platforms**. Michael Soprano, Kevin Roitero, Ujwal Gadiraju, Eddy Maddelena, and Gianluca Demartini. *In Proceedings of the ACM Transactions on Social Computing (2024)*. [\[PDF\]](Publications/TSC_Longitudinal_Loyalty.pdf)
 
 - &#127942; \[[*FAccT 2024*](https://chi2024.acm.org/)\] **Akal Badi ya Bias: An Exploratory Study of Gender Bias in Hindi**. Rishav Hada, Safiya Husain, Varun Gumma, Harshita Diddee, Aditya Yadavalli, Agrima Seth, Nidhi Kulkarni, Ujwal Gadiraju, Aditya Vashistha, Vivek Seshadri, Kalika Bali. *In Proceedings of the seventh annual [ACM FAccT conference](https://facctconference.org/2024/) (FAccT 2024)*. [\[PDF\]](Publications/FAccT2024.pdf) (**Best Paper Award**) &#127942;
