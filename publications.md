@@ -20,7 +20,7 @@
 
 - \[[*UMAP 2024*](https://www.um.org/umap2024/)\] **Disentangling Web Search on Debated Topics: A User-Centered Exploration**. Alisa Rieger, Suleiman Kulane, Ujwal Gadiraju, Maria Soledad Pera. *In Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2024)*. [\[PDF\]](Publications/UMAP2024b.pdf)
 
-- \[[*JAIR 2024*](https://jair.org)\] **Opening the Analogical Portal to Explainability: Can Analogies Help Laypeople in AI-assisted Decision Making?** Gaole He, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. *In Journal of Artificial Intelligence Research (JAIR 2024)*. [\[PDF\]]()
+- \[[*JAIR 2024*](https://jair.org)\] **Opening the Analogical Portal to Explainability: Can Analogies Help Laypeople in AI-assisted Decision Making?** Gaole He, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. *In Journal of Artificial Intelligence Research (JAIR 2024)*. [\[PDF\]](Publications/JAIR2024.pdf)
 
 - \[[*CHI 2024*](https://chi2024.acm.org/)\] **Dealing with Uncertainty: Understanding the Impact of Prognostic Versus Diagnostic Tasks on Trust and Reliance in Human-AI Decision Making**. Sara Salimzadeh, Gaole He, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2024)*. [\[PDF\]](Publications/CHI2024a.pdf)
 
