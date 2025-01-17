@@ -1,5 +1,15 @@
 # Selected Publications
 
+## 2025
+
+- \[[*CHI 2025*](https://chi2025.acm.org/)\] **Mind the Gap! Choice Independence in Using Multilingual LLMs for Persuasive Co-Writing Tasks in Different Languages**. Shreyan Biswas, Alexander Erlei, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2025)*. [\[PDF\]](Publications/CHI2025a.pdf)
+
+- \[[*CHI 2025*](https://chi2025.acm.org/)\] **Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant**. Gaole He, Gianluca Demartini, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2025)*. [\[PDF\]](Publications/CHI2025b.pdf)
+
+- \[[*CHI 2025*](https://chi2025.acm.org/)\] **Unpacking Trust Dynamics in the LLM Supply Chain: An Empirical Exploration to Foster Trustworthy LLM Production & Use**. Agathe Balayn, Mireia Yurrita, Fanny Rancourt, Fabio Casati, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2025)*. [\[PDF\]](Publications/CHI2025c.pdf)
+
+- \[[*CHI 2025*](https://chi2025.acm.org/)\] **Towards Effective Human Intervention in Algorithmic Decision-Making: Understanding the Effect of Decision-Makers' Configuration on Decision-Subjects' Fairness Perceptions**. Mireia Yurrita, Himanshu Verma, Agathe Balayn, Ujwal Gadiraju, Sylvia Pont, Alessandro Bozzon. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2025)*. [\[PDF\]](Publications/CHI2025d.pdf)
+
 ## 2024
 
 - \[[*AAAI HCOMP 2024*](https://www.humancomputation.com/index.html)\] **"Hi. I'm Molly, your virtual interviewer!" --- Exploring the Impact of Race and Gender in AI-powered Virtual Interview Experiences**. Shreyan Biswas, Ji-Youn Jung, Abhishek Unnam, Kuldeep Yadav, Shreyansh Gupta, and Ujwal Gadiraju. *In Proceedings of the 12th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2024)*. [\[PDF\]](Publications/HCOMP2024.pdf)
