@@ -2,6 +2,10 @@
 
 ## 2025
 
+- \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**. Ivica Kostric, Krisztian Balog, Ujwal Gadiraju. *In Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025a.pdf)
+
+- \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **“Even Explanations Will Not Help in Trusting [this] Fundamentally Biased System”: A Predictive Policing Case-Study**. Siddharth Mehrotra, Ujwal Gadiraju, Eva Bittner, Folkert van Delden, Catholijn M. Jonker, Myrthe L. Tielman. *In Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025b.pdf)
+
 - \[[*CHI 2025*](https://chi2025.acm.org/)\] **Mind the Gap! Choice Independence in Using Multilingual LLMs for Persuasive Co-Writing Tasks in Different Languages**. Shreyan Biswas, Alexander Erlei, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2025)*. [\[PDF\]](Publications/CHI2025a.pdf)
 
 - \[[*CHI 2025*](https://chi2025.acm.org/)\] **Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant**. Gaole He, Gianluca Demartini, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2025)*. [\[PDF\]](https://arxiv.org/pdf/2502.01390)
