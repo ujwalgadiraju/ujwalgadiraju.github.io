@@ -2,13 +2,13 @@
 
 ## 2025
 
-- \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**. Ivica Kostric, Krisztian Balog, Ujwal Gadiraju. *In Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025a.pdf)
+- \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**. Ivica Kostric, Krisztian Balog, Ujwal Gadiraju. *In Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025a.pdf)
 
-- \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **“Even Explanations Will Not Help in Trusting [this] Fundamentally Biased System”: A Predictive Policing Case-Study**. Siddharth Mehrotra, Ujwal Gadiraju, Eva Bittner, Folkert van Delden, Catholijn M. Jonker, Myrthe L. Tielman. *In Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025b.pdf)
+- \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **“Even Explanations Will Not Help in Trusting [this] Fundamentally Biased System”: A Predictive Policing Case-Study**. Siddharth Mehrotra, Ujwal Gadiraju, Eva Bittner, Folkert van Delden, Catholijn M. Jonker, Myrthe L. Tielman. *In Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025b.pdf)
 
 -  \[[*CHI Work 2025*](https://chiwork.org)\] **Making the Switch: Towards Intelligent Integration of Gestures As an Input Modality for Microtask Crowdsourcing**. Garrett Allen, Ujwal Gadiraju. *In Proceedings of the 4th Annual Meeting of the Symposium on Human-Computer Interaction for Work*. [\[PDF\]](Publications/CHIWork2025a.pdf)
 
--  \[[*CHI Work 2025*](https://chiwork.org)\] **HealthInsights: An Online Conversational Survey for Understanding Worker Health in Crowdsourcing Platforms**. Sihang Qiu, Xiaolong Zheng. *In Proceedings of the 4th Annual Meeting of the Symposium on Human-Computer Interaction for Work*. [\[PDF\]](Publications/CHIWork2025b.pdf)
+-  \[[*CHI Work 2025*](https://chiwork.org)\] **HealthInsights: An Online Conversational Survey for Understanding Worker Health in Crowdsourcing Platforms**. Sihang Qiu, Ujwal Gadiraju, Xiaolong Zheng. *In Proceedings of the 4th Annual Meeting of the Symposium on Human-Computer Interaction for Work*. [\[PDF\]](Publications/CHIWork2025b.pdf)
 
 - \[[*CHI 2025*](https://chi2025.acm.org/)\] **Mind the Gap! Choice Independence in Using Multilingual LLMs for Persuasive Co-Writing Tasks in Different Languages**. Shreyan Biswas, Alexander Erlei, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2025)*. [\[PDF\]](Publications/CHI2025a.pdf)
 
