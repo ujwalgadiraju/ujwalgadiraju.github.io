@@ -14,7 +14,7 @@
 
 - \[[*CHI 2025*](https://chi2025.acm.org/)\] **Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant**. Gaole He, Gianluca Demartini, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2025)*. [\[PDF\]](https://arxiv.org/pdf/2502.01390)
 
-- \[[*CHI 2025*](https://chi2025.acm.org/)\] **Unpacking Trust Dynamics in the LLM Supply Chain: An Empirical Exploration to Foster Trustworthy LLM Production & Use**. Agathe Balayn, Mireia Yurrita, Fanny Rancourt, Fabio Casati, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2025)*. [\[PDF\]](Publications/CHI2025c.pdf)
+- &#127941; \[[*CHI 2025*](https://chi2025.acm.org/)\] **Unpacking Trust Dynamics in the LLM Supply Chain: An Empirical Exploration to Foster Trustworthy LLM Production & Use**. Agathe Balayn, Mireia Yurrita, Fanny Rancourt, Fabio Casati, Ujwal Gadiraju. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2025)*. [\[PDF\]](Publications/CHI2025c.pdf) &#127941; 
 
 - \[[*CHI 2025*](https://chi2025.acm.org/)\] **Towards Effective Human Intervention in Algorithmic Decision-Making: Understanding the Effect of Decision-Makers' Configuration on Decision-Subjects' Fairness Perceptions**. Mireia Yurrita, Himanshu Verma, Agathe Balayn, Ujwal Gadiraju, Sylvia Pont, Alessandro Bozzon. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2025)*. [\[PDF\]](Publications/CHI2025d.pdf)
 
