@@ -2,9 +2,9 @@
 
 ## 2025
 
-- \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**. Ivica Kostric, Krisztian Balog, Ujwal Gadiraju. *In Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025a.pdf)
+- \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**. Ivica Kostric, Krisztian Balog, Ujwal Gadiraju. *In Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025a.pdf)
 
-- \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **“Even Explanations Will Not Help in Trusting [this] Fundamentally Biased System”: A Predictive Policing Case-Study**. Siddharth Mehrotra, Ujwal Gadiraju, Eva Bittner, Folkert van Delden, Catholijn M. Jonker, Myrthe L. Tielman. *In Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025b.pdf)
+- \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **“Even Explanations Will Not Help in Trusting [this] Fundamentally Biased System”: A Predictive Policing Case-Study**. Siddharth Mehrotra, Ujwal Gadiraju, Eva Bittner, Folkert van Delden, Catholijn M. Jonker, Myrthe L. Tielman. *In Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025b.pdf)
 
 -  \[[*CHI Work 2025*](https://chiwork.org)\] **Making the Switch: Towards Intelligent Integration of Gestures As an Input Modality for Microtask Crowdsourcing**. Garrett Allen, Ujwal Gadiraju. *In Proceedings of the 4th Annual Meeting of the Symposium on Human-Computer Interaction for Work*. [\[PDF\]](Publications/CHIWork2025a.pdf)
 
@@ -36,9 +36,9 @@
 
 - \[[*CHI 2024*](https://chi2024.acm.org/)\] **An Empirical Exploration of Trust Dynamics in LLM Supply Chains**. Agathe Balayn, Mireia Yurrita, Fanny Rancourt, Fabio Casati, Ujwal Gadiraju. *In Proceedings of the TREW Workshop: [Trust and Reliance in Evolving Human-AI Workflows](https://chi-trew.github.io/#/) at ACM International Conference on Human Factors in Computing Systems (CHI 2024)*. [\[PDF\]]()
 
-- \[[*UMAP 2024*](https://www.um.org/umap2024/)\] **When in Doubt! Understanding the Role of Task Characteristics on Peer Decision-Making with AI Assistance**. Sara Salimzadeh, Ujwal Gadiraju. *In Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2024)*. [\[PDF\]](Publications/UMAP2024a.pdf)
+- \[[*UMAP 2024*](https://www.um.org/umap2024/)\] **When in Doubt! Understanding the Role of Task Characteristics on Peer Decision-Making with AI Assistance**. Sara Salimzadeh, Ujwal Gadiraju. *In Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2024)*. [\[PDF\]](Publications/UMAP2024a.pdf)
 
-- \[[*UMAP 2024*](https://www.um.org/umap2024/)\] **Disentangling Web Search on Debated Topics: A User-Centered Exploration**. Alisa Rieger, Suleiman Kulane, Ujwal Gadiraju, Maria Soledad Pera. *In Proceedings of the 30th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2024)*. [\[PDF\]](Publications/UMAP2024b.pdf)
+- \[[*UMAP 2024*](https://www.um.org/umap2024/)\] **Disentangling Web Search on Debated Topics: A User-Centered Exploration**. Alisa Rieger, Suleiman Kulane, Ujwal Gadiraju, Maria Soledad Pera. *In Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2024)*. [\[PDF\]](Publications/UMAP2024b.pdf)
 
 - \[[*JAIR 2024*](https://jair.org)\] **Opening the Analogical Portal to Explainability: Can Analogies Help Laypeople in AI-assisted Decision Making?** Gaole He, Agathe Balayn, Stefan Buijsman, Jie Yang, Ujwal Gadiraju. *In Journal of Artificial Intelligence Research (JAIR 2024)*. [\[PDF\]](Publications/JAIR2024.pdf)
 
