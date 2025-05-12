@@ -2,6 +2,8 @@
 
 ## 2025
 
+- \[[*EWAF 2025*](https://2025.ewaf.org/home)\] **Harmful Impacts of ML: Empirically Triangulating the Concerns and Practices of Developers**. Agathe Balayn, Ujwal Gadiraju. *In Proceedings of the Fourth European Workshop on Algorithmic Fairness (EWAF 2025)*. [\[PDF\]](Publications/EWAF2025.pdf)
+
 - \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**. Ivica Kostric, Krisztian Balog, Ujwal Gadiraju. *In Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025a.pdf)
 
 - \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **“Even Explanations Will Not Help in Trusting [this] Fundamentally Biased System”: A Predictive Policing Case-Study**. Siddharth Mehrotra, Ujwal Gadiraju, Eva Bittner, Folkert van Delden, Catholijn M. Jonker, Myrthe L. Tielman. *In Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025b.pdf)
