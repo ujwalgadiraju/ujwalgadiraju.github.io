@@ -52,7 +52,7 @@
 
 - \[[*CSCW 2024*](https://cscw.acm.org/2024/)\] **The State of Pilot Study Reporting in Crowdsourcing: A Reflection on Best Practices and Guidelines**. Jonas Oppenlaender, Tahir Abbas, Ujwal Gadiraju. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2024)*. [\[PDF\]](https://arxiv.org/pdf/2312.08090.pdf) [\[Slides\]](Publications/CSCW2024_CrowdPilotStudies.pdf) [\[Slides PPT\]](Publications/CSCW2024_CrowdPilotStudies2.pptx)
 
-- \[[*ECIR 2024*](https://www.ecir2024.org)\] **Responsible Opinion Formation on Debated Topics in Web Search**. Alisa Rieger, Tim Draws, Nicolas Mattis, David Maxwell, David Elsweiler, Ujwal Gadiraju, Dana McKay, Alessandro Bozzon and Maria Soledad Pera. *In Proceedings of the 46th European Conference on Information Retrieval (ECIR 2024)*. [\[PDF\]]()
+- \[[*ECIR 2024*](https://www.ecir2024.org)\] **Responsible Opinion Formation on Debated Topics in Web Search**. Alisa Rieger, Tim Draws, Nicolas Mattis, David Maxwell, David Elsweiler, Ujwal Gadiraju, Dana McKay, Alessandro Bozzon and Maria Soledad Pera. *In Proceedings of the 46th European Conference on Information Retrieval (ECIR 2024)*. [\[PDF\]](Publications/ECIR2024.pdf)
 
 ## 2023
 
