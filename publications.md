@@ -20,6 +20,8 @@
 
 - \[[*CHI 2025*](https://chi2025.acm.org/)\] **Towards Effective Human Intervention in Algorithmic Decision-Making: Understanding the Effect of Decision-Makers' Configuration on Decision-Subjects' Fairness Perceptions**. Mireia Yurrita, Himanshu Verma, Agathe Balayn, Ujwal Gadiraju, Sylvia Pont, Alessandro Bozzon. *In Proceedings of the ACM International Conference on Human Factors in Computing Systems (CHI 2025)*. [\[PDF\]](Publications/CHI2025d.pdf)
 
+- \[[*CSCW 2025*](https://cscw.acm.org/2025/)\] **Identifying Algorithmic Decision Subjects' Needs for Meaningful Contestability**. Mireia Yurrita, Himanshu Verma, Agathe Balayn, Kars Alfrink, Ujwal Gadiraju, Alessandro Bozzon. *In Proceedings of the ACM on Human-Computer Interaction (CSCW 2025)*. [\[PDF\]]()
+
 - \[[*IUI 2025*](https://iui.acm.org/2025/)\] **Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant**. Gaole He, Nilay Aishwarya, Ujwal Gadiraju. *In Proceedings of the 30th ACM International Conference on Intelligent User Interfaces (IUI 2025)*. [\[PDF\]](https://arxiv.org/pdf/2501.17546)
 
 ## 2024
