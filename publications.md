@@ -2,6 +2,8 @@
 
 ## 2025
 
+- \[[*CI 2025*](https://ci.acm.org/2025/)\] **Quo Vadis, HCOMP? A Review of 12 Years of Research at the Frontier of Human Computation and Crowdsourcing**. Jonas Oppenlaender, Ujwal Gadiraju, Simo Hosio. *In Proceedings of the Collective Intelligence Conference (CI 2025)*. [\[PDF\]](Publications/CI2025.pdf)
+
 - \[[*EWAF 2025*](https://2025.ewaf.org/home)\] **Harmful Impacts of ML: Empirically Triangulating the Concerns and Practices of Developers**. Agathe Balayn, Ujwal Gadiraju. *In Proceedings of the Fourth European Workshop on Algorithmic Fairness (EWAF 2025)*. [\[PDF\]](Publications/EWAF2025.pdf)
 
 - \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**. Ivica Kostric, Krisztian Balog, Ujwal Gadiraju. *In Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025a.pdf)
