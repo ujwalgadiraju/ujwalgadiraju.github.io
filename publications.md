@@ -8,7 +8,7 @@
 
 - \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**. Ivica Kostric, Krisztian Balog, Ujwal Gadiraju. *In Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025a.pdf)
 
-- \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **“Even Explanations Will Not Help in Trusting [this] Fundamentally Biased System”: A Predictive Policing Case-Study**. Siddharth Mehrotra, Ujwal Gadiraju, Eva Bittner, Folkert van Delden, Catholijn M. Jonker, Myrthe L. Tielman. *In Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](Publications/UMAP2025b.pdf)
+- \[[*UMAP 2025*](https://www.um.org/umap2025/)\] **“Even Explanations Will Not Help in Trusting [this] Fundamentally Biased System”: A Predictive Policing Case-Study**. Siddharth Mehrotra, Ujwal Gadiraju, Eva Bittner, Folkert van Delden, Catholijn M. Jonker, Myrthe L. Tielman. *In Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2025)*. [\[PDF\]](https://arxiv.org/pdf/2504.11020)
 
 - \[[*CHI Work 2025*](https://chiwork.org)\] **Making the Switch: Towards Intelligent Integration of Gestures As an Input Modality for Microtask Crowdsourcing**. Garrett Allen, Ujwal Gadiraju. *In Proceedings of the 4th Annual Meeting of the Symposium on Human-Computer Interaction for Work*. [\[PDF\]](Publications/CHIWork2025a.pdf)
   
