@@ -3,12 +3,12 @@
 <img src="https://images.unsplash.com/photo-1494059980473-813e73ee784b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80"  alt="" width="240" style="padding-right:10px;padding-top:10px" align="right">
 
 ## Research & Thesis Projects 
-I offer research and thesis projects for Bachelor and Master students on a first come, first serve basis. You can receive a broad overview of the research topics available within the Kappa research line on Crowd Computing and Human-Centered AI by reaching out to me. <!--- <a href="kappa">here</a>. -->
+I offer research and thesis projects for Bachelor and Master students on a first come, first serve basis. You can receive a broad overview of the research topics available within the broad scope of Human-Centered AI, Human-AI Interaction, and Crowd Computing by reaching out to me. <!--- <a href="kappa">here</a>. -->
 
 If you are interested in working with me, feel free to drop me an email and I will get back to you *ASAP*!
 
 
-## MSc. Thesis Projects - Completed
+## Examples of Completed MSc. Thesis Projects from Previous Years
 
 - *Effects of Time Constraints and Search Results Presentation on Web Search*.  **Mike Beijen**. [\[PDF\]](Publications/MSc_Thesis_Mike_Beijen.pdf)
 - *Impact of Biased Search Results on User Engagement in Web Search*.  **Wessel Turk**. [\[PDF\]](Publications/MSc_Thesis_Wessel_Turk.pdf)
