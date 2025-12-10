@@ -2,8 +2,7 @@
 
 ## 2026
 
-- \[[*CHIIR 2026*](https://chiir2026.github.io)\] **From SERPs to Sound: How Search Engine Result Pages and AI-generated Podcasts Interact to Influence User Attitudes on Controversial Topics. Junjie Wang, Gaole He, Alisa Rieger, Ujwal Gadiraju. *In Proceedings of ACM SIGIR Conference on
-Human Information Interaction and Retrieval (CHIIR)*. [\[PDF\]](Publications/CHIIR2026.pdf)
+- \[[*CHIIR 2026*](https://chiir2026.github.io)\] **From SERPs to Sound: How Search Engine Result Pages and AI-generated Podcasts Interact to Influence User Attitudes on Controversial Topics**. Junjie Wang, Gaole He, Alisa Rieger, Ujwal Gadiraju. *In Proceedings of ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR)*. [\[PDF\]](Publications/CHIIR2026.pdf)
 
 ## 2025
 
