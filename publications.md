@@ -1,5 +1,10 @@
 # Selected Publications
 
+## 2026
+
+- \[[*CHIIR 2026*](https://chiir2026.github.io)\] **From SERPs to Sound: How Search Engine Result Pages and AI-generated Podcasts Interact to Influence User Attitudes on Controversial Topics. *In Proceedings of ACM SIGIR Conference on
+Human Information Interaction and Retrieval (CHIIR)*. [\[PDF\]](Publications/CHIIR2026.pdf)
+
 ## 2025
 
 - &#127941; \[[*CI 2025*](https://ci.acm.org/2025/)\] **Quo Vadis, HCOMP? A Review of 12 Years of Research at the Frontier of Human Computation and Crowdsourcing**. Jonas Oppenlaender, Ujwal Gadiraju, Simo Hosio. *In Proceedings of the Collective Intelligence Conference (CI 2025)*. [\[PDF\]](Publications/CI2025.pdf) &#127941; 
